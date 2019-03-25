@@ -2,48 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pawel Mackiewicz on MI2 DataLab</title>
-    <link>/mi2-test2/authors/pawel-mackiewicz/</link>
+    <link>https://michbur.github.io/mi2-test2/authors/pawel-mackiewicz/</link>
     <description>Recent content in Pawel Mackiewicz on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/mi2-test2/authors/pawel-mackiewicz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/pawel-mackiewicz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PhyMet2: A Database and Toolkit for Phylogenetic and Metabolic Analyses of Methanogens</title>
-      <link>/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</link>
+      <link>https://michbur.github.io/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of Signal Peptides in Proteins from Malaria Parasites</title>
-      <link>/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</link>
+      <link>https://michbur.github.io/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amyloidogenic Motifs Revealed by N-Gram Analysis</title>
-      <link>/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
+      <link>https://michbur.github.io/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methods of Comparing Digital PCR Experiments</title>
-      <link>/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
+      <link>https://michbur.github.io/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods of Comparing Digital PCR Experiments</title>
+      <link>https://michbur.github.io/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation of asymmetric mutational pressure and selection pressure around the universal genetic code</title>
+      <link>https://michbur.github.io/mi2-test2/publication/mackiewicz2008optimisation/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/mackiewicz2008optimisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relationships between the isoelectric point and: length of proteins, taxonomy and ecology of organisms</title>
+      <link>https://michbur.github.io/mi2-test2/publication/kiraga2007relationships/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/kiraga2007relationships/</guid>
       <description></description>
     </item>
     

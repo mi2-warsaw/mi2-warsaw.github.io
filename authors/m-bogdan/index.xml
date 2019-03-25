@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Bogdan on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/m-bogdan/</link>
+    <description>Recent content in M Bogdan on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/m-bogdan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Locating multiple interacting quantitative trait loci with the modified version of Bayesian Information Criterion</title>
+      <link>https://michbur.github.io/mi2-test2/publication/biecek2010ddst/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/biecek2010ddst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified version of Bayesian Information criterion for localization of multiple interacting quantitative trait loci</title>
+      <link>https://michbur.github.io/mi2-test2/publication/bogdan2005modified/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/bogdan2005modified/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

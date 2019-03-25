@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcin Kosinski on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/marcin-kosinski/</link>
+    <description>Recent content in Marcin Kosinski on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/marcin-kosinski/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference Report: European R Users Meeting 2016</title>
+      <link>https://michbur.github.io/mi2-test2/publication/tracz2017molecular/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/tracz2017molecular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular chaperones in the acquisition of cancer cell chemoresistance with mutated TP53 and MDM2 up-regulation</title>
+      <link>https://michbur.github.io/mi2-test2/publication/nowaczewska2017relationship/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/nowaczewska2017relationship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Package ‘survminer’</title>
+      <link>https://michbur.github.io/mi2-test2/publication/gosiewska2019safe/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/gosiewska2019safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archivist: An R package for managing, recording and restoring data analysis results</title>
+      <link>https://michbur.github.io/mi2-test2/publication/czerwinska2017trim28/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/czerwinska2017trim28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Package ‘RTCGA’</title>
+      <link>https://michbur.github.io/mi2-test2/publication/biecek2017archivist/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/biecek2017archivist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTCGA: The cancer genome atlas data integration</title>
+      <link>https://michbur.github.io/mi2-test2/publication/staniak2018explanations/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/staniak2018explanations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

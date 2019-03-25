@@ -2,39 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MI2 DataLab</title>
-    <link>/mi2-test2/tags/</link>
+    <link>https://michbur.github.io/mi2-test2/tags/</link>
     <description>Recent content in Tags on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/mi2-test2/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://michbur.github.io/mi2-test2/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>/mi2-test2/tags/deep-learning/</link>
+      <link>https://michbur.github.io/mi2-test2/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/mi2-test2/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dpcR</title>
-      <link>/mi2-test2/tags/dpcr/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/mi2-test2/tags/dpcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>qpcR</title>
-      <link>/mi2-test2/tags/qpcr/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/mi2-test2/tags/qpcr/</guid>
+      <guid>https://michbur.github.io/mi2-test2/tags/deep-learning/</guid>
       <description></description>
     </item>
     

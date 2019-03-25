@@ -2,40 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning on MI2 DataLab</title>
-    <link>/mi2-test2/tags/deep-learning/</link>
+    <link>https://michbur.github.io/mi2-test2/tags/deep-learning/</link>
     <description>Recent content in Deep Learning on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/mi2-test2/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://michbur.github.io/mi2-test2/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jan Kowalski</title>
-      <link>/mi2-test2/member/jankowalski/</link>
+      <title>Anna Kowalska</title>
+      <link>https://michbur.github.io/mi2-test2/member/annakowalska/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/mi2-test2/member/jankowalski/</guid>
+      <guid>https://michbur.github.io/mi2-test2/member/annakowalska/</guid>
       <description>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada.</description>
     </item>
     
     <item>
-      <title>Project 1</title>
-      <link>/mi2-test2/project/project1/</link>
+      <title>Piotr Szczygieł</title>
+      <link>https://michbur.github.io/mi2-test2/member/piotrszczygie%C5%82/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/mi2-test2/project/project1/</guid>
+      <guid>https://michbur.github.io/mi2-test2/member/piotrszczygie%C5%82/</guid>
       <description>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada.</description>
-    </item>
-    
-    <item>
-      <title>Project 2</title>
-      <link>/mi2-test2/project/project2/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/mi2-test2/project/project2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
     </item>
     
   </channel>

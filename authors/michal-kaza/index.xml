@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michal Kaza on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/michal-kaza/</link>
+    <description>Recent content in Michal Kaza on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/michal-kaza/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Incurred Sample Reanalysis: Time to Change the Sample Size Calculation?</title>
+      <link>https://michbur.github.io/mi2-test2/publication/michalik2019ultralow/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/michalik2019ultralow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended 3D and 4D cumulative plots for evaluation of unmatched incurred sample reanalysis</title>
+      <link>https://michbur.github.io/mi2-test2/publication/rudzki2017comprehensive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/rudzki2017comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive graphical presentation of data from incurred sample reanalysis</title>
+      <link>https://michbur.github.io/mi2-test2/publication/drozd2018atypical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/drozd2018atypical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

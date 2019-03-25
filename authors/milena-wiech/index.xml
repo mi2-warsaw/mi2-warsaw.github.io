@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Milena Wiech on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/milena-wiech/</link>
+    <description>Recent content in Milena Wiech on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/milena-wiech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Molecular chaperones in the acquisition of cancer cell chemoresistance with mutated TP53 and MDM2 up-regulation</title>
+      <link>https://michbur.github.io/mi2-test2/publication/nowaczewska2017relationship/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/nowaczewska2017relationship/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

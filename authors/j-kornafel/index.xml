@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Kornafel on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/j-kornafel/</link>
+    <description>Recent content in J Kornafel on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/j-kornafel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>256. CK5/6-the Old/new Prognostic and Predictive Marker in Breast Cancer?</title>
+      <link>https://michbur.github.io/mi2-test2/publication/matkowski2012256/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/matkowski2012256/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P186 Prognostic role of VEGFR1--3 immunoreactivity in breast cancer patients</title>
+      <link>https://michbur.github.io/mi2-test2/publication/gisterek2011p186/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/gisterek2011p186/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VASCULAR ENDOTHELIAL GROWTH FACTOR C SERUM LEVELS IN PATIENTS WITH BREAST CANCER</title>
+      <link>https://michbur.github.io/mi2-test2/publication/gosiewska2018auditor/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/gosiewska2018auditor/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

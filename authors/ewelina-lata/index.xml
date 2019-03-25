@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ewelina Lata on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/ewelina-lata/</link>
+    <description>Recent content in Ewelina Lata on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/ewelina-lata/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prognostic role of c-met expression in breast cancer patients</title>
+      <link>https://michbur.github.io/mi2-test2/publication/gisterek2011prognostic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/gisterek2011prognostic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic role of c-met expression in breast cancer patients</title>
+      <link>https://michbur.github.io/mi2-test2/publication/kustrzycki2012risk/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/kustrzycki2012risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation between hepatocyte growth factor receptor and vascular endothelial growth factor-A in breast carcinoma.</title>
+      <link>https://michbur.github.io/mi2-test2/publication/gisterek2010correlation/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/gisterek2010correlation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

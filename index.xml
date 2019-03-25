@@ -2,161 +2,148 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MI2 DataLab on MI2 DataLab</title>
-    <link>/mi2-test2/</link>
+    <link>https://michbur.github.io/mi2-test2/</link>
     <description>Recent content in MI2 DataLab on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2999 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2019 21:53:41 +0100</lastBuildDate>
     <atom:link href="/mi2-test2/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Enabling Reproducible Real-Time Quantitative PCR Research: The RDML Package</title>
-      <link>/mi2-test2/publication/rodigerenablingreproduciblerealtimea/</link>
-      <pubDate>Tue, 01 Jan 2999 00:00:00 +0000</pubDate>
-      
-      <guid>/mi2-test2/publication/rodigerenablingreproduciblerealtimea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lorem ipsum dolor sit amet</title>
-      <link>/mi2-test2/post/p1/</link>
+      <link>https://michbur.github.io/mi2-test2/post/p1/</link>
       <pubDate>Sun, 03 Mar 2019 21:53:41 +0100</pubDate>
       
-      <guid>/mi2-test2/post/p1/</guid>
+      <guid>https://michbur.github.io/mi2-test2/post/p1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis eros non felis sollicitudin, vulputate commodo augue ullamcorper. Donec tempor laoreet commodo. Phasellus ut urna feugiat, pellentesque neque ac, sollicitudin eros. Vivamus ac consequat est. Aenean euismod nec mi eget blandit. Fusce placerat nulla quis mi tempus pulvinar quis vitae urna. Vestibulum aliquet, turpis sit amet rhoncus consequat, ex neque condimentum lorem, nec varius elit dolor non orci. Donec hendrerit pellentesque arcu, et condimentum justo dignissim vel. Nulla eu metus libero. Nam ligula felis, tincidunt sit amet vestibulum in, facilisis sit amet diam. Nullam semper viverra nisl eu sollicitudin.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>PhyMet2: A Database and Toolkit for Phylogenetic and Metabolic Analyses of Methanogens</title>
-      <link>/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Incurred Sample Reanalysis: Time to Change the Sample Size Calculation?</title>
+      <link>https://michbur.github.io/mi2-test2/publication/michalik2019ultralow/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/michalik2019ultralow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Prediction of Signal Peptides in Proteins from Malaria Parasites</title>
-      <link>/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>PTEN abnormalities predict poor outcome in children with T-cell acute lymphoblastic leukemia treated according to ALL IC-BFM protocols.</title>
+      <link>https://michbur.github.io/mi2-test2/publication/mkadry2019predictive/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/mkadry2019predictive/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Amyloidogenic Motifs Revealed by N-Gram Analysis</title>
-      <link>/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Predictive model for infection risk in myelodysplastic syndromes, acute myeloid leukemia and chronic myelomonocytic leukemia patients treated with azacitidine-Azacitidine Infection Risk Model-the Polish Adult Leukemia Group study</title>
+      <link>https://michbur.github.io/mi2-test2/publication/rudzki2019incurred/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/rudzki2019incurred/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Genotypic and Phenotypic Characteristics in Association with Biofilm Formation in Different Pathotypes of Human Clinical Escherichia Coli Isolates</title>
-      <link>/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>SMAD7 is a novel independent predictor of survival in patients with cutaneous melanoma</title>
+      <link>https://michbur.github.io/mi2-test2/publication/grudziazsurvxai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/grudziazsurvxai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jan Kowalski</title>
-      <link>/mi2-test2/member/jankowalski/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Beata Kulka</title>
+      <link>https://michbur.github.io/mi2-test2/member/beatakulka/</link>
+      <pubDate>Thu, 03 May 2018 09:11:24 +0200</pubDate>
       
-      <guid>/mi2-test2/member/jankowalski/</guid>
+      <guid>https://michbur.github.io/mi2-test2/member/beatakulka/</guid>
       <description>&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Project 1</title>
-      <link>/mi2-test2/project/project1/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Are you tough enough? Framework for Robustness Validation of Machine Comprehension Systems</title>
+      <link>https://michbur.github.io/mi2-test2/publication/szarzynska2019pten/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/project/project1/</guid>
-      <description>&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project 2</title>
-      <link>/mi2-test2/project/project2/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/mi2-test2/project/project2/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Methods of Comparing Digital PCR Experiments</title>
-      <link>/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/szarzynska2019pten/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>System-Specific Periodicity in Quantitative Real-Time Polymerase Chain Reaction Data Questions Threshold-Based Quantitation</title>
-      <link>/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>Atypical chronic myeloid leukaemia: A case of an orphan disease—A multicenter report by the Polish Adult Leukemia Group</title>
+      <link>https://michbur.github.io/mi2-test2/publication/waszczuk2018influence/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/waszczuk2018influence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Systematic Review and Meta-Analysis of the Epidemiology of Pathogenic Escherichia Coli of Calves and the Role of Calves as Reservoirs for Human Pathogenic E. Coli</title>
-      <link>/mi2-test2/publication/kolendasystematicreviewmetaanalysis2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <title>Biological Aggressiveness of Subclinical No-Mass Ductal Carcinoma In Situ (DCIS) Can Be Reflected by the Expression Profiles of Epithelial-Mesenchymal Transition Triggers</title>
+      <link>https://michbur.github.io/mi2-test2/publication/biecek2014odkrywac/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/kolendasystematicreviewmetaanalysis2015/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/biecek2014odkrywac/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Impact of Smoothing on Parameter Estimation in Quantitative DNA Amplification Experiments</title>
-      <link>/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <title>DALEX: explainers for complex predictive models in R</title>
+      <link>https://michbur.github.io/mi2-test2/publication/rychalska2018you/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/rychalska2018you/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>chipPCR: An R Package to Pre-Process Raw Data of Amplification Curves</title>
-      <link>/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <title>Does it care what you asked? Understanding Importance of Verbs in Deep Learning QA System</title>
+      <link>https://michbur.github.io/mi2-test2/publication/sobiczewska2017analysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</guid>
+      <guid>https://michbur.github.io/mi2-test2/publication/sobiczewska2017analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/mi2-test2/author/admin/not_index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Explanations of Model Predictions with live and breakDown Packages</title>
+      <link>https://michbur.github.io/mi2-test2/publication/rj-2018-072/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mi2-test2/author/admin/not_index/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
-</description>
+      <guid>https://michbur.github.io/mi2-test2/publication/rj-2018-072/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanations of model predictions with live and breakDown packages</title>
+      <link>https://michbur.github.io/mi2-test2/publication/gladych2018expression/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/gladych2018expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended 3D and 4D cumulative plots for evaluation of unmatched incurred sample reanalysis</title>
+      <link>https://michbur.github.io/mi2-test2/publication/rudzki2017comprehensive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/rudzki2017comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hodgkin lymphoma of the elderly patients: a retrospective multicenter analysis from the Polish Lymphoma Research Group</title>
+      <link>https://michbur.github.io/mi2-test2/publication/biecek2017show/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/biecek2017show/</guid>
+      <description></description>
     </item>
     
   </channel>

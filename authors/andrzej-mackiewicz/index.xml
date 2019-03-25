@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrzej Mackiewicz on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/andrzej-mackiewicz/</link>
+    <description>Recent content in Andrzej Mackiewicz on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/andrzej-mackiewicz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The expression signature of cancer-associated KRAB-ZNF factors identified in TCGA pan-cancer transcriptomic data</title>
+      <link>https://michbur.github.io/mi2-test2/publication/szynglarewicz2018biological/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/szynglarewicz2018biological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRIM28 epigenetic corepressor is indispensable for stable induced pluripotent stem cell formation</title>
+      <link>https://michbur.github.io/mi2-test2/publication/lapinska2016analysis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/lapinska2016analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TRIM28 multi-domain protein regulates cancer stem cell population in breast tumor development</title>
+      <link>https://michbur.github.io/mi2-test2/publication/beresewicz2017conference/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/beresewicz2017conference/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="MOTIVATION: Both the quantitative real-time polymerase chain reaction (qPCR) and quantitative isothermal amplification (qIA) are standard methods for nucleic acid quantification. Numerous real-time read-out technologies have been developed. Despite the continuous interest in amplification-based techniques, there are only few tools for pre-processing of amplification data. However, a transparent tool for precise control of raw data is indispensable in several scenarios, for example, during the development of new instruments. RESULTS: chipPCR is an R: package for the pre-processing and quality analysis of raw data of amplification curves. The package takes advantage of R: &#39;s S4 object model and offers an extensible environment. chipPCR contains tools for raw data exploration: normalization, baselining, imputation of missing values, a powerful wrapper for amplification curve smoothing and a function to detect the start and end of an amplification curve. The capabilities of the software are enhanced by the implementation of algorithms unavailable in R: , such as a 5-point stencil for derivative interpolation. Simulation tools, statistical tests, plots for data quality management, amplification efficiency/quantification cycle calculation, and datasets from qPCR and qIA experiments are part of the package. Core functionalities are integrated in GUIs (web-based and standalone shiny applications), thus streamlining analysis and report generation. AVAILABILITY AND IMPLEMENTATION: http://cran.r-project.org/web/packages/chipPCR. Source code: https://github.com/michbur/chipPCR. CONTACT: stefan.roediger@b-tu.de Supplementary information: Supplementary data are available at Bioinformatics online.">
+  <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="en-us" href="/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/">
+  <link rel="alternate" hreflang="en-us" href="https://michbur.github.io/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/">
 
   
 
@@ -88,7 +88,7 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Montserrat|Roboto+Mono">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald|Lato">
   
 
   <link rel="stylesheet" href="/mi2-test2/styles.css">
@@ -99,15 +99,15 @@
   
 
   
-  <link rel="alternate" href="/mi2-test2/index.xml" type="application/rss+xml" title="MI2 DataLab">
-  <link rel="feed" href="/mi2-test2/index.xml" type="application/rss+xml" title="MI2 DataLab">
+  <link rel="alternate" href="https://michbur.github.io/mi2-test2/index.xml" type="application/rss+xml" title="MI2 DataLab">
+  <link rel="feed" href="https://michbur.github.io/mi2-test2/index.xml" type="application/rss+xml" title="MI2 DataLab">
   
 
   <link rel="manifest" href="/mi2-test2/site.webmanifest">
   <link rel="icon" type="image/png" href="/mi2-test2/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/mi2-test2/img/icon-192.png">
 
-  <link rel="canonical" href="/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/">
+  <link rel="canonical" href="https://michbur.github.io/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/">
 
   
   
@@ -119,9 +119,9 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="MI2 DataLab">
-  <meta property="og:url" content="/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/">
+  <meta property="og:url" content="https://michbur.github.io/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/">
   <meta property="og:title" content="chipPCR: An R Package to Pre-Process Raw Data of Amplification Curves | MI2 DataLab">
-  <meta property="og:description" content="MOTIVATION: Both the quantitative real-time polymerase chain reaction (qPCR) and quantitative isothermal amplification (qIA) are standard methods for nucleic acid quantification. Numerous real-time read-out technologies have been developed. Despite the continuous interest in amplification-based techniques, there are only few tools for pre-processing of amplification data. However, a transparent tool for precise control of raw data is indispensable in several scenarios, for example, during the development of new instruments. RESULTS: chipPCR is an R: package for the pre-processing and quality analysis of raw data of amplification curves. The package takes advantage of R: &#39;s S4 object model and offers an extensible environment. chipPCR contains tools for raw data exploration: normalization, baselining, imputation of missing values, a powerful wrapper for amplification curve smoothing and a function to detect the start and end of an amplification curve. The capabilities of the software are enhanced by the implementation of algorithms unavailable in R: , such as a 5-point stencil for derivative interpolation. Simulation tools, statistical tests, plots for data quality management, amplification efficiency/quantification cycle calculation, and datasets from qPCR and qIA experiments are part of the package. Core functionalities are integrated in GUIs (web-based and standalone shiny applications), thus streamlining analysis and report generation. AVAILABILITY AND IMPLEMENTATION: http://cran.r-project.org/web/packages/chipPCR. Source code: https://github.com/michbur/chipPCR. CONTACT: stefan.roediger@b-tu.de Supplementary information: Supplementary data are available at Bioinformatics online."><meta property="og:image" content="/mi2-test2/img/icon-192.png">
+  <meta property="og:description" content=""><meta property="og:image" content="https://michbur.github.io/mi2-test2/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2015-01-01T00:00:00&#43;00:00">
@@ -139,10 +139,10 @@
       "palette": {
         "popup": {
           "background": "#4a3c89",
-          "text": "#fff"
+          "text": "#F7F7F7"
         },
         "button": {
-          "background": "#fff",
+          "background": "#F7F7F7",
           "text": "#4a3c89"
         }
       },
@@ -265,25 +265,6 @@
           <a class="nav-link" href="/mi2-test2/#members">
             
             <span>People</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/mi2-test2/#projects">
-            
-            <span>Projects</span>
             
           </a>
         </li>
@@ -492,35 +473,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=chipPCR%3a%20An%20R%20Package%20to%20Pre-Process%20Raw%20Data%20of%20Amplification%20Curves&amp;url=%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f"
+         href="https://twitter.com/intent/tweet?text=chipPCR%3a%20An%20R%20Package%20to%20Pre-Process%20Raw%20Data%20of%20Amplification%20Curves&amp;url=https%3a%2f%2fmichbur.github.io%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmichbur.github.io%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f&amp;title=chipPCR%3a%20An%20R%20Package%20to%20Pre-Process%20Raw%20Data%20of%20Amplification%20Curves"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmichbur.github.io%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f&amp;title=chipPCR%3a%20An%20R%20Package%20to%20Pre-Process%20Raw%20Data%20of%20Amplification%20Curves"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f&amp;title=chipPCR%3a%20An%20R%20Package%20to%20Pre-Process%20Raw%20Data%20of%20Amplification%20Curves"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmichbur.github.io%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f&amp;title=chipPCR%3a%20An%20R%20Package%20to%20Pre-Process%20Raw%20Data%20of%20Amplification%20Curves"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=chipPCR%3a%20An%20R%20Package%20to%20Pre-Process%20Raw%20Data%20of%20Amplification%20Curves&amp;body=%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f">
+         href="mailto:?subject=chipPCR%3a%20An%20R%20Package%20to%20Pre-Process%20Raw%20Data%20of%20Amplification%20Curves&amp;body=https%3a%2f%2fmichbur.github.io%2fmi2-test2%2fpublication%2frodigerchippcrpackagepreprocess2015%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -567,7 +548,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/2015-01-01_RodigerchipPCRpackagepreprocess2015.bib">
+        data-filename="/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/references.bib">
   Cite
 </button>
 
@@ -575,26 +556,30 @@
 
 
 
+
+
+
+
+
+
+
+
+
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/mi2-test2/project/project1/">
-    Project
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://scholar.google.pl/scholar?cites=9253113364329191570" target="_blank" rel="noopener">
+    
+    Google Scholar
   </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/mi2-test2/project/project2/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
 
 
 </div>
@@ -607,9 +592,6 @@
 
   <div class="article-container">
 
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">MOTIVATION: Both the quantitative real-time polymerase chain reaction (qPCR) and quantitative isothermal amplification (qIA) are standard methods for nucleic acid quantification. Numerous real-time read-out technologies have been developed. Despite the continuous interest in amplification-based techniques, there are only few tools for pre-processing of amplification data. However, a transparent tool for precise control of raw data is indispensable in several scenarios, for example, during the development of new instruments. RESULTS: chipPCR is an R: package for the pre-processing and quality analysis of raw data of amplification curves. The package takes advantage of R: &rsquo;s S4 object model and offers an extensible environment. chipPCR contains tools for raw data exploration: normalization, baselining, imputation of missing values, a powerful wrapper for amplification curve smoothing and a function to detect the start and end of an amplification curve. The capabilities of the software are enhanced by the implementation of algorithms unavailable in R: , such as a 5-point stencil for derivative interpolation. Simulation tools, statistical tests, plots for data quality management, amplification efficiency/quantification cycle calculation, and datasets from qPCR and qIA experiments are part of the package. Core functionalities are integrated in GUIs (web-based and standalone shiny applications), thus streamlining analysis and report generation. AVAILABILITY AND IMPLEMENTATION: <a href="http://cran.r-project.org/web/packages/chipPCR" target="_blank">http://cran.r-project.org/web/packages/chipPCR</a>. Source code: <a href="https://github.com/michbur/chipPCR" target="_blank">https://github.com/michbur/chipPCR</a>. CONTACT: stefan.roediger@b-tu.de Supplementary information: Supplementary data are available at Bioinformatics online.</p>
     
 
     
@@ -655,12 +637,6 @@
 
     
 
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/mi2-test2/tags/qpcr/">qpcR</a>
-  
-</div>
 
 
 

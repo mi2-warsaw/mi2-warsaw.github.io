@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NB Pitts on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/nb-pitts/</link>
+    <description>Recent content in NB Pitts on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/nb-pitts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diagnostic Accuracy of an Optimised Ac Impedance Device to Aid Caries Detection and Monitoring: 79</title>
+      <link>https://michbur.github.io/mi2-test2/publication/biecek2005locating/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/biecek2005locating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ac-impedance Spectroscopy Technique for the Detection of Dental Caries in Human Teeth: 80</title>
+      <link>https://michbur.github.io/mi2-test2/publication/archacki2016arabidopsis/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/archacki2016arabidopsis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

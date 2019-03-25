@@ -23,23 +23,23 @@
  **************************************************/
 
 html {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 26px;
   }
 }
 
 body {
   font-family: inherit;
-  font-size: 1rem;
+  font-size: 0.65rem;
   line-height: inherit;
   color: inherit;
-  background-color: #fff;
+  background-color: #F7F7F7;
   margin-top: 70px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -77,16 +77,16 @@ ul, ol, dl {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
   margin-top: 1rem;
   margin-bottom: .5rem;
   line-height: 1.25;
@@ -104,21 +104,21 @@ h1, h2, h3, h4, h5, h6 {
   hyphens: manual;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 1.5rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 h3 {
-  font-weight: 700;
+  font-weight: 300;
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.0rem;
 }
 h4, h5, h6 {
-  font-weight: 700;
+  font-weight: 300;
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 
 a,
@@ -157,7 +157,7 @@ figcaption {
   line-height: 1.25;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 figcaption.numbered:before {
@@ -265,7 +265,7 @@ small,
 .search-results {
   transform: scale(0);
   -webkit-transform: scale(0);
-  background-color: #fff;
+  background-color: #F7F7F7;
   bottom: 0;
   left: 0;
   right: 0;
@@ -308,7 +308,7 @@ small,
   position: -webkit-sticky;
   position: sticky;
   top: 70px;  /* Navbar height. */
-  background-color: #fff;
+  background-color: #F7F7F7;
   padding-top: 2rem;
   padding-bottom: 1rem;
 }
@@ -395,7 +395,7 @@ small,
  **************************************************/
 
 .modal-content {
-  background: #fff;
+  background: #F7F7F7;
 }
 
 .modal-title {
@@ -550,7 +550,7 @@ a[data-fancybox] img {
  **************************************************/
 
 .hero-overlay {
-  padding: 3em 0;
+  padding: 15em 0;
   clear: both;
   background-size: cover;
   background-repeat: no-repeat;
@@ -561,21 +561,21 @@ a[data-fancybox] img {
 }
 
 .hero-title {
-  font-size: 2.7rem;
+  font-size: 2.0rem;
   margin-top: 0;
   line-height: 1;
 }
 
 .hero-lead {
   max-width: 768px;
-  font-size: 1.35rem;
+  font-size: 0.9rem;
 }
 
 .hero-overlay .hero-title,
 .hero-overlay .hero-lead,
 .hero-overlay .btn {
   color: #fff;
-  text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+  /*text-shadow: 1px 1px 4px rgba(0,0,0,0.5);*/
 }
 
 .hero-overlay a {
@@ -1563,7 +1563,7 @@ a.badge:hover {
 
 .navbar-light {
   background: #4a3c89 !important;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
+  /*box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)*/
 }
 
 .navbar-light .navbar-toggler {
@@ -1581,7 +1581,7 @@ a.badge:hover {
 
 .dropdown-menu,
 nav#navbar-main li.nav-item {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link,
@@ -1591,7 +1591,7 @@ nav#navbar-main li.nav-item {
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: #fff;
-  font-weight: 600;
+  font-weight: 300;
 }
 
 .navbar-light .navbar-nav>.nav-item>.nav-link:focus {
@@ -1608,7 +1608,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>li.nav-item>a.active:focus,
 .navbar-light .navbar-nav>li.nav-item>a.active:hover {
   color: #8c9eff;
-  font-weight: 700;
+  font-weight: 300;
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
@@ -1636,7 +1636,7 @@ nav#navbar-main li.nav-item {
   display: block;
   padding: 3px 20px;
   clear: both;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.42857143;
   color: #fff;
   white-space: nowrap;
@@ -1667,7 +1667,7 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar-light .navbar-brand {
-  font-weight: bold;
+  /* font-weight: bold;*/
   font-size: 1.2em;
   color: #fff;
 }
@@ -1714,7 +1714,7 @@ nav#navbar-main li.nav-item {
     display: block;
     padding: 3px 20px;
     clear: both;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1.42857143;
     color: #fff;
     white-space: nowrap;

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Zinkiewicz on MI2 DataLab</title>
+    <link>https://michbur.github.io/mi2-test2/authors/daniel-zinkiewicz/</link>
+    <description>Recent content in Daniel Zinkiewicz on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://michbur.github.io/mi2-test2/authors/daniel-zinkiewicz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Influence of human body on radio signal strength indicator readings in indoor positioning systems</title>
+      <link>https://michbur.github.io/mi2-test2/publication/rapinski2016influence/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://michbur.github.io/mi2-test2/publication/rapinski2016influence/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
