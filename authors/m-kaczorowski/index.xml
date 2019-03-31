@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Kaczorowski on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/m-kaczorowski/</link>
+    <link>http://localhost:1313/mi2-test2/authors/m-kaczorowski/</link>
     <description>Recent content in M Kaczorowski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/m-kaczorowski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/m-kaczorowski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nucleoli and nuclear pseudoinclusions in cutaneous melanoma cells a new prognostic approach to an old concept</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kassambara2017survminer/</link>
+      <link>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kassambara2017survminer/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli/</guid>
       <description></description>
     </item>
     

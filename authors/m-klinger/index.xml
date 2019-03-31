@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Klinger on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/m-klinger/</link>
+    <link>http://localhost:1313/mi2-test2/authors/m-klinger/</link>
     <description>Recent content in M Klinger on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/m-klinger/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/m-klinger/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Increased Plasma Timps Concentrations as the Negative Predictor Associated with Deterioration of Kidney Allograft Function in the Long-Term Observation: 755</title>
-      <link>https://michbur.github.io/mi2-test2/publication/mazanowska2013increased/</link>
+      <link>http://localhost:1313/mi2-test2/publication/mazanowska2012increased/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/mazanowska2013increased/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mazanowska2012increased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1, 25-dihydroxyvitamin D deficiency predicts poorer outcome after renal transplantation</title>
-      <link>https://michbur.github.io/mi2-test2/publication/falkiewicz2009evolution/</link>
+      <link>http://localhost:1313/mi2-test2/publication/falkiewicz20091/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/falkiewicz2009evolution/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/falkiewicz20091/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimated glomerular filtration rate evolution between 6 and 24 months predicts long-term kidney transplant survival among patients with inferior graft function</title>
-      <link>https://michbur.github.io/mi2-test2/publication/falkiewicz2009evolution1/</link>
+      <link>http://localhost:1313/mi2-test2/publication/magott2009estimated/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/falkiewicz2009evolution1/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/magott2009estimated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution of bone disease at 2 years after transplantation: a single-center study</title>
-      <link>https://michbur.github.io/mi2-test2/publication/magott2009estimated/</link>
+      <link>http://localhost:1313/mi2-test2/publication/falkiewicz2009evolution/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/magott2009estimated/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/falkiewicz2009evolution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Leucocyte Elastase-a; 1protease Inhibitor Complex--Neutrophil Degranulation Marker In Plasma And Urine Of Patients After Deceased Renal Allograft Transplantation. Assessment Of Inducing Factors And Impact On Allograft Function.: 883</title>
-      <link>https://michbur.github.io/mi2-test2/publication/zynek2008leucocyte/</link>
+      <title>Leucocyte Elastase-a; 1protease Inhibitor Complex–Neutrophil Degranulation Marker In Plasma And Urine Of Patients After Deceased Renal Allograft Transplantation. Assessment Of …</title>
+      <link>http://localhost:1313/mi2-test2/publication/zynek2008leucocyte/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/zynek2008leucocyte/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/zynek2008leucocyte/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Neutrophils Degranulation Marker-Leucocyte Elastase-A; 1protease Inhibitor Complex: A Comparative Study With Classic (a; 1m, B; 2m) And Novel (ngal, Il-18) Kidney Graft Injury Markers.: 1044</title>
-      <link>https://michbur.github.io/mi2-test2/publication/greecetoxicology/</link>
+      <title>Neutrophils Degranulation Marker-Leucocyte Elastase-A; 1protease Inhibitor Complex: A Comparative Study With Classic (a; 1m, B; 2m) And Novel (ngal, Il-18) Kidney Graft Injury …</title>
+      <link>http://localhost:1313/mi2-test2/publication/zynek2008neutrophils/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/greecetoxicology/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/zynek2008neutrophils/</guid>
       <description></description>
     </item>
     

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaroslaw Protasiewicz on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/jaroslaw-protasiewicz/</link>
+    <link>http://localhost:1313/mi2-test2/authors/jaroslaw-protasiewicz/</link>
     <description>Recent content in Jaroslaw Protasiewicz on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/jaroslaw-protasiewicz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/jaroslaw-protasiewicz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A recommender system of reviewers and experts in reviewing problems</title>
-      <link>https://michbur.github.io/mi2-test2/publication/protasiewicz2016recommender/</link>
+      <link>http://localhost:1313/mi2-test2/publication/protasiewicz2016recommender/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/protasiewicz2016recommender/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/protasiewicz2016recommender/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multilingual and hierarchical classification of large datasets of scientific publications</title>
-      <link>https://michbur.github.io/mi2-test2/publication/protasiewicz2015multilingual/</link>
+      <link>http://localhost:1313/mi2-test2/publication/protasiewicz2015multilingual/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/protasiewicz2015multilingual/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/protasiewicz2015multilingual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information Processing Institute A class ification of the questionnaire of reviewers and app licants</title>
-      <link>https://michbur.github.io/mi2-test2/publication/stanislawek2013information/</link>
+      <link>http://localhost:1313/mi2-test2/publication/stanislawek2013information/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/stanislawek2013information/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/stanislawek2013information/</guid>
       <description></description>
     </item>
     

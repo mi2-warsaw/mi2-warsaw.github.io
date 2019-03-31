@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marek Kielbinski on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/marek-kielbinski/</link>
+    <link>http://localhost:1313/mi2-test2/authors/marek-kielbinski/</link>
     <description>Recent content in Marek Kielbinski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/marek-kielbinski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/marek-kielbinski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Monocytic differentiation induced by side-chain modified analogs of vitamin D in ex vivo cells from patients with acute myeloid leukemia</title>
-      <link>https://michbur.github.io/mi2-test2/publication/mazanowska2014advanced/</link>
+      <link>http://localhost:1313/mi2-test2/publication/baurska2014monocytic/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/mazanowska2014advanced/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/baurska2014monocytic/</guid>
       <description></description>
     </item>
     

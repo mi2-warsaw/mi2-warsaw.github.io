@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jozef Forgacz on MI2 DataLab</title>
+    <link>http://localhost:1313/mi2-test2/authors/jozef-forgacz/</link>
+    <description>Recent content in Jozef Forgacz on MI2 DataLab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/mi2-test2/authors/jozef-forgacz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ultralow anterior resection with implantation of gentamicin-collagen sponge and no defunctioning stoma: anastomotic leakage and local cancer relapse</title>
+      <link>http://localhost:1313/mi2-test2/publication/michalik2019ultralow/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/publication/michalik2019ultralow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

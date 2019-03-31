@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Barbara Rychalska on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/barbara-rychalska/</link>
+    <link>http://localhost:1313/mi2-test2/authors/barbara-rychalska/</link>
     <description>Recent content in Barbara Rychalska on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/barbara-rychalska/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/barbara-rychalska/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Are you tough enough? Framework for Robustness Validation of Machine Comprehension Systems</title>
-      <link>https://michbur.github.io/mi2-test2/publication/szarzynska2019pten/</link>
+      <link>http://localhost:1313/mi2-test2/publication/rychalska2018you/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/szarzynska2019pten/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rychalska2018you/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does it care what you asked? Understanding Importance of Verbs in Deep Learning QA System</title>
-      <link>https://michbur.github.io/mi2-test2/publication/sobiczewska2017analysis/</link>
+      <link>http://localhost:1313/mi2-test2/publication/rychalska2018does/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/sobiczewska2017analysis/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rychalska2018does/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How much should you ask? On the question structure in QA systems</title>
-      <link>https://michbur.github.io/mi2-test2/publication/chrabkaszcz2016analysis/</link>
+      <link>http://localhost:1313/mi2-test2/publication/basaj2018much/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/chrabkaszcz2016analysis/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/basaj2018much/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How much should you ask? On the question structure in QA systems.</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kosinski2016stochastic/</link>
+      <link>http://localhost:1313/mi2-test2/publication/rychalska2018much/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kosinski2016stochastic/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rychalska2018much/</guid>
       <description></description>
     </item>
     

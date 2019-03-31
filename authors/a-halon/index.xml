@@ -2,57 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Halon on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/a-halon/</link>
+    <link>http://localhost:1313/mi2-test2/authors/a-halon/</link>
     <description>Recent content in A Halon on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/a-halon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/a-halon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nucleoli and nuclear pseudoinclusions in cutaneous melanoma cells a new prognostic approach to an old concept</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kassambara2017survminer/</link>
+      <link>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kassambara2017survminer/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>256. CK5/6-the Old/new Prognostic and Predictive Marker in Breast Cancer?</title>
-      <link>https://michbur.github.io/mi2-test2/publication/matkowski2012256/</link>
+      <link>http://localhost:1313/mi2-test2/publication/matkowski2012256/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/matkowski2012256/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/matkowski2012256/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>P186 Prognostic role of VEGFR1--3 immunoreactivity in breast cancer patients</title>
-      <link>https://michbur.github.io/mi2-test2/publication/gisterek2011p186/</link>
+      <title>P186 Prognostic role of VEGFR1–3 immunoreactivity in breast cancer patients</title>
+      <link>http://localhost:1313/mi2-test2/publication/gisterek2011p186/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/gisterek2011p186/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PROGNOSTIC ROLE OF C-MET EXPRESSION IN BREAST CANCER PATIENTS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/gisterek2008vascular/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/gisterek2008vascular/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PROGNOSTIC ROLE OF C-MET EXPRESSION IN BREAST CANCER PATIENTS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kassambara2016drawing/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/kassambara2016drawing/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/gisterek2011p186/</guid>
       <description></description>
     </item>
     

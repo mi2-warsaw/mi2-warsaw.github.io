@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Waszczuk-Gajda on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/a-waszczuk-gajda/</link>
+    <link>http://localhost:1313/mi2-test2/authors/a-waszczuk-gajda/</link>
     <description>Recent content in A Waszczuk-Gajda on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/a-waszczuk-gajda/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/a-waszczuk-gajda/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Influence of Clonal Plasma Cell Contamination of Peripheral Blood Stem Cell Autografts on Progression and Survival in Multiple Myeloma Patients After Autologous Peripheral Blood Stem Cell Transplantation in Long-term Observation</title>
-      <link>https://michbur.github.io/mi2-test2/publication/szarzynska2017pten/</link>
+      <title>Influence of Clonal Plasma Cell Contamination of Peripheral Blood Stem Cell Autografts on Progression and Survival in Multiple Myeloma Patients After Autologous Peripheral …</title>
+      <link>http://localhost:1313/mi2-test2/publication/waszczuk2018influence/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/szarzynska2017pten/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/waszczuk2018influence/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francesca Borgonovi on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/francesca-borgonovi/</link>
+    <link>http://localhost:1313/mi2-test2/authors/francesca-borgonovi/</link>
     <description>Recent content in Francesca Borgonovi on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/francesca-borgonovi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/francesca-borgonovi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An international comparison of students&#39; ability to endure fatigue and maintain motivation during a low-stakes test</title>
-      <link>https://michbur.github.io/mi2-test2/publication/szynglarewicz2016ductal/</link>
+      <link>http://localhost:1313/mi2-test2/publication/borgonovi2016international/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/szynglarewicz2016ductal/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/borgonovi2016international/</guid>
       <description></description>
     </item>
     

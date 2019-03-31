@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michal Burdukiewicz on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/michal-burdukiewicz/</link>
+    <link>http://localhost:1313/mi2-test2/authors/michal-burdukiewicz/</link>
     <description>Recent content in Michal Burdukiewicz on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/michal-burdukiewicz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/michal-burdukiewicz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>PhyMet2: A Database and Toolkit for Phylogenetic and Metabolic Analyses of Methanogens</title>
-      <link>https://michbur.github.io/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</link>
+      <title>PhyMet2: a database and toolkit for phylogenetic and metabolic analyses of methanogens</title>
+      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prediction of Signal Peptides in Proteins from Malaria Parasites</title>
-      <link>https://michbur.github.io/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</link>
+      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/burdukiewiczphymet2databasetoolkit2018/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Amyloidogenic Motifs Revealed by N-Gram Analysis</title>
-      <link>https://michbur.github.io/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</link>
+      <title>Amyloidogenic motifs revealed by n-gram analysis</title>
+      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Genotypic and Phenotypic Characteristics in Association with Biofilm Formation in Different Pathotypes of Human Clinical Escherichia Coli Isolates</title>
-      <link>https://michbur.github.io/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</link>
+      <title>Enabling reproducible real-time quantitative PCR research: the RDML package</title>
+      <link>http://localhost:1313/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Methods of Comparing Digital PCR Experiments</title>
-      <link>https://michbur.github.io/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
+      <title>Genotypic and phenotypic characteristics in association with biofilm formation in different pathotypes of human clinical Escherichia coli isolates</title>
+      <link>http://localhost:1313/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods for comparing multiple digital PCR experiments</title>
+      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Methods of Comparing Digital PCR Experiments</title>
-      <link>https://michbur.github.io/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
+      <title>System-specific periodicity in quantitative real-time polymerase chain reaction data questions threshold-based quantitation</title>
+      <link>http://localhost:1313/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>System-Specific Periodicity in Quantitative Real-Time Polymerase Chain Reaction Data Questions Threshold-Based Quantitation</title>
-      <link>https://michbur.github.io/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Systematic Review and Meta-Analysis of the Epidemiology of Pathogenic Escherichia Coli of Calves and the Role of Calves as Reservoirs for Human Pathogenic E. Coli</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kolendasystematicreviewmetaanalysis2015/</link>
+      <title>A systematic review and meta-analysis of the epidemiology of pathogenic Escherichia coli of calves and the role of calves as reservoirs for human pathogenic E. coli</title>
+      <link>http://localhost:1313/mi2-test2/publication/kolendasystematicreviewmetaanalysis2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kolendasystematicreviewmetaanalysis2015/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kolendasystematicreviewmetaanalysis2015/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Impact of Smoothing on Parameter Estimation in Quantitative DNA Amplification Experiments</title>
-      <link>https://michbur.github.io/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
+      <title>Impact of smoothing on parameter estimation in quantitative DNA amplification experiments</title>
+      <link>http://localhost:1313/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>chipPCR: An R Package to Pre-Process Raw Data of Amplification Curves</title>
-      <link>https://michbur.github.io/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</link>
+      <title>chipPCR: an R package to pre-process raw data of amplification curves</title>
+      <link>http://localhost:1313/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</guid>
       <description></description>
     </item>
     

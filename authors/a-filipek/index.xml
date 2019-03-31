@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Filipek on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/a-filipek/</link>
+    <link>http://localhost:1313/mi2-test2/authors/a-filipek/</link>
     <description>Recent content in A Filipek on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/a-filipek/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/a-filipek/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>COMPARISON OF BLOOD BDNF LEVEL IN PATIENTS WITH ALCOHOL-DEPENDENCE, DEPRESSION AND HEALTHY CONTROLS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/biecek2016package1/</link>
+      <link>http://localhost:1313/mi2-test2/publication/libman2013comparison/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/biecek2016package1/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/libman2013comparison/</guid>
       <description></description>
     </item>
     

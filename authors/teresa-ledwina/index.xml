@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teresa Ledwina on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/teresa-ledwina/</link>
+    <link>http://localhost:1313/mi2-test2/authors/teresa-ledwina/</link>
     <description>Recent content in Teresa Ledwina on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/teresa-ledwina/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/teresa-ledwina/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ddst: Data driven smooth test</title>
-      <link>https://michbur.github.io/mi2-test2/publication/biecek2008przelaj/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2010ddst/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/biecek2008przelaj/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2010ddst/</guid>
       <description></description>
     </item>
     

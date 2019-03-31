@@ -2,148 +2,160 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MI2 DataLab on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/</link>
+    <link>http://localhost:1313/mi2-test2/</link>
     <description>Recent content in MI2 DataLab on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2019 21:53:41 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
     <atom:link href="/mi2-test2/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Przemysław Biecek</title>
+      <link>http://localhost:1313/mi2-test2/member/przemyslawbiecek/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/przemyslawbiecek/</guid>
+      <description>&lt;p&gt;I work as associate professor MiNI@Warsaw University of Technology and assistant professor MIM@Univeristy of Warsaw. My background is in mathematical statistics PAM@WUST and software engineering CSM@WUST.&lt;/p&gt;
+
+&lt;p&gt;I am interested in predictive modelling of large and complex data, data visualisation and model interpretability. Research activities are mainly focused on high-throughput genetic profiling in oncology. Also I’m interested in evidence based education, evidence based medicine, general machine learning and statistical software engineering (an R enthusiast). Big believer of data-literacy.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mi2-test2/mi2-test2/authors/przemyslaw-biecek/&#34;&gt;Przemysław&amp;rsquo;s Biecek&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Lorem ipsum dolor sit amet</title>
-      <link>https://michbur.github.io/mi2-test2/post/p1/</link>
+      <link>http://localhost:1313/mi2-test2/post/p1/</link>
       <pubDate>Sun, 03 Mar 2019 21:53:41 +0100</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/post/p1/</guid>
+      <guid>http://localhost:1313/mi2-test2/post/p1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis eros non felis sollicitudin, vulputate commodo augue ullamcorper. Donec tempor laoreet commodo. Phasellus ut urna feugiat, pellentesque neque ac, sollicitudin eros. Vivamus ac consequat est. Aenean euismod nec mi eget blandit. Fusce placerat nulla quis mi tempus pulvinar quis vitae urna. Vestibulum aliquet, turpis sit amet rhoncus consequat, ex neque condimentum lorem, nec varius elit dolor non orci. Donec hendrerit pellentesque arcu, et condimentum justo dignissim vel. Nulla eu metus libero. Nam ligula felis, tincidunt sit amet vestibulum in, facilisis sit amet diam. Nullam semper viverra nisl eu sollicitudin.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Incurred Sample Reanalysis: Time to Change the Sample Size Calculation?</title>
-      <link>https://michbur.github.io/mi2-test2/publication/michalik2019ultralow/</link>
+      <link>http://localhost:1313/mi2-test2/publication/rudzki2019incurred/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/michalik2019ultralow/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rudzki2019incurred/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PTEN abnormalities predict poor outcome in children with T-cell acute lymphoblastic leukemia treated according to ALL IC-BFM protocols.</title>
-      <link>https://michbur.github.io/mi2-test2/publication/mkadry2019predictive/</link>
+      <link>http://localhost:1313/mi2-test2/publication/szarzynska2019pten/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/mkadry2019predictive/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/szarzynska2019pten/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Predictive model for infection risk in myelodysplastic syndromes, acute myeloid leukemia and chronic myelomonocytic leukemia patients treated with azacitidine-Azacitidine Infection Risk Model-the Polish Adult Leukemia Group study</title>
-      <link>https://michbur.github.io/mi2-test2/publication/rudzki2019incurred/</link>
+      <title>Predictive model for infection risk in myelodysplastic syndromes, acute myeloid leukemia and chronic myelomonocytic leukemia patients treated with azacitidine-Azacitidine …</title>
+      <link>http://localhost:1313/mi2-test2/publication/mkadry2019predictive/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/rudzki2019incurred/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mkadry2019predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAFE ML: Surrogate Assisted Feature Extraction for Model Learning</title>
+      <link>http://localhost:1313/mi2-test2/publication/gosiewska2019safe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/publication/gosiewska2019safe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMAD7 is a novel independent predictor of survival in patients with cutaneous melanoma</title>
-      <link>https://michbur.github.io/mi2-test2/publication/grudziazsurvxai/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kaczorowski2019smad7/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/grudziazsurvxai/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kaczorowski2019smad7/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Beata Kulka</title>
-      <link>https://michbur.github.io/mi2-test2/member/beatakulka/</link>
-      <pubDate>Thu, 03 May 2018 09:11:24 +0200</pubDate>
+      <title>Ultralow anterior resection with implantation of gentamicin-collagen sponge and no defunctioning stoma: anastomotic leakage and local cancer relapse</title>
+      <link>http://localhost:1313/mi2-test2/publication/michalik2019ultralow/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/member/beatakulka/</guid>
-      <description>&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+      <guid>http://localhost:1313/mi2-test2/publication/michalik2019ultralow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alicja Gosiewska</title>
+      <link>http://localhost:1313/mi2-test2/member/alicjagosiewska/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/alicjagosiewska/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mi2-test2/mi2-test2/authors/alicja-gosiewska/&#34;&gt;Alicja Gosiewska&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Are you tough enough? Framework for Robustness Validation of Machine Comprehension Systems</title>
-      <link>https://michbur.github.io/mi2-test2/publication/szarzynska2019pten/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Hubert Baniecki</title>
+      <link>http://localhost:1313/mi2-test2/member/hubertbaniecki/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/szarzynska2019pten/</guid>
-      <description></description>
+      <guid>http://localhost:1313/mi2-test2/member/hubertbaniecki/</guid>
+      <description>&lt;p&gt;About&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Atypical chronic myeloid leukaemia: A case of an orphan disease—A multicenter report by the Polish Adult Leukemia Group</title>
-      <link>https://michbur.github.io/mi2-test2/publication/waszczuk2018influence/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Katarzyna Kobylińska</title>
+      <link>http://localhost:1313/mi2-test2/member/katarzynakobylinska/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/waszczuk2018influence/</guid>
-      <description></description>
+      <guid>http://localhost:1313/mi2-test2/member/katarzynakobylinska/</guid>
+      <description>&lt;p&gt;About&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Biological Aggressiveness of Subclinical No-Mass Ductal Carcinoma In Situ (DCIS) Can Be Reflected by the Expression Profiles of Epithelial-Mesenchymal Transition Triggers</title>
-      <link>https://michbur.github.io/mi2-test2/publication/biecek2014odkrywac/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Maciej Masiak</title>
+      <link>http://localhost:1313/mi2-test2/member/maciejmasiak/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/biecek2014odkrywac/</guid>
-      <description></description>
+      <guid>http://localhost:1313/mi2-test2/member/maciejmasiak/</guid>
+      <description>&lt;p&gt;About&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>DALEX: explainers for complex predictive models in R</title>
-      <link>https://michbur.github.io/mi2-test2/publication/rychalska2018you/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Mateusz Staniak</title>
+      <link>http://localhost:1313/mi2-test2/member/mateuszstaniak/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/rychalska2018you/</guid>
-      <description></description>
+      <guid>http://localhost:1313/mi2-test2/member/mateuszstaniak/</guid>
+      <description>&lt;p&gt;PhD candidate in (Interpretable) Machine Learning.
+I am interested in local explanations of machine learning models, automated Exploratory Data Analysis and applications of Stats&amp;amp;ML in medicine and proteomics.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Does it care what you asked? Understanding Importance of Verbs in Deep Learning QA System</title>
-      <link>https://michbur.github.io/mi2-test2/publication/sobiczewska2017analysis/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Michal Kuźba</title>
+      <link>http://localhost:1313/mi2-test2/member/michalkuzba/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/sobiczewska2017analysis/</guid>
-      <description></description>
+      <guid>http://localhost:1313/mi2-test2/member/michalkuzba/</guid>
+      <description>&lt;p&gt;About&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Explanations of Model Predictions with live and breakDown Packages</title>
-      <link>https://michbur.github.io/mi2-test2/publication/rj-2018-072/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <title>Michał Burdukiewicz</title>
+      <link>http://localhost:1313/mi2-test2/member/michalburdukiewicz/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/rj-2018-072/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Explanations of model predictions with live and breakDown packages</title>
-      <link>https://michbur.github.io/mi2-test2/publication/gladych2018expression/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/gladych2018expression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Extended 3D and 4D cumulative plots for evaluation of unmatched incurred sample reanalysis</title>
-      <link>https://michbur.github.io/mi2-test2/publication/rudzki2017comprehensive/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/rudzki2017comprehensive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hodgkin lymphoma of the elderly patients: a retrospective multicenter analysis from the Polish Lymphoma Research Group</title>
-      <link>https://michbur.github.io/mi2-test2/publication/biecek2017show/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/biecek2017show/</guid>
-      <description></description>
+      <guid>http://localhost:1313/mi2-test2/member/michalburdukiewicz/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mi2-test2/mi2-test2/authors/michal-burdukiewicz/&#34;&gt;Michal Burdukiewicz&amp;rsquo;s publications &lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D Frydecka on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/d-frydecka/</link>
+    <link>http://localhost:1313/mi2-test2/authors/d-frydecka/</link>
     <description>Recent content in D Frydecka on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/d-frydecka/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/d-frydecka/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Epidemiologia zaburze\&#39;n ot\kepiennych w Polsce--przegl\kad bada\&#39;n</title>
-      <link>https://michbur.github.io/mi2-test2/publication/bagnato2007arweiler/</link>
+      <title>Epidemiologia zaburzeń otępiennych w Polsce–przegląd badań</title>
+      <link>http://localhost:1313/mi2-test2/publication/kiejna2011epidemiologia/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/bagnato2007arweiler/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kiejna2011epidemiologia/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magdalena Razny on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/magdalena-razny/</link>
+    <link>http://localhost:1313/mi2-test2/authors/magdalena-razny/</link>
     <description>Recent content in Magdalena Razny on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/magdalena-razny/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/magdalena-razny/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Atypical chronic myeloid leukaemia: A case of an orphan disease—A multicenter report by the Polish Adult Leukemia Group</title>
-      <link>https://michbur.github.io/mi2-test2/publication/waszczuk2018influence/</link>
+      <link>http://localhost:1313/mi2-test2/publication/drozd2018atypical/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/waszczuk2018influence/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/drozd2018atypical/</guid>
       <description></description>
     </item>
     

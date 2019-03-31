@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomasz Jaworski on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/tomasz-jaworski/</link>
+    <link>http://localhost:1313/mi2-test2/authors/tomasz-jaworski/</link>
     <description>Recent content in Tomasz Jaworski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/tomasz-jaworski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/tomasz-jaworski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GSK-3$\beta$ and MMP-9 cooperate in the control of dendritic spine morphology</title>
-      <link>https://michbur.github.io/mi2-test2/publication/szynglarewicz2016screen/</link>
+      <title>GSK-3β and MMP-9 cooperate in the control of dendritic spine morphology</title>
+      <link>http://localhost:1313/mi2-test2/publication/kondratiuk2017gsk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/szynglarewicz2016screen/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kondratiuk2017gsk/</guid>
       <description></description>
     </item>
     

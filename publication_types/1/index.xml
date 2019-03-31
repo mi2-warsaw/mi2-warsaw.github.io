@@ -2,237 +2,219 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/publication_types/1/</link>
+    <link>http://localhost:1313/mi2-test2/publication_types/1/</link>
     <description>Recent content in 1 on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How much should you ask? On the question structure in QA systems.</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kosinski2016stochastic/</link>
+      <link>http://localhost:1313/mi2-test2/publication/rychalska2018much/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kosinski2016stochastic/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rychalska2018much/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased SMAD7 expression is associated with tumor aggressiveness and independently predicts poor survival in cutaneous melanoma patients</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kassambara2017package/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kaczorowski2018increased/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kassambara2017package/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kaczorowski2018increased/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Influence of Clonal Plasma Cell Contamination of Peripheral Blood Stem Cell Autografts on Progression and Survival in Multiple Myeloma Patients After Autologous Peripheral Blood Stem Cell Transplantation in Long-term Observation</title>
-      <link>https://michbur.github.io/mi2-test2/publication/szarzynska2017pten/</link>
+      <title>Influence of Clonal Plasma Cell Contamination of Peripheral Blood Stem Cell Autografts on Progression and Survival in Multiple Myeloma Patients After Autologous Peripheral …</title>
+      <link>http://localhost:1313/mi2-test2/publication/waszczuk2018influence/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/szarzynska2017pten/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/waszczuk2018influence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>13th International Conference on Conservative Management of Spinal Deformities and First Joint Meeting of the International Research Society on Spinal Deformities and the Society on Scoliosis Orthopaedic and Rehabilitation Treatment--SOSORT-IRSSD 2016 meeting</title>
-      <link>https://michbur.github.io/mi2-test2/publication/donizy2018nuclear/</link>
+      <title>13th International Conference on Conservative Management of Spinal Deformities and First Joint Meeting of the International Research Society on Spinal Deformities and the …</title>
+      <link>http://localhost:1313/mi2-test2/publication/bagheri201713th/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/donizy2018nuclear/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/bagheri201713th/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nucleoli and nuclear pseudoinclusions in cutaneous melanoma cells a new prognostic approach to an old concept</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kassambara2017survminer/</link>
+      <link>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kassambara2017survminer/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Show Me Your Model: tools for visualisation of statistical models</title>
-      <link>https://michbur.github.io/mi2-test2/publication/sur2007analysis/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2017show/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/sur2007analysis/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2017show/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rhinosinusitis in Acute Leukemia Patients Undergoing Allogeneic Stem Cell Transplantation—A Single-Center Experience</title>
-      <link>https://michbur.github.io/mi2-test2/publication/donizy2016contrary/</link>
+      <link>http://localhost:1313/mi2-test2/publication/drozd2016rhinosinusitis/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/donizy2016contrary/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/drozd2016rhinosinusitis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BILLCD8-A multivariable survival model based on detailed histopathological parameters of primary tumors in cutaneous melanoma patients</title>
-      <link>https://michbur.github.io/mi2-test2/publication/stachowska2015fp592/</link>
+      <link>http://localhost:1313/mi2-test2/publication/donizy2015billcd8/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/stachowska2015fp592/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/donizy2015billcd8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multilingual and hierarchical classification of large datasets of scientific publications</title>
-      <link>https://michbur.github.io/mi2-test2/publication/protasiewicz2015multilingual/</link>
+      <link>http://localhost:1313/mi2-test2/publication/protasiewicz2015multilingual/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/protasiewicz2015multilingual/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/protasiewicz2015multilingual/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Advanced age of renal transplant recipients correlates with increased plasma concentrations of interleukin-6, chemokine ligand 2 (CCL2), and matrix metalloproteinase 2, and urine concentrations of CCL2 and tissue inhibitor of metalloproteinase 1</title>
-      <link>https://michbur.github.io/mi2-test2/publication/mazanowska2014increased/</link>
+      <title>Advanced age of renal transplant recipients correlates with increased plasma concentrations of interleukin-6, chemokine ligand 2 (CCL2), and matrix metalloproteinase 2, and …</title>
+      <link>http://localhost:1313/mi2-test2/publication/mazanowska2014advanced/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/mazanowska2014increased/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mazanowska2014advanced/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Increased plasma matrix metalloproteinase-2 (MMP-2), tissue inhibitor of proteinase-1 (TIMP-1), TIMP-2, and urine MMP-2 concentrations correlate with proteinuria in renal transplant recipients</title>
-      <link>https://michbur.github.io/mi2-test2/publication/suzuki2012257/</link>
+      <title>Increased plasma matrix metalloproteinase-2 (MMP-2), tissue inhibitor of proteinase-1 (TIMP-1), TIMP-2, and urine MMP-2 concentrations correlate with proteinuria in renal …</title>
+      <link>http://localhost:1313/mi2-test2/publication/mazanowska2014increased/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/suzuki2012257/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mazanowska2014increased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COMPARISON OF BLOOD BDNF LEVEL IN PATIENTS WITH ALCOHOL-DEPENDENCE, DEPRESSION AND HEALTHY CONTROLS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/biecek2016package1/</link>
+      <link>http://localhost:1313/mi2-test2/publication/libman2013comparison/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/biecek2016package1/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/libman2013comparison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased plasma tissue inhibitors of metalloproteinase concentrations as negative predictors associated with deterioration of kidney allograft function upon long-term observation</title>
-      <link>https://michbur.github.io/mi2-test2/publication/falkiewicz20091/</link>
+      <link>http://localhost:1313/mi2-test2/publication/mazanowska2013increased/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/falkiewicz20091/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mazanowska2013increased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biomarkers of alcohol abuse: beta-hexosaminidase activity in serum and urine in a sample of students of Medical University of Warsaw</title>
-      <link>https://michbur.github.io/mi2-test2/publication/ordak2011biomarkers/</link>
+      <link>http://localhost:1313/mi2-test2/publication/ordak2011biomarkers/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/ordak2011biomarkers/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/ordak2011biomarkers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The nz. seq package for handling genetic sequences in the Netezza Performance Server</title>
-      <link>https://michbur.github.io/mi2-test2/publication/donizy2015billcd8/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2011nz/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/donizy2015billcd8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PROGNOSTIC ROLE OF C-MET EXPRESSION IN BREAST CANCER PATIENTS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/gisterek2008vascular/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/gisterek2008vascular/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PROGNOSTIC ROLE OF C-MET EXPRESSION IN BREAST CANCER PATIENTS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kassambara2016drawing/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/kassambara2016drawing/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2011nz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1, 25-dihydroxyvitamin D deficiency predicts poorer outcome after renal transplantation</title>
-      <link>https://michbur.github.io/mi2-test2/publication/falkiewicz2009evolution/</link>
+      <link>http://localhost:1313/mi2-test2/publication/falkiewicz20091/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/falkiewicz2009evolution/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/falkiewicz20091/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimated glomerular filtration rate evolution between 6 and 24 months predicts long-term kidney transplant survival among patients with inferior graft function</title>
-      <link>https://michbur.github.io/mi2-test2/publication/falkiewicz2009evolution1/</link>
+      <link>http://localhost:1313/mi2-test2/publication/magott2009estimated/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/falkiewicz2009evolution1/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/magott2009estimated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution of bone disease at 2 years after transplantation: a single-center study</title>
-      <link>https://michbur.github.io/mi2-test2/publication/magott2009estimated/</link>
+      <link>http://localhost:1313/mi2-test2/publication/falkiewicz2009evolution/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/magott2009estimated/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/falkiewicz2009evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimisation of asymmetric mutational pressure and selection pressure around the universal genetic code</title>
-      <link>https://michbur.github.io/mi2-test2/publication/mackiewicz2008optimisation/</link>
+      <link>http://localhost:1313/mi2-test2/publication/mackiewicz2008optimisation/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/mackiewicz2008optimisation/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mackiewicz2008optimisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VASCULAR ENDOTHELIAL GROWTH FACTOR C SERUM LEVELS IN PATIENTS WITH BREAST CANCER</title>
-      <link>https://michbur.github.io/mi2-test2/publication/gosiewska2018auditor/</link>
+      <link>http://localhost:1313/mi2-test2/publication/gisterek2008vascular/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/gosiewska2018auditor/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/gisterek2008vascular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandemics and immune memory in the noisy Penna model</title>
-      <link>https://michbur.github.io/mi2-test2/publication/cebrat2007pandemics/</link>
+      <link>http://localhost:1313/mi2-test2/publication/cebrat2007pandemics/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/cebrat2007pandemics/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/cebrat2007pandemics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>White noise and synchronization shaping the age structure of the human population</title>
-      <link>https://michbur.github.io/mi2-test2/publication/cebrat2007white/</link>
+      <link>http://localhost:1313/mi2-test2/publication/cebrat2007white/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/cebrat2007white/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/cebrat2007white/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The&#34; fluorescent cell chip&#34; technology as an emerging in vitro tool for immunotoxicants&#39; fingerprint search</title>
-      <link>https://michbur.github.io/mi2-test2/publication/wagner2005fluorescent/</link>
+      <link>http://localhost:1313/mi2-test2/publication/wagner2005fluorescent/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/wagner2005fluorescent/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/wagner2005fluorescent/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ralf Himmelreich on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/ralf-himmelreich/</link>
+    <link>http://localhost:1313/mi2-test2/authors/ralf-himmelreich/</link>
     <description>Recent content in Ralf Himmelreich on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/ralf-himmelreich/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/ralf-himmelreich/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Impact of Smoothing on Parameter Estimation in Quantitative DNA Amplification Experiments</title>
-      <link>https://michbur.github.io/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
+      <title>Impact of smoothing on parameter estimation in quantitative DNA amplification experiments</title>
+      <link>http://localhost:1313/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</guid>
       <description></description>
     </item>
     

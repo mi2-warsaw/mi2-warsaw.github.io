@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Wrzosek on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/m-wrzosek/</link>
+    <link>http://localhost:1313/mi2-test2/authors/m-wrzosek/</link>
     <description>Recent content in M Wrzosek on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/m-wrzosek/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/m-wrzosek/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impact of obesity and nitric oxide synthase gene G894T polymorphism on essential hypertension</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kondratiuk2017gsk/</link>
+      <link>http://localhost:1313/mi2-test2/publication/wrzosek2015impact/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kondratiuk2017gsk/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/wrzosek2015impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of obesity and nitric oxide synthase gene G894T polymorphism on essential hypertension</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kondratiuk2017gsk/</link>
+      <link>http://localhost:1313/mi2-test2/publication/wrzosek2015impact/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/kondratiuk2017gsk/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/wrzosek2015impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S32 RECENT ADVANCES IN LABORATORY DIAGNOSTICS OF ALCOHOL AND DRUG USE AND DEPENDENCE. APPLICATION OF NEW BIOMARKERS INTO CLINICAL PRACTICE</title>
-      <link>https://michbur.github.io/mi2-test2/publication/matsumoto2013s32/</link>
+      <link>http://localhost:1313/mi2-test2/publication/grzywacz2013s32/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/matsumoto2013s32/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/grzywacz2013s32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S32. 2significance Of Ace, 5httlpr And Bdnf Genes Interactions As Predictors Of The Risk Of The Onset Of Alcohol Problems. Data From Polish Sample Of Alcohol-dependent Patients</title>
-      <link>https://michbur.github.io/mi2-test2/publication/libman2013comparison/</link>
+      <link>http://localhost:1313/mi2-test2/publication/matsumoto2013s32/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/libman2013comparison/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/matsumoto2013s32/</guid>
       <description></description>
     </item>
     

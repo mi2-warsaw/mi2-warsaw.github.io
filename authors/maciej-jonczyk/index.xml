@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maciej Jonczyk on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/maciej-jonczyk/</link>
+    <link>http://localhost:1313/mi2-test2/authors/maciej-jonczyk/</link>
     <description>Recent content in Maciej Jonczyk on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/maciej-jonczyk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/maciej-jonczyk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Genome-wide transcriptomic analysis of response to low temperature reveals candidate genes determining divergent cold-sensitivity of maize inbred lines</title>
-      <link>https://michbur.github.io/mi2-test2/publication/baurska2014monocytic/</link>
+      <link>http://localhost:1313/mi2-test2/publication/sobkowiak2014genome/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/baurska2014monocytic/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/sobkowiak2014genome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rhythmic diel pattern of gene expression in juvenile maize leaf</title>
-      <link>https://michbur.github.io/mi2-test2/publication/jonczyk2011rhythmic/</link>
+      <link>http://localhost:1313/mi2-test2/publication/jonczyk2011rhythmic/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/jonczyk2011rhythmic/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/jonczyk2011rhythmic/</guid>
       <description></description>
     </item>
     

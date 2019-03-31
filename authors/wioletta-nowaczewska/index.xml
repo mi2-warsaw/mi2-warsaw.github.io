@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wioletta Nowaczewska on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/wioletta-nowaczewska/</link>
+    <link>http://localhost:1313/mi2-test2/authors/wioletta-nowaczewska/</link>
     <description>Recent content in Wioletta Nowaczewska on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/wioletta-nowaczewska/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/wioletta-nowaczewska/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The relationship of cranial, orbital and nasal cavity size with the morphology of the supraorbital region in modern Homo sapiens.</title>
-      <link>https://michbur.github.io/mi2-test2/publication/dendek2011large/</link>
+      <link>http://localhost:1313/mi2-test2/publication/nowaczewska2017relationship/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/dendek2011large/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/nowaczewska2017relationship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morphological relationship between the cranial and supraorbital regions in Homo sapiens</title>
-      <link>https://michbur.github.io/mi2-test2/publication/pitts2008diagnostic/</link>
+      <link>http://localhost:1313/mi2-test2/publication/nowaczewska2015morphological/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/pitts2008diagnostic/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/nowaczewska2015morphological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>STUDY OF THE VARIATION OF THE DEGREES OF SUPRAORBITAL RIDGE EXPRESSION IN ADULT HOMO SAPIENS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/borgonovi2016international/</link>
+      <link>http://localhost:1313/mi2-test2/publication/nowaczewska2014study/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/borgonovi2016international/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/nowaczewska2014study/</guid>
       <description></description>
     </item>
     

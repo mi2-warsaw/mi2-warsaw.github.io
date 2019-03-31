@@ -2,49 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/member/</link>
+    <link>http://localhost:1313/mi2-test2/member/</link>
     <description>Recent content in Members on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 May 2018 09:11:24 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/member/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/member/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Beata Kulka</title>
-      <link>https://michbur.github.io/mi2-test2/member/beatakulka/</link>
-      <pubDate>Thu, 03 May 2018 09:11:24 +0200</pubDate>
+      <title>Przemysław Biecek</title>
+      <link>http://localhost:1313/mi2-test2/member/przemyslawbiecek/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/member/beatakulka/</guid>
-      <description>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada.</description>
+      <guid>http://localhost:1313/mi2-test2/member/przemyslawbiecek/</guid>
+      <description>I work as associate professor MiNI@Warsaw University of Technology and assistant professor MIM@Univeristy of Warsaw. My background is in mathematical statistics PAM@WUST and software engineering CSM@WUST.
+I am interested in predictive modelling of large and complex data, data visualisation and model interpretability. Research activities are mainly focused on high-throughput genetic profiling in oncology. Also I’m interested in evidence based education, evidence based medicine, general machine learning and statistical software engineering (an R enthusiast).</description>
     </item>
     
     <item>
-      <title>Adam Nowak</title>
-      <link>https://michbur.github.io/mi2-test2/member/adamnowak/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Alicja Gosiewska</title>
+      <link>http://localhost:1313/mi2-test2/member/alicjagosiewska/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/member/adamnowak/</guid>
-      <description>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada.</description>
+      <guid>http://localhost:1313/mi2-test2/member/alicjagosiewska/</guid>
+      <description>Alicja Gosiewska&amp;rsquo;s publications.</description>
     </item>
     
     <item>
-      <title>Anna Kowalska</title>
-      <link>https://michbur.github.io/mi2-test2/member/annakowalska/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Hubert Baniecki</title>
+      <link>http://localhost:1313/mi2-test2/member/hubertbaniecki/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/member/annakowalska/</guid>
-      <description>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada.</description>
+      <guid>http://localhost:1313/mi2-test2/member/hubertbaniecki/</guid>
+      <description>About</description>
     </item>
     
     <item>
-      <title>Piotr Szczygieł</title>
-      <link>https://michbur.github.io/mi2-test2/member/piotrszczygie%C5%82/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <title>Katarzyna Kobylińska</title>
+      <link>http://localhost:1313/mi2-test2/member/katarzynakobylinska/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/member/piotrszczygie%C5%82/</guid>
-      <description>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada.</description>
+      <guid>http://localhost:1313/mi2-test2/member/katarzynakobylinska/</guid>
+      <description>About</description>
+    </item>
+    
+    <item>
+      <title>Maciej Masiak</title>
+      <link>http://localhost:1313/mi2-test2/member/maciejmasiak/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/maciejmasiak/</guid>
+      <description>About</description>
+    </item>
+    
+    <item>
+      <title>Mateusz Staniak</title>
+      <link>http://localhost:1313/mi2-test2/member/mateuszstaniak/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/mateuszstaniak/</guid>
+      <description>PhD candidate in (Interpretable) Machine Learning. I am interested in local explanations of machine learning models, automated Exploratory Data Analysis and applications of Stats&amp;amp;ML in medicine and proteomics.</description>
+    </item>
+    
+    <item>
+      <title>Michal Kuźba</title>
+      <link>http://localhost:1313/mi2-test2/member/michalkuzba/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/michalkuzba/</guid>
+      <description>About</description>
+    </item>
+    
+    <item>
+      <title>Michał Burdukiewicz</title>
+      <link>http://localhost:1313/mi2-test2/member/michalburdukiewicz/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/michalburdukiewicz/</guid>
+      <description>Michal Burdukiewicz&amp;rsquo;s publications .</description>
+    </item>
+    
+    <item>
+      <title>Tomasz Mikołajczyk</title>
+      <link>http://localhost:1313/mi2-test2/member/tomaszmikolajczyk/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/tomaszmikolajczyk/</guid>
+      <description>About</description>
+    </item>
+    
+    <item>
+      <title>Tomasz Stanisławek</title>
+      <link>http://localhost:1313/mi2-test2/member/tomaszstanislawek/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/tomaszstanislawek/</guid>
+      <description>About</description>
     </item>
     
   </channel>

@@ -2,39 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I Gisterek on MI2 DataLab</title>
-    <link>https://michbur.github.io/mi2-test2/authors/i-gisterek/</link>
+    <link>http://localhost:1313/mi2-test2/authors/i-gisterek/</link>
     <description>Recent content in I Gisterek on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://michbur.github.io/mi2-test2/authors/i-gisterek/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/i-gisterek/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>PROGNOSTIC ROLE OF C-MET EXPRESSION IN BREAST CANCER PATIENTS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/gisterek2008vascular/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/gisterek2008vascular/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PROGNOSTIC ROLE OF C-MET EXPRESSION IN BREAST CANCER PATIENTS</title>
-      <link>https://michbur.github.io/mi2-test2/publication/kassambara2016drawing/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://michbur.github.io/mi2-test2/publication/kassambara2016drawing/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>VASCULAR ENDOTHELIAL GROWTH FACTOR C SERUM LEVELS IN PATIENTS WITH BREAST CANCER</title>
-      <link>https://michbur.github.io/mi2-test2/publication/gosiewska2018auditor/</link>
+      <link>http://localhost:1313/mi2-test2/publication/gisterek2008vascular/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://michbur.github.io/mi2-test2/publication/gosiewska2018auditor/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/gisterek2008vascular/</guid>
       <description></description>
     </item>
     
