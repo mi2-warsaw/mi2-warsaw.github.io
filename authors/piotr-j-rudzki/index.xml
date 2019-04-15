@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piotr J Rudzki on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/piotr-j-rudzki/</link>
+    <link>http://localhost:46305/mi2-test2/authors/piotr-j-rudzki/</link>
     <description>Recent content in Piotr J Rudzki on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/piotr-j-rudzki/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/piotr-j-rudzki/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Incurred Sample Reanalysis: Time to Change the Sample Size Calculation?</title>
-      <link>http://localhost:1313/mi2-test2/publication/rudzki2019incurred/</link>
+      <link>http://localhost:46305/mi2-test2/publication/rudzki2019incurred/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/rudzki2019incurred/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/rudzki2019incurred/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extended 3D and 4D cumulative plots for evaluation of unmatched incurred sample reanalysis</title>
-      <link>http://localhost:1313/mi2-test2/publication/rudzki2018extended/</link>
+      <link>http://localhost:46305/mi2-test2/publication/rudzki2018extended/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/rudzki2018extended/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/rudzki2018extended/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprehensive graphical presentation of data from incurred sample reanalysis</title>
-      <link>http://localhost:1313/mi2-test2/publication/rudzki2017comprehensive/</link>
+      <link>http://localhost:46305/mi2-test2/publication/rudzki2017comprehensive/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/rudzki2017comprehensive/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/rudzki2017comprehensive/</guid>
       <description></description>
     </item>
     

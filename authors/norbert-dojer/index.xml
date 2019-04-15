@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norbert Dojer on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/norbert-dojer/</link>
+    <link>http://localhost:46305/mi2-test2/authors/norbert-dojer/</link>
     <description>Recent content in Norbert Dojer on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/norbert-dojer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/norbert-dojer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bi-billboard: symmetrization and careful choice of informant species results in higher accuracy of regulatory element prediction</title>
-      <link>http://localhost:1313/mi2-test2/publication/dojer2011bi/</link>
+      <link>http://localhost:46305/mi2-test2/publication/dojer2011bi/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/dojer2011bi/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/dojer2011bi/</guid>
       <description></description>
     </item>
     

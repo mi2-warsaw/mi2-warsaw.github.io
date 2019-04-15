@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kornel Kielczewski on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/kornel-kielczewski/</link>
+    <link>http://localhost:46305/mi2-test2/authors/kornel-kielczewski/</link>
     <description>Recent content in Kornel Kielczewski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/kornel-kielczewski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/kornel-kielczewski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The expression signature of cancer‐associated KRAB‐ZNF factors identified in TCGA pan‐cancer transcriptomic data</title>
-      <link>http://localhost:1313/mi2-test2/publication/gladych2018expression/</link>
+      <link>http://localhost:46305/mi2-test2/publication/gladych2018expression/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/gladych2018expression/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/gladych2018expression/</guid>
       <description></description>
     </item>
     

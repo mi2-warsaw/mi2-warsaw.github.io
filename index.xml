@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MI2 DataLab on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/</link>
+    <link>http://localhost:46305/mi2-test2/</link>
     <description>Recent content in MI2 DataLab on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,142 +11,142 @@
     
     <item>
       <title>Przemysław Biecek</title>
-      <link>http://localhost:1313/mi2-test2/member/przemyslawbiecek/</link>
+      <link>http://localhost:46305/mi2-test2/member/przemyslawbiecek/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/member/przemyslawbiecek/</guid>
+      <guid>http://localhost:46305/mi2-test2/member/przemyslawbiecek/</guid>
       <description>&lt;p&gt;I work as associate professor MiNI@Warsaw University of Technology and assistant professor MIM@Univeristy of Warsaw. My background is in mathematical statistics PAM@WUST and software engineering CSM@WUST.&lt;/p&gt;
 
 &lt;p&gt;I am interested in predictive modelling of large and complex data, data visualisation and model interpretability. Research activities are mainly focused on high-throughput genetic profiling in oncology. Also I’m interested in evidence based education, evidence based medicine, general machine learning and statistical software engineering (an R enthusiast). Big believer of data-literacy.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mi2-test2/mi2-test2/authors/przemyslaw-biecek/&#34;&gt;Przemysław&amp;rsquo;s Biecek&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:46305/mi2-test2/mi2-test2/authors/przemyslaw-biecek/&#34;&gt;Przemysław&amp;rsquo;s Biecek&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lorem ipsum dolor sit amet</title>
-      <link>http://localhost:1313/mi2-test2/post/p1/</link>
+      <link>http://localhost:46305/mi2-test2/post/p1/</link>
       <pubDate>Sun, 03 Mar 2019 21:53:41 +0100</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/post/p1/</guid>
+      <guid>http://localhost:46305/mi2-test2/post/p1/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis eros non felis sollicitudin, vulputate commodo augue ullamcorper. Donec tempor laoreet commodo. Phasellus ut urna feugiat, pellentesque neque ac, sollicitudin eros. Vivamus ac consequat est. Aenean euismod nec mi eget blandit. Fusce placerat nulla quis mi tempus pulvinar quis vitae urna. Vestibulum aliquet, turpis sit amet rhoncus consequat, ex neque condimentum lorem, nec varius elit dolor non orci. Donec hendrerit pellentesque arcu, et condimentum justo dignissim vel. Nulla eu metus libero. Nam ligula felis, tincidunt sit amet vestibulum in, facilisis sit amet diam. Nullam semper viverra nisl eu sollicitudin.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Incurred Sample Reanalysis: Time to Change the Sample Size Calculation?</title>
-      <link>http://localhost:1313/mi2-test2/publication/rudzki2019incurred/</link>
+      <link>http://localhost:46305/mi2-test2/publication/rudzki2019incurred/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/rudzki2019incurred/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/rudzki2019incurred/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PTEN abnormalities predict poor outcome in children with T-cell acute lymphoblastic leukemia treated according to ALL IC-BFM protocols.</title>
-      <link>http://localhost:1313/mi2-test2/publication/szarzynska2019pten/</link>
+      <link>http://localhost:46305/mi2-test2/publication/szarzynska2019pten/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/szarzynska2019pten/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/szarzynska2019pten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive Model for Infection Risk in Myelodysplastic Syndromes, Acute Myeloid Leukemia, and Chronic Myelomonocytic Leukemia Patients Treated With Azacitidine; Azacitidine …</title>
-      <link>http://localhost:1313/mi2-test2/publication/mkadry2019predictive/</link>
+      <link>http://localhost:46305/mi2-test2/publication/mkadry2019predictive/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/mkadry2019predictive/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/mkadry2019predictive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAFE ML: Surrogate Assisted Feature Extraction for Model Learning</title>
-      <link>http://localhost:1313/mi2-test2/publication/gosiewska2019safe/</link>
+      <link>http://localhost:46305/mi2-test2/publication/gosiewska2019safe/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/gosiewska2019safe/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/gosiewska2019safe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMAD7 is a novel independent predictor of survival in patients with cutaneous melanoma</title>
-      <link>http://localhost:1313/mi2-test2/publication/kaczorowski2019smad7/</link>
+      <link>http://localhost:46305/mi2-test2/publication/kaczorowski2019smad7/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/kaczorowski2019smad7/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/kaczorowski2019smad7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ultralow anterior resection with implantation of gentamicin-collagen sponge and no defunctioning stoma: anastomotic leakage and local cancer relapse</title>
-      <link>http://localhost:1313/mi2-test2/publication/michalik2019ultralow/</link>
+      <link>http://localhost:46305/mi2-test2/publication/michalik2019ultralow/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/michalik2019ultralow/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/michalik2019ultralow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anna Wróblewska</title>
-      <link>http://localhost:1313/mi2-test2/member/annawr%C3%B3blewska/</link>
+      <link>http://localhost:46305/mi2-test2/member/annawr%C3%B3blewska/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/member/annawr%C3%B3blewska/</guid>
+      <guid>http://localhost:46305/mi2-test2/member/annawr%C3%B3blewska/</guid>
       <description>&lt;p&gt;Anna Wróblewska is an assistant professor at Warsaw University of Technology. She has years of experience in the design of intelligent systems and description of semantic data acquired in a commercial and scientific environment. She is also a senior data scientist at Applica.ai, in charge of several R&amp;amp;D projects about text-mining, image recognition, and model diagnostics and interpretability.&lt;/p&gt;
 
 &lt;p&gt;Previously she worked at Allegro, the biggest e-commerce marketplace portal in Eastern Europe, where she dealt with the intelligent methods of data analysis. She is the author of over 35 publications in Polish and international journals and materials. Her main research interests are focused on machine learning in practical applications, primarily the semantic understanding and modeling data and their interpretability.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mi2-test2/mi2-test2/authors/anna-wroblewska&#34;&gt;Anna Wróblewska&amp;rsquo;s publications &lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:46305/mi2-test2/mi2-test2/authors/anna-wroblewska&#34;&gt;Anna Wróblewska&amp;rsquo;s publications &lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Alicja Gosiewska</title>
-      <link>http://localhost:1313/mi2-test2/member/alicjagosiewska/</link>
+      <link>http://localhost:46305/mi2-test2/member/alicjagosiewska/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/member/alicjagosiewska/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mi2-test2/mi2-test2/authors/alicja-gosiewska/&#34;&gt;Alicja Gosiewska&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:46305/mi2-test2/member/alicjagosiewska/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:46305/mi2-test2/mi2-test2/authors/alicja-gosiewska/&#34;&gt;Alicja Gosiewska&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hubert Baniecki</title>
-      <link>http://localhost:1313/mi2-test2/member/hubertbaniecki/</link>
+      <link>http://localhost:46305/mi2-test2/member/hubertbaniecki/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/member/hubertbaniecki/</guid>
+      <guid>http://localhost:46305/mi2-test2/member/hubertbaniecki/</guid>
       <description>&lt;p&gt;About&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Katarzyna Kobylińska</title>
-      <link>http://localhost:1313/mi2-test2/member/katarzynakobylinska/</link>
+      <link>http://localhost:46305/mi2-test2/member/katarzynakobylinska/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/member/katarzynakobylinska/</guid>
+      <guid>http://localhost:46305/mi2-test2/member/katarzynakobylinska/</guid>
       <description>&lt;p&gt;About&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Maciej Masiak</title>
-      <link>http://localhost:1313/mi2-test2/member/maciejmasiak/</link>
+      <link>http://localhost:46305/mi2-test2/member/maciejmasiak/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/member/maciejmasiak/</guid>
+      <guid>http://localhost:46305/mi2-test2/member/maciejmasiak/</guid>
       <description>&lt;p&gt;About&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mateusz Staniak</title>
-      <link>http://localhost:1313/mi2-test2/member/mateuszstaniak/</link>
+      <link>http://localhost:46305/mi2-test2/member/mateuszstaniak/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/member/mateuszstaniak/</guid>
+      <guid>http://localhost:46305/mi2-test2/member/mateuszstaniak/</guid>
       <description>&lt;p&gt;PhD candidate in (Interpretable) Machine Learning.
 I am interested in local explanations of machine learning models, automated Exploratory Data Analysis and applications of Stats&amp;amp;ML in medicine and proteomics.&lt;/p&gt;
 </description>
@@ -154,10 +154,10 @@ I am interested in local explanations of machine learning models, automated Expl
     
     <item>
       <title>Michal Kuźba</title>
-      <link>http://localhost:1313/mi2-test2/member/michalkuzba/</link>
+      <link>http://localhost:46305/mi2-test2/member/michalkuzba/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/member/michalkuzba/</guid>
+      <guid>http://localhost:46305/mi2-test2/member/michalkuzba/</guid>
       <description>&lt;p&gt;I am a master&amp;rsquo;s student interested in Data Science, Machine Learning and NLP.&lt;/p&gt;
 </description>
     </item>

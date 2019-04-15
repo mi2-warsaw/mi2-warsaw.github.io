@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piotr Sobczyk on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/piotr-sobczyk/</link>
+    <link>http://localhost:46305/mi2-test2/authors/piotr-sobczyk/</link>
     <description>Recent content in Piotr Sobczyk on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/piotr-sobczyk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/piotr-sobczyk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prediction of Signal Peptides in Proteins from Malaria Parasites</title>
-      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</link>
+      <link>http://localhost:46305/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/burdukiewiczpredictionsignalpeptides2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amyloidogenic motifs revealed by n-gram analysis</title>
-      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
+      <link>http://localhost:46305/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methods for comparing multiple digital PCR experiments</title>
-      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
+      <link>http://localhost:46305/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel H Caro on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/daniel-h-caro/</link>
+    <link>http://localhost:46305/mi2-test2/authors/daniel-h-caro/</link>
     <description>Recent content in Daniel H Caro on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/daniel-h-caro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/daniel-h-caro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>intsvy: An R package for analysing International large-scale assessment data</title>
-      <link>http://localhost:1313/mi2-test2/publication/caro2017intsvy/</link>
+      <link>http://localhost:46305/mi2-test2/publication/caro2017intsvy/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/caro2017intsvy/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/caro2017intsvy/</guid>
       <description></description>
     </item>
     

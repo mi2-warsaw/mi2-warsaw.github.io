@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B Szynglarewicz on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/b-szynglarewicz/</link>
+    <link>http://localhost:46305/mi2-test2/authors/b-szynglarewicz/</link>
     <description>Recent content in B Szynglarewicz on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/b-szynglarewicz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/b-szynglarewicz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>256. CK5/6-the Old/new Prognostic and Predictive Marker in Breast Cancer?</title>
-      <link>http://localhost:1313/mi2-test2/publication/matkowski2012256/</link>
+      <link>http://localhost:46305/mi2-test2/publication/matkowski2012256/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/matkowski2012256/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/matkowski2012256/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eurostat jePanstwo on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/eurostat-jepanstwo/</link>
+    <link>http://localhost:46305/mi2-test2/authors/eurostat-jepanstwo/</link>
     <description>Recent content in Eurostat jePanstwo on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/eurostat-jepanstwo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/eurostat-jepanstwo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Package ‘SmarterPoland’</title>
-      <link>http://localhost:1313/mi2-test2/publication/biecek2016package1/</link>
+      <link>http://localhost:46305/mi2-test2/publication/biecek2016package1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/biecek2016package1/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/biecek2016package1/</guid>
       <description></description>
     </item>
     

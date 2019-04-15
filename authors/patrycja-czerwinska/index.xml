@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrycja Czerwinska on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/patrycja-czerwinska/</link>
+    <link>http://localhost:46305/mi2-test2/authors/patrycja-czerwinska/</link>
     <description>Recent content in Patrycja Czerwinska on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/patrycja-czerwinska/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/patrycja-czerwinska/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Molecular chaperones in the acquisition of cancer cell chemoresistance with mutated TP53 and MDM2 up-regulation</title>
-      <link>http://localhost:1313/mi2-test2/publication/tracz2017molecular/</link>
+      <link>http://localhost:46305/mi2-test2/publication/tracz2017molecular/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/tracz2017molecular/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/tracz2017molecular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TRIM28 epigenetic corepressor is indispensable for stable induced pluripotent stem cell formation</title>
-      <link>http://localhost:1313/mi2-test2/publication/klimczak2017trim28/</link>
+      <link>http://localhost:46305/mi2-test2/publication/klimczak2017trim28/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/klimczak2017trim28/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/klimczak2017trim28/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TRIM28 multi-domain protein regulates cancer stem cell population in breast tumor development</title>
-      <link>http://localhost:1313/mi2-test2/publication/czerwinska2017trim28/</link>
+      <link>http://localhost:46305/mi2-test2/publication/czerwinska2017trim28/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/czerwinska2017trim28/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/czerwinska2017trim28/</guid>
       <description></description>
     </item>
     

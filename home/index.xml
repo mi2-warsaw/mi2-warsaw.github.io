@@ -2,155 +2,155 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/home/</link>
+    <link>http://localhost:46305/mi2-test2/home/</link>
     <description>Recent content in Homes on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/mi2-test2/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://localhost:1313/mi2-test2/home/hero_carousel/</link>
+      <link>http://localhost:46305/mi2-test2/home/hero_carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/hero_carousel/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MI&lt;sup&gt;2&lt;/sup&gt; DataLab</title>
-      <link>http://localhost:1313/mi2-test2/home/hero/</link>
+      <link>http://localhost:46305/mi2-test2/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/hero/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/hero/</guid>
       <description>Phasellus luctus massa in commodo tempor. Sed ut justo urna. Fusce auctor, nulla vitae tincidunt vehicula, lorem diam consequat augue, at ultrices mi urna eget mi. Maecenas euismod arcu efficitur augue placerat, nec ornare lacus tempor. Proin consectetur condimentum tellus, vel malesuada orci semper ornare. Donec porta erat id ultrices semper. Donec molestie, mauris ac porta gravida, nisi nisi iaculis ex, at pellentesque velit dolor a elit.</description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://localhost:1313/mi2-test2/home/posts/</link>
+      <link>http://localhost:46305/mi2-test2/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/posts/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>http://localhost:1313/mi2-test2/home/about/</link>
+      <link>http://localhost:46305/mi2-test2/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/about/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>http://localhost:1313/mi2-test2/home/members/</link>
+      <link>http://localhost:46305/mi2-test2/home/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/members/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/members/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/mi2-test2/home/projects/</link>
+      <link>http://localhost:46305/mi2-test2/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/projects/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://localhost:1313/mi2-test2/home/publications/</link>
+      <link>http://localhost:46305/mi2-test2/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/publications/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://localhost:1313/mi2-test2/home/skills/</link>
+      <link>http://localhost:46305/mi2-test2/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/skills/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/mi2-test2/home/experience/</link>
+      <link>http://localhost:46305/mi2-test2/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/experience/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>http://localhost:1313/mi2-test2/home/accomplishments/</link>
+      <link>http://localhost:46305/mi2-test2/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/accomplishments/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>http://localhost:1313/mi2-test2/home/publications_featured/</link>
+      <link>http://localhost:46305/mi2-test2/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/publications_featured/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Talks</title>
-      <link>http://localhost:1313/mi2-test2/home/talks_featured/</link>
+      <link>http://localhost:46305/mi2-test2/home/talks_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/talks_featured/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/talks_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Talks</title>
-      <link>http://localhost:1313/mi2-test2/home/talks/</link>
+      <link>http://localhost:46305/mi2-test2/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/talks/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://localhost:1313/mi2-test2/home/teaching/</link>
+      <link>http://localhost:46305/mi2-test2/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/teaching/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>http://localhost:1313/mi2-test2/home/tags/</link>
+      <link>http://localhost:46305/mi2-test2/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/tags/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/mi2-test2/home/contact/</link>
+      <link>http://localhost:46305/mi2-test2/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/home/contact/</guid>
+      <guid>http://localhost:46305/mi2-test2/home/contact/</guid>
       <description></description>
     </item>
     

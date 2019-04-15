@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Klopotek on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/m-klopotek/</link>
+    <link>http://localhost:46305/mi2-test2/authors/m-klopotek/</link>
     <description>Recent content in M Klopotek on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/m-klopotek/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/m-klopotek/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Large Scale, Massively Parallel Logistic Regression in R with the Netezza Analytics Package</title>
-      <link>http://localhost:1313/mi2-test2/publication/dendek2011large/</link>
+      <link>http://localhost:46305/mi2-test2/publication/dendek2011large/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/dendek2011large/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/dendek2011large/</guid>
       <description></description>
     </item>
     

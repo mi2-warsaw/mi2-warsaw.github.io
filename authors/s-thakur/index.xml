@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S Thakur on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/s-thakur/</link>
+    <link>http://localhost:46305/mi2-test2/authors/s-thakur/</link>
     <description>Recent content in S Thakur on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/s-thakur/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/s-thakur/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analysis of synonymous codon usage in H5N1 virus and other influenza a viruses.</title>
-      <link>http://localhost:1313/mi2-test2/publication/sur2007analysis/</link>
+      <link>http://localhost:46305/mi2-test2/publication/sur2007analysis/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/sur2007analysis/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/sur2007analysis/</guid>
       <description></description>
     </item>
     

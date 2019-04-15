@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anders Bjorkbom on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/anders-bjorkbom/</link>
+    <link>http://localhost:46305/mi2-test2/authors/anders-bjorkbom/</link>
     <description>Recent content in Anders Bjorkbom on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/anders-bjorkbom/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/anders-bjorkbom/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comparative analysis of LIN28-RNA binding sites identified at single nucleotide resolution</title>
-      <link>http://localhost:1313/mi2-test2/publication/ransey2017comparative/</link>
+      <link>http://localhost:46305/mi2-test2/publication/ransey2017comparative/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/ransey2017comparative/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/ransey2017comparative/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrzej Kiejna on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/andrzej-kiejna/</link>
+    <link>http://localhost:46305/mi2-test2/authors/andrzej-kiejna/</link>
     <description>Recent content in Andrzej Kiejna on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/andrzej-kiejna/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/andrzej-kiejna/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Do Mental Health Outpatient Services Meet Users’ Needs? Trial to Identify Factors Associated with Higher Needs for Care</title>
-      <link>http://localhost:1313/mi2-test2/publication/dobrzynska2016mental/</link>
+      <link>http://localhost:46305/mi2-test2/publication/dobrzynska2016mental/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/dobrzynska2016mental/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/dobrzynska2016mental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The epidemiology of dementia in Poland–epidemiological research review</title>
-      <link>http://localhost:1313/mi2-test2/publication/kiejna2011epidemiology/</link>
+      <link>http://localhost:46305/mi2-test2/publication/kiejna2011epidemiology/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/kiejna2011epidemiology/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/kiejna2011epidemiology/</guid>
       <description></description>
     </item>
     

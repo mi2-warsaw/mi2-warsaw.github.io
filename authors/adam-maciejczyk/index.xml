@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adam Maciejczyk on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/adam-maciejczyk/</link>
+    <link>http://localhost:46305/mi2-test2/authors/adam-maciejczyk/</link>
     <description>Recent content in Adam Maciejczyk on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/adam-maciejczyk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:46305/mi2-test2/authors/adam-maciejczyk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nucleoli cytomorphology in cutaneous melanoma cells–a new prognostic approach to an old concept</title>
-      <link>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli1/</link>
+      <link>http://localhost:46305/mi2-test2/publication/donizy2017nucleoli1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli1/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/donizy2017nucleoli1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrary effect of two types of spatial distribution (diffuse versus marginal) of CD8-positive lymphocytes on clinical outcome in melanoma patients</title>
-      <link>http://localhost:1313/mi2-test2/publication/donizy2016contrary/</link>
+      <link>http://localhost:46305/mi2-test2/publication/donizy2016contrary/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/donizy2016contrary/</guid>
+      <guid>http://localhost:46305/mi2-test2/publication/donizy2016contrary/</guid>
       <description></description>
     </item>
     
