@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrzej Mackiewicz on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/andrzej-mackiewicz/</link>
+    <link>http://localhost:1313/mi2-test2/authors/andrzej-mackiewicz/</link>
     <description>Recent content in Andrzej Mackiewicz on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/andrzej-mackiewicz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/andrzej-mackiewicz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The expression signature of cancer‐associated KRAB‐ZNF factors identified in TCGA pan‐cancer transcriptomic data</title>
-      <link>http://localhost:46305/mi2-test2/publication/gladych2018expression/</link>
+      <link>http://localhost:1313/mi2-test2/publication/gladych2018expression/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/gladych2018expression/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/gladych2018expression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TRIM28 epigenetic corepressor is indispensable for stable induced pluripotent stem cell formation</title>
-      <link>http://localhost:46305/mi2-test2/publication/klimczak2017trim28/</link>
+      <link>http://localhost:1313/mi2-test2/publication/klimczak2017trim28/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/klimczak2017trim28/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/klimczak2017trim28/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TRIM28 multi-domain protein regulates cancer stem cell population in breast tumor development</title>
-      <link>http://localhost:46305/mi2-test2/publication/czerwinska2017trim28/</link>
+      <link>http://localhost:1313/mi2-test2/publication/czerwinska2017trim28/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/czerwinska2017trim28/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/czerwinska2017trim28/</guid>
       <description></description>
     </item>
     

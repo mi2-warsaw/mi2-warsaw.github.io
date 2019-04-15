@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alboukadel Kassambara on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/alboukadel-kassambara/</link>
+    <link>http://localhost:1313/mi2-test2/authors/alboukadel-kassambara/</link>
     <description>Recent content in Alboukadel Kassambara on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/alboukadel-kassambara/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/alboukadel-kassambara/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Package ‘survminer’</title>
-      <link>http://localhost:46305/mi2-test2/publication/kassambara2017package/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kassambara2017package/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/kassambara2017package/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kassambara2017package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drawing survival curves using ‘ggplot2’</title>
-      <link>http://localhost:46305/mi2-test2/publication/kassambara2016drawing/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kassambara2016drawing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/kassambara2016drawing/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kassambara2016drawing/</guid>
       <description></description>
     </item>
     

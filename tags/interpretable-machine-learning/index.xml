@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>interpretable-machine-learning on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/tags/interpretable-machine-learning/</link>
+    <link>http://localhost:1313/mi2-test2/tags/interpretable-machine-learning/</link>
     <description>Recent content in interpretable-machine-learning on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/tags/interpretable-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/tags/interpretable-machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hubert Baniecki</title>
-      <link>http://localhost:46305/mi2-test2/member/hubertbaniecki/</link>
+      <link>http://localhost:1313/mi2-test2/member/hubertbaniecki/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/member/hubertbaniecki/</guid>
+      <guid>http://localhost:1313/mi2-test2/member/hubertbaniecki/</guid>
       <description>About</description>
     </item>
     
     <item>
       <title>Katarzyna Kobylińska</title>
-      <link>http://localhost:46305/mi2-test2/member/katarzynakobylinska/</link>
+      <link>http://localhost:1313/mi2-test2/member/katarzynakobylinska/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/member/katarzynakobylinska/</guid>
+      <guid>http://localhost:1313/mi2-test2/member/katarzynakobylinska/</guid>
       <description>About</description>
     </item>
     
     <item>
       <title>Maciej Masiak</title>
-      <link>http://localhost:46305/mi2-test2/member/maciejmasiak/</link>
+      <link>http://localhost:1313/mi2-test2/member/maciejmasiak/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/member/maciejmasiak/</guid>
+      <guid>http://localhost:1313/mi2-test2/member/maciejmasiak/</guid>
       <description>About</description>
     </item>
     
     <item>
       <title>Mateusz Staniak</title>
-      <link>http://localhost:46305/mi2-test2/member/mateuszstaniak/</link>
+      <link>http://localhost:1313/mi2-test2/member/mateuszstaniak/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/member/mateuszstaniak/</guid>
+      <guid>http://localhost:1313/mi2-test2/member/mateuszstaniak/</guid>
       <description>PhD candidate in (Interpretable) Machine Learning. I am interested in local explanations of machine learning models, automated Exploratory Data Analysis and applications of Stats&amp;amp;ML in medicine and proteomics.</description>
     </item>
     
     <item>
       <title>Michal Kuźba</title>
-      <link>http://localhost:46305/mi2-test2/member/michalkuzba/</link>
+      <link>http://localhost:1313/mi2-test2/member/michalkuzba/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/member/michalkuzba/</guid>
+      <guid>http://localhost:1313/mi2-test2/member/michalkuzba/</guid>
       <description>I am a master&amp;rsquo;s student interested in Data Science, Machine Learning and NLP.</description>
     </item>
     
     <item>
       <title>Tomasz Mikołajczyk</title>
-      <link>http://localhost:46305/mi2-test2/member/tomaszmikolajczyk/</link>
+      <link>http://localhost:1313/mi2-test2/member/tomaszmikolajczyk/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/member/tomaszmikolajczyk/</guid>
+      <guid>http://localhost:1313/mi2-test2/member/tomaszmikolajczyk/</guid>
       <description>About</description>
     </item>
     
     <item>
       <title>Tomasz Stanisławek</title>
-      <link>http://localhost:46305/mi2-test2/member/tomaszstanislawek/</link>
+      <link>http://localhost:1313/mi2-test2/member/tomaszstanislawek/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/member/tomaszstanislawek/</guid>
+      <guid>http://localhost:1313/mi2-test2/member/tomaszstanislawek/</guid>
       <description>About</description>
     </item>
     

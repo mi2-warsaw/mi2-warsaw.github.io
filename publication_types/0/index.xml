@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/publication_types/0/</link>
+    <link>http://localhost:1313/mi2-test2/publication_types/0/</link>
     <description>Recent content in 0 on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference Report: European R Users Meeting 2016</title>
-      <link>http://localhost:46305/mi2-test2/publication/beresewicz2017conference/</link>
+      <link>http://localhost:1313/mi2-test2/publication/beresewicz2017conference/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/beresewicz2017conference/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/beresewicz2017conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PTEN Alterations Are Related to Unfavorable Prognosis in Children with T-Cell Acute Lymphoblastic Leukemia Treated According to ALL IC-BFM Protocols</title>
-      <link>http://localhost:46305/mi2-test2/publication/szarzynska2017pten/</link>
+      <link>http://localhost:1313/mi2-test2/publication/szarzynska2017pten/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/szarzynska2017pten/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/szarzynska2017pten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Package ‘survminer’</title>
-      <link>http://localhost:46305/mi2-test2/publication/kassambara2017package/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kassambara2017package/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/kassambara2017package/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kassambara2017package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Przewodnik po pakiecie R</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2014przewodnik/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2014przewodnik/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2014przewodnik/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2014przewodnik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analiza danych z programem R: modele liniowe z efektami stałymi, losowymi i mieszanymi</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2011analiza/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2011analiza/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2011analiza/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2011analiza/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference Review: WZUR (2.0)-The Second Meeting of Polish R Users</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2009conference/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2009conference/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2009conference/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2009conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Na przełaj przez Data Mining</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2008przelaj/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2008przelaj/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2008przelaj/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2008przelaj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interfejs graficzny i diagramy sekwencji w generacji prototypu</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2003interfejs/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2003interfejs/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2003interfejs/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2003interfejs/</guid>
       <description></description>
     </item>
     

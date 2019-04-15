@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Talalaj on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/m-talalaj/</link>
+    <link>http://localhost:1313/mi2-test2/authors/m-talalaj/</link>
     <description>Recent content in M Talalaj on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/m-talalaj/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/m-talalaj/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Impact of obesity and nitric oxide synthase gene G894T polymorphism on essential hypertension</title>
-      <link>http://localhost:46305/mi2-test2/publication/wrzosek2015impact/</link>
+      <link>http://localhost:1313/mi2-test2/publication/wrzosek2015impact/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/wrzosek2015impact/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/wrzosek2015impact/</guid>
       <description></description>
     </item>
     

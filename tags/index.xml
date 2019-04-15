@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/tags/</link>
+    <link>http://localhost:1313/mi2-test2/tags/</link>
     <description>Recent content in Tags on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:46305/mi2-test2/tags/deep-learning/</link>
+      <link>http://localhost:1313/mi2-test2/tags/deep-learning/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/tags/deep-learning/</guid>
+      <guid>http://localhost:1313/mi2-test2/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interpretable-machine-learning</title>
-      <link>http://localhost:46305/mi2-test2/tags/interpretable-machine-learning/</link>
+      <link>http://localhost:1313/mi2-test2/tags/interpretable-machine-learning/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/tags/interpretable-machine-learning/</guid>
+      <guid>http://localhost:1313/mi2-test2/tags/interpretable-machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine-learning</title>
-      <link>http://localhost:46305/mi2-test2/tags/machine-learning/</link>
+      <link>http://localhost:1313/mi2-test2/tags/machine-learning/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/tags/machine-learning/</guid>
+      <guid>http://localhost:1313/mi2-test2/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>visualisation</title>
-      <link>http://localhost:46305/mi2-test2/tags/visualisation/</link>
+      <link>http://localhost:1313/mi2-test2/tags/visualisation/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/tags/visualisation/</guid>
+      <guid>http://localhost:1313/mi2-test2/tags/visualisation/</guid>
       <description></description>
     </item>
     

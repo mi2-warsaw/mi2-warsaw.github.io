@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maintainer Daniel Caro on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/maintainer-daniel-caro/</link>
+    <link>http://localhost:1313/mi2-test2/authors/maintainer-daniel-caro/</link>
     <description>Recent content in Maintainer Daniel Caro on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/maintainer-daniel-caro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/maintainer-daniel-caro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Package ‘intsvy’</title>
-      <link>http://localhost:46305/mi2-test2/publication/caro2018package/</link>
+      <link>http://localhost:1313/mi2-test2/publication/caro2018package/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/caro2018package/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/caro2018package/</guid>
       <description></description>
     </item>
     

@@ -2,282 +2,282 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P Biecek on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/p-biecek/</link>
+    <link>http://localhost:1313/mi2-test2/authors/p-biecek/</link>
     <description>Recent content in P Biecek on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/p-biecek/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/p-biecek/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Influence of Clonal Plasma Cell Contamination of Peripheral Blood Stem Cell Autografts on Progression and Survival in Multiple Myeloma Patients After Autologous Peripheral …</title>
-      <link>http://localhost:46305/mi2-test2/publication/waszczuk2018influence/</link>
+      <link>http://localhost:1313/mi2-test2/publication/waszczuk2018influence/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/waszczuk2018influence/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/waszczuk2018influence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nucleoli and nuclear pseudoinclusions in cutaneous melanoma cells a new prognostic approach to an old concept</title>
-      <link>http://localhost:46305/mi2-test2/publication/donizy2017nucleoli/</link>
+      <link>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/donizy2017nucleoli/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patients with classical H odgkin lymphoma (CHL) and treatment failure despite a negative iPET have poor outcomes as patients with positive iPET and treatment escalation</title>
-      <link>http://localhost:46305/mi2-test2/publication/zaucha2017patients/</link>
+      <link>http://localhost:1313/mi2-test2/publication/zaucha2017patients/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/zaucha2017patients/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/zaucha2017patients/</guid>
       <description></description>
     </item>
     
     <item>
       <title>survminer: Drawing Survival Curves using&#39;ggplot2&#39;</title>
-      <link>http://localhost:46305/mi2-test2/publication/kassambara2017survminer/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kassambara2017survminer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/kassambara2017survminer/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kassambara2017survminer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drawing survival curves using ‘ggplot2’</title>
-      <link>http://localhost:46305/mi2-test2/publication/kassambara2016drawing/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kassambara2016drawing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/kassambara2016drawing/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kassambara2016drawing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rhinosinusitis in Acute Leukemia Patients Undergoing Allogeneic Stem Cell Transplantation—A Single-Center Experience</title>
-      <link>http://localhost:46305/mi2-test2/publication/drozd2016rhinosinusitis/</link>
+      <link>http://localhost:1313/mi2-test2/publication/drozd2016rhinosinusitis/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/drozd2016rhinosinusitis/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/drozd2016rhinosinusitis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of obesity and nitric oxide synthase gene G894T polymorphism on essential hypertension</title>
-      <link>http://localhost:46305/mi2-test2/publication/wrzosek2015impact/</link>
+      <link>http://localhost:1313/mi2-test2/publication/wrzosek2015impact/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/wrzosek2015impact/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/wrzosek2015impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advanced age of renal transplant recipients correlates with increased plasma concentrations of interleukin-6, chemokine ligand 2 (CCL2), and matrix metalloproteinase 2, and …</title>
-      <link>http://localhost:46305/mi2-test2/publication/mazanowska2014advanced/</link>
+      <link>http://localhost:1313/mi2-test2/publication/mazanowska2014advanced/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/mazanowska2014advanced/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mazanowska2014advanced/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased plasma matrix metalloproteinase-2 (MMP-2), tissue inhibitor of proteinase-1 (TIMP-1), TIMP-2, and urine MMP-2 concentrations correlate with proteinuria in renal …</title>
-      <link>http://localhost:46305/mi2-test2/publication/mazanowska2014increased/</link>
+      <link>http://localhost:1313/mi2-test2/publication/mazanowska2014increased/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/mazanowska2014increased/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mazanowska2014increased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased plasma tissue inhibitors of metalloproteinase concentrations as negative predictors associated with deterioration of kidney allograft function upon long-term observation</title>
-      <link>http://localhost:46305/mi2-test2/publication/mazanowska2013increased/</link>
+      <link>http://localhost:1313/mi2-test2/publication/mazanowska2013increased/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/mazanowska2013increased/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mazanowska2013increased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S32. 2significance Of Ace, 5httlpr And Bdnf Genes Interactions As Predictors Of The Risk Of The Onset Of Alcohol Problems. Data From Polish Sample Of Alcohol-dependent Patients</title>
-      <link>http://localhost:46305/mi2-test2/publication/matsumoto2013s32/</link>
+      <link>http://localhost:1313/mi2-test2/publication/matsumoto2013s32/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/matsumoto2013s32/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/matsumoto2013s32/</guid>
       <description></description>
     </item>
     
     <item>
       <title>256. CK5/6-the Old/new Prognostic and Predictive Marker in Breast Cancer?</title>
-      <link>http://localhost:46305/mi2-test2/publication/matkowski2012256/</link>
+      <link>http://localhost:1313/mi2-test2/publication/matkowski2012256/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/matkowski2012256/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/matkowski2012256/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased Plasma Timps Concentrations as the Negative Predictor Associated with Deterioration of Kidney Allograft Function in the Long-Term Observation: 755</title>
-      <link>http://localhost:46305/mi2-test2/publication/mazanowska2012increased/</link>
+      <link>http://localhost:1313/mi2-test2/publication/mazanowska2012increased/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/mazanowska2012increased/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mazanowska2012increased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biomarkers of alcohol abuse: beta-hexosaminidase activity in serum and urine in a sample of students of Medical University of Warsaw</title>
-      <link>http://localhost:46305/mi2-test2/publication/ordak2011biomarkers/</link>
+      <link>http://localhost:1313/mi2-test2/publication/ordak2011biomarkers/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/ordak2011biomarkers/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/ordak2011biomarkers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiologia zaburzeń otępiennych w Polsce–przegląd badań</title>
-      <link>http://localhost:46305/mi2-test2/publication/kiejna2011epidemiologia/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kiejna2011epidemiologia/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/kiejna2011epidemiologia/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kiejna2011epidemiologia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Large Scale, Massively Parallel Logistic Regression in R with the Netezza Analytics Package</title>
-      <link>http://localhost:46305/mi2-test2/publication/dendek2011large/</link>
+      <link>http://localhost:1313/mi2-test2/publication/dendek2011large/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/dendek2011large/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/dendek2011large/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P186 Prognostic role of VEGFR1–3 immunoreactivity in breast cancer patients</title>
-      <link>http://localhost:46305/mi2-test2/publication/gisterek2011p186/</link>
+      <link>http://localhost:1313/mi2-test2/publication/gisterek2011p186/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/gisterek2011p186/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/gisterek2011p186/</guid>
       <description></description>
     </item>
     
     <item>
       <title>1, 25-dihydroxyvitamin D deficiency predicts poorer outcome after renal transplantation</title>
-      <link>http://localhost:46305/mi2-test2/publication/falkiewicz20091/</link>
+      <link>http://localhost:1313/mi2-test2/publication/falkiewicz20091/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/falkiewicz20091/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/falkiewicz20091/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimated glomerular filtration rate evolution between 6 and 24 months predicts long-term kidney transplant survival among patients with inferior graft function</title>
-      <link>http://localhost:46305/mi2-test2/publication/magott2009estimated/</link>
+      <link>http://localhost:1313/mi2-test2/publication/magott2009estimated/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/magott2009estimated/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/magott2009estimated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution of bone disease at 2 years after transplantation: a single-center study</title>
-      <link>http://localhost:46305/mi2-test2/publication/falkiewicz2009evolution/</link>
+      <link>http://localhost:1313/mi2-test2/publication/falkiewicz2009evolution/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/falkiewicz2009evolution/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/falkiewicz2009evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Depression and anxiety of CABG patients-long-term follow-up</title>
-      <link>http://localhost:46305/mi2-test2/publication/rymaszewska2008depression/</link>
+      <link>http://localhost:1313/mi2-test2/publication/rymaszewska2008depression/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/rymaszewska2008depression/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rymaszewska2008depression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagnostic Accuracy of an Optimised Ac Impedance Device to Aid Caries Detection and Monitoring: 79</title>
-      <link>http://localhost:46305/mi2-test2/publication/pitts2008diagnostic/</link>
+      <link>http://localhost:1313/mi2-test2/publication/pitts2008diagnostic/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/pitts2008diagnostic/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/pitts2008diagnostic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LEUCOCYTE ELASTASE-A; 1PROTEASE INHIBITOR COMPLEX–NEUTROPHIL DEGRANULATION MARKER IN PLASMA AND URINE OF PATIENTS AFTER DECEASED RENAL ALLOGRAFT TRANSPLANTATION. ASSESSMENT OF …</title>
-      <link>http://localhost:46305/mi2-test2/publication/zynek2008leucocyte/</link>
+      <link>http://localhost:1313/mi2-test2/publication/zynek2008leucocyte/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/zynek2008leucocyte/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/zynek2008leucocyte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEUTROPHILS DEGRANULATION MARKER-LEUCOCYTE ELASTASE-A; 1PROTEASE INHIBITOR COMPLEX: A COMPARATIVE STUDY WITH CLASSIC (A; 1M, B; 2M) AND NOVEL (NGAL, IL-18) KIDNEY GRAFT INJURY …</title>
-      <link>http://localhost:46305/mi2-test2/publication/zynek2008neutrophils/</link>
+      <link>http://localhost:1313/mi2-test2/publication/zynek2008neutrophils/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/zynek2008neutrophils/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/zynek2008neutrophils/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sleep disorders in patients with end-stage renal disease. Preliminary report</title>
-      <link>http://localhost:46305/mi2-test2/publication/sieradzki2008sleep/</link>
+      <link>http://localhost:1313/mi2-test2/publication/sieradzki2008sleep/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/sieradzki2008sleep/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/sieradzki2008sleep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VASCULAR ENDOTHELIAL GROWTH FACTOR C SERUM LEVELS IN PATIENTS WITH BREAST CANCER</title>
-      <link>http://localhost:46305/mi2-test2/publication/gisterek2008vascular/</link>
+      <link>http://localhost:1313/mi2-test2/publication/gisterek2008vascular/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/gisterek2008vascular/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/gisterek2008vascular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ac-impedance spectroscopy technique for the detection of dental caries in human teeth</title>
-      <link>http://localhost:46305/mi2-test2/publication/los2007ac/</link>
+      <link>http://localhost:1313/mi2-test2/publication/los2007ac/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/los2007ac/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/los2007ac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Locating multiple interacting quantitative trait loci with the modified version of Bayesian Information Criterion</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2005locating/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2005locating/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2005locating/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2005locating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modified version of Bayesian Information criterion for localization of multiple interacting quantitative trait loci</title>
-      <link>http://localhost:46305/mi2-test2/publication/bogdan2005modified/</link>
+      <link>http://localhost:1313/mi2-test2/publication/bogdan2005modified/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/bogdan2005modified/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/bogdan2005modified/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The&#34; fluorescent cell chip&#34; technology as an emerging in vitro tool for immunotoxicants&#39; fingerprint search</title>
-      <link>http://localhost:46305/mi2-test2/publication/wagner2005fluorescent/</link>
+      <link>http://localhost:1313/mi2-test2/publication/wagner2005fluorescent/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/wagner2005fluorescent/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/wagner2005fluorescent/</guid>
       <description></description>
     </item>
     

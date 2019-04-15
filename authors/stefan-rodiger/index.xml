@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefan Rodiger on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/stefan-rodiger/</link>
+    <link>http://localhost:1313/mi2-test2/authors/stefan-rodiger/</link>
     <description>Recent content in Stefan Rodiger on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/stefan-rodiger/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/stefan-rodiger/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amyloidogenic motifs revealed by n-gram analysis</title>
-      <link>http://localhost:46305/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
+      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling reproducible real-time quantitative PCR research: the RDML package</title>
-      <link>http://localhost:46305/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</link>
+      <link>http://localhost:1313/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rodigerenablingreproduciblerealtime2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genotypic and phenotypic characteristics in association with biofilm formation in different pathotypes of human clinical Escherichia coli isolates</title>
-      <link>http://localhost:46305/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
+      <link>http://localhost:1313/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methods for comparing multiple digital PCR experiments</title>
-      <link>http://localhost:46305/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
+      <link>http://localhost:1313/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/burdukiewiczmethodscomparingdigital2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>System-specific periodicity in quantitative real-time polymerase chain reaction data questions threshold-based quantitation</title>
-      <link>http://localhost:46305/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
+      <link>http://localhost:1313/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/spiesssystemspecificperiodicityquantitative2016a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of smoothing on parameter estimation in quantitative DNA amplification experiments</title>
-      <link>http://localhost:46305/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</link>
+      <link>http://localhost:1313/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/spiessimpactsmoothingparameter2015a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chipPCR: an R package to pre-process raw data of amplification curves</title>
-      <link>http://localhost:46305/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</link>
+      <link>http://localhost:1313/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/rodigerchippcrpackagepreprocess2015/</guid>
       <description></description>
     </item>
     

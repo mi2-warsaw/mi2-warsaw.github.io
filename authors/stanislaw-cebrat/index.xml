@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stanislaw Cebrat on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/stanislaw-cebrat/</link>
+    <link>http://localhost:1313/mi2-test2/authors/stanislaw-cebrat/</link>
     <description>Recent content in Stanislaw Cebrat on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/stanislaw-cebrat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/stanislaw-cebrat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evolution of the age-structured populations and demography</title>
-      <link>http://localhost:46305/mi2-test2/publication/laszkiewicz2009evolution/</link>
+      <link>http://localhost:1313/mi2-test2/publication/laszkiewicz2009evolution/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/laszkiewicz2009evolution/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/laszkiewicz2009evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimisation of asymmetric mutational pressure and selection pressure around the universal genetic code</title>
-      <link>http://localhost:46305/mi2-test2/publication/mackiewicz2008optimisation/</link>
+      <link>http://localhost:1313/mi2-test2/publication/mackiewicz2008optimisation/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/mackiewicz2008optimisation/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/mackiewicz2008optimisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase transition in sexual reproduction and biological evolution</title>
-      <link>http://localhost:46305/mi2-test2/publication/zawierta2008phase/</link>
+      <link>http://localhost:1313/mi2-test2/publication/zawierta2008phase/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/zawierta2008phase/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/zawierta2008phase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relations between organisms and the environment in the ageing process</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2008relations/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2008relations/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2008relations/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2008relations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relationship between the selection pressure and the rate of mutation accumulation</title>
-      <link>http://localhost:46305/mi2-test2/publication/bonkowska2008relationship/</link>
+      <link>http://localhost:1313/mi2-test2/publication/bonkowska2008relationship/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/bonkowska2008relationship/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/bonkowska2008relationship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Y chromosome is shorter and women live longer?</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2008chromosome/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2008chromosome/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2008chromosome/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2008chromosome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandemics and immune memory in the noisy Penna model</title>
-      <link>http://localhost:46305/mi2-test2/publication/cebrat2007pandemics/</link>
+      <link>http://localhost:1313/mi2-test2/publication/cebrat2007pandemics/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/cebrat2007pandemics/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/cebrat2007pandemics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The relationships between the isoelectric point and: length of proteins, taxonomy and ecology of organisms</title>
-      <link>http://localhost:46305/mi2-test2/publication/kiraga2007relationships/</link>
+      <link>http://localhost:1313/mi2-test2/publication/kiraga2007relationships/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/kiraga2007relationships/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/kiraga2007relationships/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of intragenomic recombination rate in the evolution of population&#39;s genetic pool</title>
-      <link>http://localhost:46305/mi2-test2/publication/zawierta2007role/</link>
+      <link>http://localhost:1313/mi2-test2/publication/zawierta2007role/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/zawierta2007role/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/zawierta2007role/</guid>
       <description></description>
     </item>
     
     <item>
       <title>White noise and synchronization shaping the age structure of the human population</title>
-      <link>http://localhost:46305/mi2-test2/publication/cebrat2007white/</link>
+      <link>http://localhost:1313/mi2-test2/publication/cebrat2007white/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/cebrat2007white/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/cebrat2007white/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fluctuations, environment, mutations accumulation and ageing</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2006fluctuations/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2006fluctuations/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2006fluctuations/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2006fluctuations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunity in the noisy Penna model</title>
-      <link>http://localhost:46305/mi2-test2/publication/biecek2006immunity/</link>
+      <link>http://localhost:1313/mi2-test2/publication/biecek2006immunity/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/biecek2006immunity/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/biecek2006immunity/</guid>
       <description></description>
     </item>
     

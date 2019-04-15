@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J Grad on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/j-grad/</link>
+    <link>http://localhost:1313/mi2-test2/authors/j-grad/</link>
     <description>Recent content in J Grad on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/j-grad/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/j-grad/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Patients with classical H odgkin lymphoma (CHL) and treatment failure despite a negative iPET have poor outcomes as patients with positive iPET and treatment escalation</title>
-      <link>http://localhost:46305/mi2-test2/publication/zaucha2017patients/</link>
+      <link>http://localhost:1313/mi2-test2/publication/zaucha2017patients/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/zaucha2017patients/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/zaucha2017patients/</guid>
       <description></description>
     </item>
     

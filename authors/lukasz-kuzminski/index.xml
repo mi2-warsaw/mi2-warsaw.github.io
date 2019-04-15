@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lukasz Kuzminski on MI2 DataLab</title>
-    <link>http://localhost:46305/mi2-test2/authors/lukasz-kuzminski/</link>
+    <link>http://localhost:1313/mi2-test2/authors/lukasz-kuzminski/</link>
     <description>Recent content in Lukasz Kuzminski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:46305/mi2-test2/authors/lukasz-kuzminski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/mi2-test2/authors/lukasz-kuzminski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Morphological relationship between the cranial and supraorbital regions in Homo sapiens</title>
-      <link>http://localhost:46305/mi2-test2/publication/nowaczewska2015morphological/</link>
+      <link>http://localhost:1313/mi2-test2/publication/nowaczewska2015morphological/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/nowaczewska2015morphological/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/nowaczewska2015morphological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>STUDY OF THE VARIATION OF THE DEGREES OF SUPRAORBITAL RIDGE EXPRESSION IN ADULT HOMO SAPIENS</title>
-      <link>http://localhost:46305/mi2-test2/publication/nowaczewska2014study/</link>
+      <link>http://localhost:1313/mi2-test2/publication/nowaczewska2014study/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46305/mi2-test2/publication/nowaczewska2014study/</guid>
+      <guid>http://localhost:1313/mi2-test2/publication/nowaczewska2014study/</guid>
       <description></description>
     </item>
     
