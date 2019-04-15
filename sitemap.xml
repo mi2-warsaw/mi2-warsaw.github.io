@@ -68,6 +68,14 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/member/annawr%C3%B3blewska/</loc>
+      <lastmod>2018-04-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/member/alicjagosiewska/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
     </url>
@@ -172,6 +180,14 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/publication/dblpjournalscorrabs180903740/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/publication/rychalska2018does/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -229,6 +245,22 @@
     <url>
     
       <loc>http://localhost:1313/mi2-test2/publication/waszczuk2018influence/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/publication/dblpconfsnamsbasajrw18/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/publication/dblpconfsnamsrychalskagw18/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -692,6 +724,14 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/publication/dblpconfsigirwroblewskar16/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/publication/kolendasystematicreviewmetaanalysis2015/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -828,6 +868,14 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbp13/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/publication/libman2013comparison/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -876,6 +924,22 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbrp13/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/publication/dblpconfhsiwroblewskakzl13/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/publication/matkowski2012256/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -901,6 +965,30 @@
     <url>
     
       <loc>http://localhost:1313/mi2-test2/publication/mazanowska2012increased/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/publication/dblpconfismisprotaziukwbrp12/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbpr12/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/publication/dblpconfadbisryzkow12/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1132,7 +1220,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/mi2-test2/publication/biecek2008przelaj/</loc>
+      <loc>http://localhost:1313/mi2-test2/publication/zynek2008neutrophils/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1140,7 +1228,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/mi2-test2/publication/zynek2008neutrophils/</loc>
+      <loc>http://localhost:1313/mi2-test2/publication/biecek2008przelaj/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1348,6 +1436,14 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/publication/dblpconficcvgbargielpw04/</loc>
+      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/publication/biecek2003interfejs/</loc>
       <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -1425,7 +1521,7 @@
     <url>
     
       <loc>http://localhost:1313/mi2-test2/publication_types/6/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2126,6 +2222,15 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/authors/artur-przelaskowski/</loc>
+      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/authors/aurelia-walczak-drzewiecka/</loc>
       <lastmod>2006-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -2493,6 +2598,15 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/authors/dominik-ryzko/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/authors/dominika-basaj/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -2790,6 +2904,15 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/authors/grzegorz-protaziuk/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/authors/h-matsumoto/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -2819,6 +2942,24 @@
     
       <loc>http://localhost:1313/mi2-test2/authors/hanna-baurska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/authors/helena-t.-glabska/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/authors/henryk-rybinski/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2891,6 +3032,15 @@
     
       <loc>http://localhost:1313/mi2-test2/authors/iwona-gisterek/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/authors/iwona-lugowska/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -3809,6 +3959,15 @@
     
       <loc>http://localhost:1313/mi2-test2/authors/lukasz-kuzminski/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/authors/lukasz-raczkowski/</loc>
+      <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4905,8 +5064,26 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/authors/pawel-bargiel/</loc>
+      <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/authors/pawel-chudzian/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/authors/pawel-kaplanski/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -4961,6 +5138,15 @@
     
       <loc>http://localhost:1313/mi2-test2/authors/pawel-szwedyk/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/authors/pawel-zarzycki/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -5280,6 +5466,15 @@
     
     <url>
     
+      <loc>http://localhost:1313/mi2-test2/authors/robert-bembenik/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://localhost:1313/mi2-test2/authors/roksana-iwanicka-nowicka/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -5516,6 +5711,15 @@
     
       <loc>http://localhost:1313/mi2-test2/authors/teresa-ledwina/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://localhost:1313/mi2-test2/authors/teresa-podsiadly-marczykowska/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

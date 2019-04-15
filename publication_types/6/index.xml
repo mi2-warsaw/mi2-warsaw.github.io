@@ -6,10 +6,37 @@
     <description>Recent content in 6 on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/mi2-test2/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Associations between texts and ontology</title>
+      <link>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbp13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbp13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SYNAT system ontology: design patterns applied to modeling of scientific community, preliminary model evaluation</title>
+      <link>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbrp13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbrp13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and tools for ontology building, learning and integration–application in the synat project</title>
+      <link>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbpr12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/publication/dblpseriessciwroblewskapbpr12/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evolution of the age-structured populations and demography</title>

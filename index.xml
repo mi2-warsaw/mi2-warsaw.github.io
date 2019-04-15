@@ -52,7 +52,7 @@
     </item>
     
     <item>
-      <title>Predictive model for infection risk in myelodysplastic syndromes, acute myeloid leukemia and chronic myelomonocytic leukemia patients treated with azacitidine-Azacitidine …</title>
+      <title>Predictive Model for Infection Risk in Myelodysplastic Syndromes, Acute Myeloid Leukemia, and Chronic Myelomonocytic Leukemia Patients Treated With Azacitidine; Azacitidine …</title>
       <link>http://localhost:1313/mi2-test2/publication/mkadry2019predictive/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -85,6 +85,20 @@
       
       <guid>http://localhost:1313/mi2-test2/publication/michalik2019ultralow/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Wróblewska</title>
+      <link>http://localhost:1313/mi2-test2/member/annawr%C3%B3blewska/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/member/annawr%C3%B3blewska/</guid>
+      <description>&lt;p&gt;Anna Wróblewska is an assistant professor at Warsaw University of Technology. She has years of experience in the design of intelligent systems and description of semantic data acquired in a commercial and scientific environment. She is also a senior data scientist at Applica.ai, in charge of several R&amp;amp;D projects about text-mining, image recognition, and model diagnostics and interpretability.&lt;/p&gt;
+
+&lt;p&gt;Previously she worked at Allegro, the biggest e-commerce marketplace portal in Eastern Europe, where she dealt with the intelligent methods of data analysis. She is the author of over 35 publications in Polish and international journals and materials. Her main research interests are focused on machine learning in practical applications, primarily the semantic understanding and modeling data and their interpretability.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mi2-test2/mi2-test2/authors/anna-wroblewska&#34;&gt;Anna Wróblewska&amp;rsquo;s publications &lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -144,17 +158,7 @@ I am interested in local explanations of machine learning models, automated Expl
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/mi2-test2/member/michalkuzba/</guid>
-      <description>&lt;p&gt;About&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Michał Burdukiewicz</title>
-      <link>http://localhost:1313/mi2-test2/member/michalburdukiewicz/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/mi2-test2/member/michalburdukiewicz/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mi2-test2/mi2-test2/authors/michal-burdukiewicz/&#34;&gt;Michal Burdukiewicz&amp;rsquo;s publications &lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I am a master&amp;rsquo;s student interested in Data Science, Machine Learning and NLP.&lt;/p&gt;
 </description>
     </item>
     

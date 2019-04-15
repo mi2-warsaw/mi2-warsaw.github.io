@@ -705,6 +705,15 @@
     </item>
     
     <item>
+      <title>Artur Przelaskowski</title>
+      <link>http://localhost:1313/mi2-test2/authors/artur-przelaskowski/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/artur-przelaskowski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Aurelia Walczak-Drzewiecka</title>
       <link>http://localhost:1313/mi2-test2/authors/aurelia-walczak-drzewiecka/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
@@ -1038,6 +1047,15 @@
     </item>
     
     <item>
+      <title>Dominik Ryzko</title>
+      <link>http://localhost:1313/mi2-test2/authors/dominik-ryzko/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/dominik-ryzko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dominika Basaj</title>
       <link>http://localhost:1313/mi2-test2/authors/dominika-basaj/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -1335,6 +1353,15 @@
     </item>
     
     <item>
+      <title>Grzegorz Protaziuk</title>
+      <link>http://localhost:1313/mi2-test2/authors/grzegorz-protaziuk/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/grzegorz-protaziuk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>H Matsumoto</title>
       <link>http://localhost:1313/mi2-test2/authors/h-matsumoto/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -1367,6 +1394,24 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/mi2-test2/authors/hanna-baurska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helena T. Glabska</title>
+      <link>http://localhost:1313/mi2-test2/authors/helena-t.-glabska/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/helena-t.-glabska/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Henryk Rybinski</title>
+      <link>http://localhost:1313/mi2-test2/authors/henryk-rybinski/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/henryk-rybinski/</guid>
       <description></description>
     </item>
     
@@ -1439,6 +1484,15 @@
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/mi2-test2/authors/iwona-gisterek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iwona Lugowska</title>
+      <link>http://localhost:1313/mi2-test2/authors/iwona-lugowska/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/iwona-lugowska/</guid>
       <description></description>
     </item>
     
@@ -2357,6 +2411,15 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/mi2-test2/authors/lukasz-kuzminski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lukasz Raczkowski</title>
+      <link>http://localhost:1313/mi2-test2/authors/lukasz-raczkowski/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/lukasz-raczkowski/</guid>
       <description></description>
     </item>
     
@@ -3432,11 +3495,29 @@
     </item>
     
     <item>
+      <title>Pawel Bargiel</title>
+      <link>http://localhost:1313/mi2-test2/authors/pawel-bargiel/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/pawel-bargiel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pawel Chudzian</title>
       <link>http://localhost:1313/mi2-test2/authors/pawel-chudzian/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/mi2-test2/authors/pawel-chudzian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pawel Kaplanski</title>
+      <link>http://localhost:1313/mi2-test2/authors/pawel-kaplanski/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/pawel-kaplanski/</guid>
       <description></description>
     </item>
     
@@ -3491,6 +3572,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/mi2-test2/authors/pawel-szwedyk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pawel Zarzycki</title>
+      <link>http://localhost:1313/mi2-test2/authors/pawel-zarzycki/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/pawel-zarzycki/</guid>
       <description></description>
     </item>
     
@@ -3774,6 +3864,15 @@
     </item>
     
     <item>
+      <title>Robert Bembenik</title>
+      <link>http://localhost:1313/mi2-test2/authors/robert-bembenik/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/robert-bembenik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Roksana Iwanicka-Nowicka</title>
       <link>http://localhost:1313/mi2-test2/authors/roksana-iwanicka-nowicka/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -4004,6 +4103,15 @@
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/mi2-test2/authors/teresa-ledwina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teresa Podsiadly-Marczykowska</title>
+      <link>http://localhost:1313/mi2-test2/authors/teresa-podsiadly-marczykowska/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/mi2-test2/authors/teresa-podsiadly-marczykowska/</guid>
       <description></description>
     </item>
     
