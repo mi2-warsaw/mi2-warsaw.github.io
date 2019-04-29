@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marta Zawierta on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/marta-zawierta/</link>
+    <link>http://localhost:1313/authors/marta-zawierta/</link>
     <description>Recent content in Marta Zawierta on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/marta-zawierta/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/marta-zawierta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Phase transition in sexual reproduction and biological evolution</title>
-      <link>http://localhost:1313/mi2-test2/publication/zawierta2008phase/</link>
+      <link>http://localhost:1313/publication/zawierta2008phase/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/zawierta2008phase/</guid>
+      <guid>http://localhost:1313/publication/zawierta2008phase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of intragenomic recombination rate in the evolution of population&#39;s genetic pool</title>
-      <link>http://localhost:1313/mi2-test2/publication/zawierta2007role/</link>
+      <link>http://localhost:1313/publication/zawierta2007role/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/zawierta2007role/</guid>
+      <guid>http://localhost:1313/publication/zawierta2007role/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aria Bagheri on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/aria-bagheri/</link>
+    <link>http://localhost:1313/authors/aria-bagheri/</link>
     <description>Recent content in Aria Bagheri on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/aria-bagheri/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/aria-bagheri/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>13th International Conference on Conservative Management of Spinal Deformities and First Joint Meeting of the International Research Society on Spinal Deformities and the …</title>
-      <link>http://localhost:1313/mi2-test2/publication/bagheri201713th/</link>
+      <link>http://localhost:1313/publication/bagheri201713th/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/bagheri201713th/</guid>
+      <guid>http://localhost:1313/publication/bagheri201713th/</guid>
       <description></description>
     </item>
     

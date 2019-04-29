@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Piotr Donizy on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/piotr-donizy/</link>
+    <link>http://localhost:1313/authors/piotr-donizy/</link>
     <description>Recent content in Piotr Donizy on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/piotr-donizy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/piotr-donizy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SMAD7 is a novel independent predictor of survival in patients with cutaneous melanoma</title>
-      <link>http://localhost:1313/mi2-test2/publication/kaczorowski2019smad7/</link>
+      <link>http://localhost:1313/publication/kaczorowski2019smad7/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/kaczorowski2019smad7/</guid>
+      <guid>http://localhost:1313/publication/kaczorowski2019smad7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biological Aggressiveness of Subclinical No-Mass Ductal Carcinoma In Situ (DCIS) Can Be Reflected by the Expression Profiles of Epithelial-Mesenchymal Transition Triggers</title>
-      <link>http://localhost:1313/mi2-test2/publication/szynglarewicz2018biological/</link>
+      <link>http://localhost:1313/publication/szynglarewicz2018biological/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/szynglarewicz2018biological/</guid>
+      <guid>http://localhost:1313/publication/szynglarewicz2018biological/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nuclear pseudoinclusions in melanoma cells: prognostic fact or artifact? The possible role of Golgi phosphoprotein 3 overexpression in nuclear pseudoinclusions generation</title>
-      <link>http://localhost:1313/mi2-test2/publication/donizy2018nuclear/</link>
+      <link>http://localhost:1313/publication/donizy2018nuclear/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/donizy2018nuclear/</guid>
+      <guid>http://localhost:1313/publication/donizy2018nuclear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epithelial‐mesenchymal transition inducer Snail1 and invasive potential of intraductal breast cancer</title>
-      <link>http://localhost:1313/mi2-test2/publication/szynglarewicz2017epithelial/</link>
+      <link>http://localhost:1313/publication/szynglarewicz2017epithelial/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/szynglarewicz2017epithelial/</guid>
+      <guid>http://localhost:1313/publication/szynglarewicz2017epithelial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nucleoli cytomorphology in cutaneous melanoma cells–a new prognostic approach to an old concept</title>
-      <link>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli1/</link>
+      <link>http://localhost:1313/publication/donizy2017nucleoli1/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/donizy2017nucleoli1/</guid>
+      <guid>http://localhost:1313/publication/donizy2017nucleoli1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BILLCD8–A Multivariable Survival Model as a Simple and Clinically Useful Prognostic Tool to Identify High-risk Cutaneous Melanoma Patients</title>
-      <link>http://localhost:1313/mi2-test2/publication/donizy2016billcd8/</link>
+      <link>http://localhost:1313/publication/donizy2016billcd8/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/donizy2016billcd8/</guid>
+      <guid>http://localhost:1313/publication/donizy2016billcd8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrary effect of two types of spatial distribution (diffuse versus marginal) of CD8-positive lymphocytes on clinical outcome in melanoma patients</title>
-      <link>http://localhost:1313/mi2-test2/publication/donizy2016contrary/</link>
+      <link>http://localhost:1313/publication/donizy2016contrary/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/donizy2016contrary/</guid>
+      <guid>http://localhost:1313/publication/donizy2016contrary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ductal carcinoma in situ on stereotactic biopsy of suspicious breast microcalcifications: Expression of SPARC (Secreted Protein, Acidic and Rich in Cysteine) can predict …</title>
-      <link>http://localhost:1313/mi2-test2/publication/szynglarewicz2016ductal/</link>
+      <link>http://localhost:1313/publication/szynglarewicz2016ductal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/szynglarewicz2016ductal/</guid>
+      <guid>http://localhost:1313/publication/szynglarewicz2016ductal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golgi-related proteins GOLPH2 (GP73/GOLM1) and GOLPH3 (GOPP1/MIDAS) in cutaneous melanoma: patterns of expression and prognostic significance</title>
-      <link>http://localhost:1313/mi2-test2/publication/donizy2016golgi/</link>
+      <link>http://localhost:1313/publication/donizy2016golgi/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/donizy2016golgi/</guid>
+      <guid>http://localhost:1313/publication/donizy2016golgi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BILLCD8-A multivariable survival model based on detailed histopathological parameters of primary tumors in cutaneous melanoma patients</title>
-      <link>http://localhost:1313/mi2-test2/publication/donizy2015billcd8/</link>
+      <link>http://localhost:1313/publication/donizy2015billcd8/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/donizy2015billcd8/</guid>
+      <guid>http://localhost:1313/publication/donizy2015billcd8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HER-2 expression in immunohistochemistry has no prognostic significance in gastric cancer patients</title>
-      <link>http://localhost:1313/mi2-test2/publication/halon2012her/</link>
+      <link>http://localhost:1313/publication/halon2012her/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/halon2012her/</guid>
+      <guid>http://localhost:1313/publication/halon2012her/</guid>
       <description></description>
     </item>
     

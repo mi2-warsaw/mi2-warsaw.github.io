@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Masalski on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/m-masalski/</link>
+    <link>http://localhost:1313/authors/m-masalski/</link>
     <description>Recent content in M Masalski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/m-masalski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/m-masalski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Diagnostic Accuracy of an Optimised Ac Impedance Device to Aid Caries Detection and Monitoring: 79</title>
-      <link>http://localhost:1313/mi2-test2/publication/pitts2008diagnostic/</link>
+      <link>http://localhost:1313/publication/pitts2008diagnostic/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/pitts2008diagnostic/</guid>
+      <guid>http://localhost:1313/publication/pitts2008diagnostic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ac-impedance spectroscopy technique for the detection of dental caries in human teeth</title>
-      <link>http://localhost:1313/mi2-test2/publication/los2007ac/</link>
+      <link>http://localhost:1313/publication/los2007ac/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/los2007ac/</guid>
+      <guid>http://localhost:1313/publication/los2007ac/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J Sokolowski on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/j-sokolowski/</link>
+    <link>http://localhost:1313/authors/j-sokolowski/</link>
     <description>Recent content in J Sokolowski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/j-sokolowski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/j-sokolowski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rhinosinusitis in Acute Leukemia Patients Undergoing Allogeneic Stem Cell Transplantation—A Single-Center Experience</title>
-      <link>http://localhost:1313/mi2-test2/publication/drozd2016rhinosinusitis/</link>
+      <link>http://localhost:1313/publication/drozd2016rhinosinusitis/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/drozd2016rhinosinusitis/</guid>
+      <guid>http://localhost:1313/publication/drozd2016rhinosinusitis/</guid>
       <description></description>
     </item>
     

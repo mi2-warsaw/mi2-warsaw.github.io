@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monika Elzbieta Lapinska on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/monika-elzbieta-lapinska/</link>
+    <link>http://localhost:1313/authors/monika-elzbieta-lapinska/</link>
     <description>Recent content in Monika Elzbieta Lapinska on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/monika-elzbieta-lapinska/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/monika-elzbieta-lapinska/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analysis of algorithms for biomarker identification, with applications in large scale cancer studies</title>
-      <link>http://localhost:1313/mi2-test2/publication/lapinska2016analysis/</link>
+      <link>http://localhost:1313/publication/lapinska2016analysis/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/lapinska2016analysis/</guid>
+      <guid>http://localhost:1313/publication/lapinska2016analysis/</guid>
       <description></description>
     </item>
     

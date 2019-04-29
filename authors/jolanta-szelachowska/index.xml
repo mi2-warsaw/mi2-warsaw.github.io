@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jolanta Szelachowska on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/jolanta-szelachowska/</link>
+    <link>http://localhost:1313/authors/jolanta-szelachowska/</link>
     <description>Recent content in Jolanta Szelachowska on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/jolanta-szelachowska/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/jolanta-szelachowska/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prognostic role of c-met expression in breast cancer patients</title>
-      <link>http://localhost:1313/mi2-test2/publication/gisterek2011prognostic/</link>
+      <link>http://localhost:1313/publication/gisterek2011prognostic/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/gisterek2011prognostic/</guid>
+      <guid>http://localhost:1313/publication/gisterek2011prognostic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correlation between hepatocyte growth factor receptor and vascular endothelial growth factor-A in breast carcinoma.</title>
-      <link>http://localhost:1313/mi2-test2/publication/gisterek2010correlation/</link>
+      <link>http://localhost:1313/publication/gisterek2010correlation/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/gisterek2010correlation/</guid>
+      <guid>http://localhost:1313/publication/gisterek2010correlation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serum vascular endothelial growth factors a, C and d in human breast tumors</title>
-      <link>http://localhost:1313/mi2-test2/publication/gisterek2010serum/</link>
+      <link>http://localhost:1313/publication/gisterek2010serum/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/gisterek2010serum/</guid>
+      <guid>http://localhost:1313/publication/gisterek2010serum/</guid>
       <description></description>
     </item>
     

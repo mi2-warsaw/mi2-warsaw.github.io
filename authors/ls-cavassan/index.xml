@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LS Cavassan on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/ls-cavassan/</link>
+    <link>http://localhost:1313/authors/ls-cavassan/</link>
     <description>Recent content in LS Cavassan on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/ls-cavassan/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/ls-cavassan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arweiler, NB 171 Ástvaldsdóttir, Á. 76 Attin, T. 7, 105 Bader, JD 144</title>
-      <link>http://localhost:1313/mi2-test2/publication/bagnato2007arweiler/</link>
+      <link>http://localhost:1313/publication/bagnato2007arweiler/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/bagnato2007arweiler/</guid>
+      <guid>http://localhost:1313/publication/bagnato2007arweiler/</guid>
       <description></description>
     </item>
     

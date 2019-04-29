@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katarzyna Bonkowska on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/katarzyna-bonkowska/</link>
+    <link>http://localhost:1313/authors/katarzyna-bonkowska/</link>
     <description>Recent content in Katarzyna Bonkowska on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/katarzyna-bonkowska/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/katarzyna-bonkowska/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Evolution of the age-structured populations and demography</title>
-      <link>http://localhost:1313/mi2-test2/publication/laszkiewicz2009evolution/</link>
+      <link>http://localhost:1313/publication/laszkiewicz2009evolution/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/laszkiewicz2009evolution/</guid>
+      <guid>http://localhost:1313/publication/laszkiewicz2009evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relations between organisms and the environment in the ageing process</title>
-      <link>http://localhost:1313/mi2-test2/publication/biecek2008relations/</link>
+      <link>http://localhost:1313/publication/biecek2008relations/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/biecek2008relations/</guid>
+      <guid>http://localhost:1313/publication/biecek2008relations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relationship between the selection pressure and the rate of mutation accumulation</title>
-      <link>http://localhost:1313/mi2-test2/publication/bonkowska2008relationship/</link>
+      <link>http://localhost:1313/publication/bonkowska2008relationship/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/bonkowska2008relationship/</guid>
+      <guid>http://localhost:1313/publication/bonkowska2008relationship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandemics and immune memory in the noisy Penna model</title>
-      <link>http://localhost:1313/mi2-test2/publication/cebrat2007pandemics/</link>
+      <link>http://localhost:1313/publication/cebrat2007pandemics/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/cebrat2007pandemics/</guid>
+      <guid>http://localhost:1313/publication/cebrat2007pandemics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>White noise and synchronization shaping the age structure of the human population</title>
-      <link>http://localhost:1313/mi2-test2/publication/cebrat2007white/</link>
+      <link>http://localhost:1313/publication/cebrat2007white/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/cebrat2007white/</guid>
+      <guid>http://localhost:1313/publication/cebrat2007white/</guid>
       <description></description>
     </item>
     

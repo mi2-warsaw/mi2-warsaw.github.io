@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maintainer Przemyslaw Biecek on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/maintainer-przemyslaw-biecek/</link>
+    <link>http://localhost:1313/authors/maintainer-przemyslaw-biecek/</link>
     <description>Recent content in Maintainer Przemyslaw Biecek on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/maintainer-przemyslaw-biecek/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/maintainer-przemyslaw-biecek/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Package ‘PBImisc’</title>
-      <link>http://localhost:1313/mi2-test2/publication/biecek2016package/</link>
+      <link>http://localhost:1313/publication/biecek2016package/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/biecek2016package/</guid>
+      <guid>http://localhost:1313/publication/biecek2016package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Package ‘SmarterPoland’</title>
-      <link>http://localhost:1313/mi2-test2/publication/biecek2016package1/</link>
+      <link>http://localhost:1313/publication/biecek2016package1/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/biecek2016package1/</guid>
+      <guid>http://localhost:1313/publication/biecek2016package1/</guid>
       <description></description>
     </item>
     

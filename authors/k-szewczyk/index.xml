@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K Szewczyk on MI2 DataLab</title>
-    <link>http://localhost:1313/mi2-test2/authors/k-szewczyk/</link>
+    <link>http://localhost:1313/authors/k-szewczyk/</link>
     <description>Recent content in K Szewczyk on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/mi2-test2/authors/k-szewczyk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/authors/k-szewczyk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>P186 Prognostic role of VEGFR1–3 immunoreactivity in breast cancer patients</title>
-      <link>http://localhost:1313/mi2-test2/publication/gisterek2011p186/</link>
+      <link>http://localhost:1313/publication/gisterek2011p186/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/gisterek2011p186/</guid>
+      <guid>http://localhost:1313/publication/gisterek2011p186/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VASCULAR ENDOTHELIAL GROWTH FACTOR C SERUM LEVELS IN PATIENTS WITH BREAST CANCER</title>
-      <link>http://localhost:1313/mi2-test2/publication/gisterek2008vascular/</link>
+      <link>http://localhost:1313/publication/gisterek2008vascular/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/mi2-test2/publication/gisterek2008vascular/</guid>
+      <guid>http://localhost:1313/publication/gisterek2008vascular/</guid>
       <description></description>
     </item>
     
