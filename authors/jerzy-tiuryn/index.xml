@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jerzy Tiuryn on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/jerzy-tiuryn/</link>
+    <link>https://mi2-warsaw.github.io/authors/jerzy-tiuryn/</link>
     <description>Recent content in Jerzy Tiuryn on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/jerzy-tiuryn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/jerzy-tiuryn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The R Package bgmm: Mixture Modeling with Uncertain Knowledge</title>
-      <link>http://localhost:1313/publication/biecek2012r/</link>
+      <link>https://mi2-warsaw.github.io/publication/biecek2012r/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/biecek2012r/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/biecek2012r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bi-billboard: symmetrization and careful choice of informant species results in higher accuracy of regulatory element prediction</title>
-      <link>http://localhost:1313/publication/dojer2011bi/</link>
+      <link>https://mi2-warsaw.github.io/publication/dojer2011bi/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/dojer2011bi/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/dojer2011bi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deregulation upon DNA damage revealed by joint analysis of context-specific perturbation data</title>
-      <link>http://localhost:1313/publication/szczurek2011deregulation/</link>
+      <link>https://mi2-warsaw.github.io/publication/szczurek2011deregulation/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/szczurek2011deregulation/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/szczurek2011deregulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rhythmic diel pattern of gene expression in juvenile maize leaf</title>
-      <link>http://localhost:1313/publication/jonczyk2011rhythmic/</link>
+      <link>https://mi2-warsaw.github.io/publication/jonczyk2011rhythmic/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/jonczyk2011rhythmic/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/jonczyk2011rhythmic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing knowledge into differential expression analysis</title>
-      <link>http://localhost:1313/publication/szczurek2010introducing/</link>
+      <link>https://mi2-warsaw.github.io/publication/szczurek2010introducing/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/szczurek2010introducing/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/szczurek2010introducing/</guid>
       <description></description>
     </item>
     

@@ -2,155 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on MI2 DataLab</title>
-    <link>http://localhost:1313/home/</link>
+    <link>https://mi2-warsaw.github.io/home/</link>
     <description>Recent content in Homes on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://localhost:1313/home/hero_carousel/</link>
+      <link>https://mi2-warsaw.github.io/home/hero_carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/hero_carousel/</guid>
+      <guid>https://mi2-warsaw.github.io/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MI&lt;sup&gt;2&lt;/sup&gt; DataLab</title>
-      <link>http://localhost:1313/home/hero/</link>
+      <link>https://mi2-warsaw.github.io/home/hero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/hero/</guid>
-      <description>Phasellus luctus massa in commodo tempor. Sed ut justo urna. Fusce auctor, nulla vitae tincidunt vehicula, lorem diam consequat augue, at ultrices mi urna eget mi. Maecenas euismod arcu efficitur augue placerat, nec ornare lacus tempor. Proin consectetur condimentum tellus, vel malesuada orci semper ornare. Donec porta erat id ultrices semper. Donec molestie, mauris ac porta gravida, nisi nisi iaculis ex, at pellentesque velit dolor a elit.</description>
+      <guid>https://mi2-warsaw.github.io/home/hero/</guid>
+      <description>MI² is a group of mathematicians and computer scientists that love to play with data.
+We are spread between Warsaw University of Technology and University of Warsaw.
+Data Lab is our creative space.
+Here we are forging new ideas, creating tools, solving problems, doing consulting and sharing our positive attitude.</description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://localhost:1313/home/posts/</link>
+      <link>https://mi2-warsaw.github.io/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/posts/</guid>
+      <guid>https://mi2-warsaw.github.io/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>http://localhost:1313/home/about/</link>
+      <link>https://mi2-warsaw.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/about/</guid>
+      <guid>https://mi2-warsaw.github.io/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Members</title>
-      <link>http://localhost:1313/home/members/</link>
+      <link>https://mi2-warsaw.github.io/home/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/members/</guid>
+      <guid>https://mi2-warsaw.github.io/home/members/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/home/projects/</link>
+      <link>https://mi2-warsaw.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/projects/</guid>
+      <guid>https://mi2-warsaw.github.io/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>http://localhost:1313/home/publications/</link>
+      <link>https://mi2-warsaw.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/publications/</guid>
+      <guid>https://mi2-warsaw.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://localhost:1313/home/skills/</link>
+      <link>https://mi2-warsaw.github.io/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/skills/</guid>
+      <guid>https://mi2-warsaw.github.io/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/home/experience/</link>
+      <link>https://mi2-warsaw.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/experience/</guid>
+      <guid>https://mi2-warsaw.github.io/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>http://localhost:1313/home/accomplishments/</link>
+      <link>https://mi2-warsaw.github.io/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/accomplishments/</guid>
+      <guid>https://mi2-warsaw.github.io/home/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>http://localhost:1313/home/publications_featured/</link>
+      <link>https://mi2-warsaw.github.io/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/publications_featured/</guid>
+      <guid>https://mi2-warsaw.github.io/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Talks</title>
-      <link>http://localhost:1313/home/talks_featured/</link>
+      <link>https://mi2-warsaw.github.io/home/talks_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/talks_featured/</guid>
+      <guid>https://mi2-warsaw.github.io/home/talks_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Talks</title>
-      <link>http://localhost:1313/home/talks/</link>
+      <link>https://mi2-warsaw.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/talks/</guid>
+      <guid>https://mi2-warsaw.github.io/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://localhost:1313/home/teaching/</link>
+      <link>https://mi2-warsaw.github.io/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/teaching/</guid>
+      <guid>https://mi2-warsaw.github.io/home/teaching/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>http://localhost:1313/home/tags/</link>
+      <link>https://mi2-warsaw.github.io/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/tags/</guid>
+      <guid>https://mi2-warsaw.github.io/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/home/contact/</link>
+      <link>https://mi2-warsaw.github.io/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/home/contact/</guid>
+      <guid>https://mi2-warsaw.github.io/home/contact/</guid>
       <description></description>
     </item>
     

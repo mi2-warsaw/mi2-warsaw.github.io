@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Kosinski on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/m-kosinski/</link>
+    <link>https://mi2-warsaw.github.io/authors/m-kosinski/</link>
     <description>Recent content in M Kosinski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/m-kosinski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/m-kosinski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>survminer: Drawing Survival Curves using&#39;ggplot2&#39;</title>
-      <link>http://localhost:1313/publication/kassambara2017survminer/</link>
+      <link>https://mi2-warsaw.github.io/publication/kassambara2017survminer/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/kassambara2017survminer/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/kassambara2017survminer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drawing survival curves using ‘ggplot2’</title>
-      <link>http://localhost:1313/publication/kassambara2016drawing/</link>
+      <link>https://mi2-warsaw.github.io/publication/kassambara2016drawing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/kassambara2016drawing/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/kassambara2016drawing/</guid>
       <description></description>
     </item>
     

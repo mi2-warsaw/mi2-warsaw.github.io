@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maciej Beresewicz on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/maciej-beresewicz/</link>
+    <link>https://mi2-warsaw.github.io/authors/maciej-beresewicz/</link>
     <description>Recent content in Maciej Beresewicz on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/maciej-beresewicz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/maciej-beresewicz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference Report: European R Users Meeting 2016</title>
-      <link>http://localhost:1313/publication/beresewicz2017conference/</link>
+      <link>https://mi2-warsaw.github.io/publication/beresewicz2017conference/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/beresewicz2017conference/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/beresewicz2017conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conference Report: Polish Academic R User Meeting</title>
-      <link>http://localhost:1313/publication/beresewicz2014conference/</link>
+      <link>https://mi2-warsaw.github.io/publication/beresewicz2014conference/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/beresewicz2014conference/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/beresewicz2014conference/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katarzyna Zdon on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/katarzyna-zdon/</link>
+    <link>https://mi2-warsaw.github.io/authors/katarzyna-zdon/</link>
     <description>Recent content in Katarzyna Zdon on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/katarzyna-zdon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/katarzyna-zdon/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PTEN abnormalities predict poor outcome in children with T-cell acute lymphoblastic leukemia treated according to ALL IC-BFM protocols.</title>
-      <link>http://localhost:1313/publication/szarzynska2019pten/</link>
+      <link>https://mi2-warsaw.github.io/publication/szarzynska2019pten/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/szarzynska2019pten/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/szarzynska2019pten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PTEN Alterations Are Related to Unfavorable Prognosis in Children with T-Cell Acute Lymphoblastic Leukemia Treated According to ALL IC-BFM Protocols</title>
-      <link>http://localhost:1313/publication/szarzynska2017pten/</link>
+      <link>https://mi2-warsaw.github.io/publication/szarzynska2017pten/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/szarzynska2017pten/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/szarzynska2017pten/</guid>
       <description></description>
     </item>
     

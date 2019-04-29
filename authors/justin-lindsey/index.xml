@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin Lindsey on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/justin-lindsey/</link>
+    <link>https://mi2-warsaw.github.io/authors/justin-lindsey/</link>
     <description>Recent content in Justin Lindsey on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/justin-lindsey/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/justin-lindsey/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The nz. seq package for handling genetic sequences in the Netezza Performance Server</title>
-      <link>http://localhost:1313/publication/biecek2011nz/</link>
+      <link>https://mi2-warsaw.github.io/publication/biecek2011nz/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/biecek2011nz/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/biecek2011nz/</guid>
       <description></description>
     </item>
     

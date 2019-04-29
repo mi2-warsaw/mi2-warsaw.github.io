@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teresa Podsiadly-Marczykowska on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/teresa-podsiadly-marczykowska/</link>
+    <link>https://mi2-warsaw.github.io/authors/teresa-podsiadly-marczykowska/</link>
     <description>Recent content in Teresa Podsiadly-Marczykowska on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/teresa-podsiadly-marczykowska/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/teresa-podsiadly-marczykowska/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Associations between texts and ontology</title>
-      <link>http://localhost:1313/publication/dblpseriessciwroblewskapbp13/</link>
+      <link>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbp13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/dblpseriessciwroblewskapbp13/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbp13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SYNAT system ontology: design patterns applied to modeling of scientific community, preliminary model evaluation</title>
-      <link>http://localhost:1313/publication/dblpseriessciwroblewskapbrp13/</link>
+      <link>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbrp13/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/dblpseriessciwroblewskapbrp13/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbrp13/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lexical Ontology Layer–a Bridge between Text and Concepts</title>
-      <link>http://localhost:1313/publication/dblpconfismisprotaziukwbrp12/</link>
+      <link>https://mi2-warsaw.github.io/publication/dblpconfismisprotaziukwbrp12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/dblpconfismisprotaziukwbrp12/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/dblpconfismisprotaziukwbrp12/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methods and tools for ontology building, learning and integration–application in the synat project</title>
-      <link>http://localhost:1313/publication/dblpseriessciwroblewskapbpr12/</link>
+      <link>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbpr12/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/dblpseriessciwroblewskapbpr12/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbpr12/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data-visualization on MI2 DataLab</title>
-    <link>http://localhost:1313/tags/data-visualization/</link>
+    <link>https://mi2-warsaw.github.io/tags/data-visualization/</link>
     <description>Recent content in data-visualization on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/tags/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hubert Baniecki</title>
-      <link>http://localhost:1313/member/hubertbaniecki/</link>
+      <link>https://mi2-warsaw.github.io/member/hubertbaniecki/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/hubertbaniecki/</guid>
+      <guid>https://mi2-warsaw.github.io/member/hubertbaniecki/</guid>
       <description>Bachelor&amp;rsquo;s student in Data Science. I am interested in Data Visualization and XAI.</description>
     </item>
     

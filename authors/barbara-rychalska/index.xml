@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Barbara Rychalska on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/barbara-rychalska/</link>
+    <link>https://mi2-warsaw.github.io/authors/barbara-rychalska/</link>
     <description>Recent content in Barbara Rychalska on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/barbara-rychalska/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/barbara-rychalska/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Are you tough enough? Framework for Robustness Validation of Machine Comprehension Systems</title>
-      <link>http://localhost:1313/publication/rychalska2018you/</link>
+      <link>https://mi2-warsaw.github.io/publication/rychalska2018you/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/rychalska2018you/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/rychalska2018you/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does it care what you asked? Understanding Importance of Verbs in Deep Learning QA System</title>
-      <link>http://localhost:1313/publication/dblpjournalscorrabs180903740/</link>
+      <link>https://mi2-warsaw.github.io/publication/dblpjournalscorrabs180903740/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/dblpjournalscorrabs180903740/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/dblpjournalscorrabs180903740/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does it care what you asked? Understanding Importance of Verbs in Deep Learning QA System</title>
-      <link>http://localhost:1313/publication/rychalska2018does/</link>
+      <link>https://mi2-warsaw.github.io/publication/rychalska2018does/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/rychalska2018does/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/rychalska2018does/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How much should you ask? On the question structure in QA systems</title>
-      <link>http://localhost:1313/publication/basaj2018much/</link>
+      <link>https://mi2-warsaw.github.io/publication/basaj2018much/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/basaj2018much/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/basaj2018much/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How much should you ask? On the question structure in QA systems.</title>
-      <link>http://localhost:1313/publication/rychalska2018much/</link>
+      <link>https://mi2-warsaw.github.io/publication/rychalska2018much/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/rychalska2018much/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/rychalska2018much/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LAS: Language Agnostic System for Question Answering</title>
-      <link>http://localhost:1313/publication/dblpconfsnamsbasajrw18/</link>
+      <link>https://mi2-warsaw.github.io/publication/dblpconfsnamsbasajrw18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/dblpconfsnamsbasajrw18/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/dblpconfsnamsbasajrw18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Intent Hierarchical Natural Language Understanding for Chatbots</title>
-      <link>http://localhost:1313/publication/dblpconfsnamsrychalskagw18/</link>
+      <link>https://mi2-warsaw.github.io/publication/dblpconfsnamsrychalskagw18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/dblpconfsnamsrychalskagw18/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/dblpconfsnamsrychalskagw18/</guid>
       <description></description>
     </item>
     

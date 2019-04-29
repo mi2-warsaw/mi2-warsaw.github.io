@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jorg Nitschke on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/jorg-nitschke/</link>
+    <link>https://mi2-warsaw.github.io/authors/jorg-nitschke/</link>
     <description>Recent content in Jorg Nitschke on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/jorg-nitschke/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/jorg-nitschke/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Genotypic and phenotypic characteristics in association with biofilm formation in different pathotypes of human clinical Escherichia coli isolates</title>
-      <link>http://localhost:1313/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
+      <link>https://mi2-warsaw.github.io/publication/schiebelgenotypicphenotypiccharacteristics2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/schiebelgenotypicphenotypiccharacteristics2017/</guid>
       <description></description>
     </item>
     
