@@ -3,7 +3,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/tags/deep-learning/</loc>
+      <loc>https://mi2-warsaw.github.io/tags/deep-learning/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/</loc>
+      <loc>https://mi2-warsaw.github.io/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -21,7 +21,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/</loc>
+      <loc>https://mi2-warsaw.github.io/member/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -30,7 +30,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/przemyslawbiecek/</loc>
+      <loc>https://mi2-warsaw.github.io/member/przemyslawbiecek/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
     </url>
     
@@ -38,7 +38,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/tags/</loc>
+      <loc>https://mi2-warsaw.github.io/tags/</loc>
       <lastmod>2019-03-26T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -47,7 +47,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/</loc>
       <lastmod>2019-03-03T21:53:41+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -56,7 +56,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/post/p1/</loc>
+      <loc>https://mi2-warsaw.github.io/post/p1/</loc>
       <lastmod>2019-03-03T21:53:41+01:00</lastmod>
     </url>
     
@@ -64,7 +64,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/mi2-lab/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/mi2-lab/</loc>
       <lastmod>2019-03-03T21:53:41+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -73,7 +73,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/post/</loc>
+      <loc>https://mi2-warsaw.github.io/post/</loc>
       <lastmod>2019-03-03T21:53:41+01:00</lastmod>
     </url>
     
@@ -81,7 +81,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication_types/2/</loc>
+      <loc>https://mi2-warsaw.github.io/publication_types/2/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -90,7 +90,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agnieszka-halon/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agnieszka-halon/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -99,7 +99,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/aleksandra-gacek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/aleksandra-gacek/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -108,7 +108,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/alicja-gosiewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/alicja-gosiewska/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -117,7 +117,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/bartlomiej-szynglarewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/bartlomiej-szynglarewicz/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -126,7 +126,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/bronislawa-szarzynska-zawadzka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/bronislawa-szarzynska-zawadzka/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -135,7 +135,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rudzki2019incurred/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rudzki2019incurred/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -143,16 +143,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jagoda-rytel/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/joachim-b-kunz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jagoda-rytel/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -161,7 +152,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jozef-forgacz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joachim-b-kunz/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -170,7 +161,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/karol-lis/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jozef-forgacz/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -179,7 +170,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-zdon/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/karol-lis/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -188,7 +179,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/krzysztof-madry/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-zdon/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -197,7 +188,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/lukasz-bolkun/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/krzysztof-madry/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -206,7 +197,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/lukasz-sedek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/lukasz-bolkun/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -215,7 +206,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maciej-kaczorowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/lukasz-sedek/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -224,7 +215,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/magda-mlynarczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maciej-kaczorowski/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -233,7 +224,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/magdalena-dutka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/magda-mlynarczyk/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -242,7 +233,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/malgorzata-pieniazek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/magdalena-dutka/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -251,7 +242,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marek-rodzaj/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/malgorzata-pieniazek/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -260,7 +251,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maria-kosmalska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marek-rodzaj/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -269,7 +260,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/michal-gorka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maria-kosmalska/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -278,7 +269,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/michal-kaza/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/michal-gorka/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -287,7 +278,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/monika-drobna/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/michal-kaza/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -296,7 +287,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/monika-kraszewska-hamilton/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/monika-drobna/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -305,7 +296,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/obul-r-bandapalli/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/monika-kraszewska-hamilton/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -314,15 +305,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/szarzynska2019pten/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/piotr-donizy/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/obul-r-bandapalli/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -331,7 +314,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/piotr-j-rudzki/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/szarzynska2019pten/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/piotr-donizy/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -340,7 +331,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/piotr-kacprzyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/piotr-j-rudzki/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -349,7 +340,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/piotr-lubon/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/piotr-kacprzyk/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -358,15 +349,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/mkadry2019predictive/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/przemyslaw-biecek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/piotr-lubon/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -375,7 +358,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication_types/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/mkadry2019predictive/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/przemyslaw-biecek/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -384,7 +375,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/</loc>
+      <loc>https://mi2-warsaw.github.io/publication_types/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -393,7 +384,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/rafal-matkowski/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -402,7 +393,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/roman-jaksik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/rafal-matkowski/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -411,23 +402,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/gosiewska2019safe/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/kaczorowski2019smad7/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/tomasz-michalik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/roman-jaksik/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -436,7 +411,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/michalik2019ultralow/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/gosiewska2019safe/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -444,7 +419,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/others/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kaczorowski2019smad7/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/tomasz-michalik/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -453,7 +436,24 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/annawr%C3%B3blewska/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/michalik2019ultralow/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/others/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/member/annawroblewska/</loc>
       <lastmod>2018-04-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -461,7 +461,50 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/alicjagosiewska/</loc>
+      <loc>https://mi2-warsaw.github.io/member/tomaszmikolajczyk/</loc>
+      <lastmod>2018-04-07T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/tags/interpretable-machine-learning/</loc>
+      <lastmod>2018-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/tags/machine-learning/</loc>
+      <lastmod>2018-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/tags/visualisation/</loc>
+      <lastmod>2018-04-07T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/member/michalburdukiewicz/</loc>
+      <lastmod>2018-04-05T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/member/alicjagosiewska/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
     </url>
     
@@ -469,7 +512,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/hubertbaniecki/</loc>
+      <loc>https://mi2-warsaw.github.io/member/hubertbaniecki/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
     </url>
     
@@ -477,7 +520,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/katarzynakobylinska/</loc>
+      <loc>https://mi2-warsaw.github.io/member/katarzynakobylinska/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
     </url>
     
@@ -485,7 +528,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/maciejmasiak/</loc>
+      <loc>https://mi2-warsaw.github.io/member/maciejmasiak/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
     </url>
     
@@ -493,7 +536,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/mateuszstaniak/</loc>
+      <loc>https://mi2-warsaw.github.io/member/mateuszstaniak/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
     </url>
     
@@ -501,7 +544,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/michalkuzba/</loc>
+      <loc>https://mi2-warsaw.github.io/member/michalkuzba/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
     </url>
     
@@ -509,7 +552,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/michalburdukiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/member/tomaszstanislawek/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
     </url>
     
@@ -517,23 +560,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/member/tomaszmikolajczyk/</loc>
-      <lastmod>2018-03-26T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/member/tomaszstanislawek/</loc>
-      <lastmod>2018-03-26T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/tags/data-visualization/</loc>
+      <loc>https://mi2-warsaw.github.io/tags/data-visualization/</loc>
       <lastmod>2018-03-26T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -542,34 +569,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/tags/interpretable-machine-learning/</loc>
-      <lastmod>2018-03-26T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/tags/machine-learning/</loc>
-      <lastmod>2018-03-26T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/tags/visualisation/</loc>
-      <lastmod>2018-03-26T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication_types/1/</loc>
+      <loc>https://mi2-warsaw.github.io/publication_types/1/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -578,7 +578,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-waszczuk-gajda/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-waszczuk-gajda/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -587,7 +587,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agata-obara/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agata-obara/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -596,7 +596,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agata-tyczynska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agata-tyczynska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -605,7 +605,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agnieszka-badora-rybicka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agnieszka-badora-rybicka/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -614,7 +614,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agnieszka-giza/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agnieszka-giza/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -623,7 +623,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/andrzej-mackiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andrzej-mackiewicz/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -632,7 +632,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/anna-szulgo/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/anna-szulgo/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -641,7 +641,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/anna-waszczuk-gajda/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/anna-waszczuk-gajda/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -650,7 +650,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/anna-wroblewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/anna-wroblewska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -659,7 +659,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rychalska2018you/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rychalska2018you/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -667,7 +667,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/drozd2018atypical/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/drozd2018atypical/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -675,7 +675,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/barbara-rychalska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/barbara-rychalska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -684,7 +684,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/bartlomiej-prus-zajaczkowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/bartlomiej-prus-zajaczkowski/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -693,7 +693,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/szynglarewicz2018biological/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/szynglarewicz2018biological/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -701,7 +701,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2018dalex/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2018dalex/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -709,7 +709,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/daniel-caro/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/daniel-caro/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -718,7 +718,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dblpjournalscorrabs180903740/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpjournalscorrabs180903740/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -726,7 +726,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rychalska2018does/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rychalska2018does/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -734,7 +734,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/dominika-basaj/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/dominika-basaj/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -743,7 +743,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/e-snarski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/e-snarski/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -752,7 +752,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/elzbieta-nowara/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/elzbieta-nowara/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -761,7 +761,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ewa-wasilewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ewa-wasilewska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -770,7 +770,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rj2018072/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rj2018072/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -778,7 +778,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rudzki2018extended/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rudzki2018extended/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -786,7 +786,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/helena-t.-glabska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/helena-t.-glabska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -795,7 +795,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/wrobel2018hodgkin/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/wrobel2018hodgkin/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -803,7 +803,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/basaj2018much/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/basaj2018much/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -811,7 +811,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rychalska2018much/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rychalska2018much/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -819,7 +819,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kaczorowski2018increased/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kaczorowski2018increased/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -827,7 +827,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/waszczuk2018influence/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/waszczuk2018influence/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -835,7 +835,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-drozd-sokolowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-drozd-sokolowska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -844,7 +844,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-dwilewicz-trojaczek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-dwilewicz-trojaczek/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -853,7 +853,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-peradzynska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-peradzynska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -862,7 +862,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jaroslaw-chilimoniuk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jaroslaw-chilimoniuk/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -871,7 +871,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/joanna-drozd-sokolowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joanna-drozd-sokolowska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -880,7 +880,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/justyna-rybka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/justyna-rybka/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -889,7 +889,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-budziszewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-budziszewska/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -898,7 +898,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/kornel-kielczewski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/kornel-kielczewski/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -907,7 +907,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/krzysztof-adamowicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/krzysztof-adamowicz/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -916,7 +916,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dblpconfsnamsbasajrw18/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpconfsnamsbasajrw18/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -924,7 +924,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/lukasz-garncarek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/lukasz-garncarek/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -933,7 +933,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-feliksbrot-bratosiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-feliksbrot-bratosiewicz/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -942,7 +942,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-krol/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-krol/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -951,7 +951,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/magdalena-razny/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/magdalena-razny/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -960,7 +960,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maintainer-daniel-caro/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maintainer-daniel-caro/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -969,7 +969,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marcin-lukaszewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marcin-lukaszewicz/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -978,7 +978,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marta-gladych/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marta-gladych/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -987,7 +987,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/mateusz-staniak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/mateusz-staniak/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -996,7 +996,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/michal-burdukiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/michal-burdukiewicz/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1005,7 +1005,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/michal-gaworski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/michal-gaworski/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1014,7 +1014,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dblpconfsnamsrychalskagw18/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpconfsnamsrychalskagw18/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1022,7 +1022,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/natalia-sorbotten/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/natalia-sorbotten/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1031,7 +1031,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/donizy2018nuclear/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/donizy2018nuclear/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1039,7 +1039,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/p-biecek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/p-biecek/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1048,7 +1048,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/caro2018package/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/caro2018package/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1056,7 +1056,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pawel-mackiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pawel-mackiewicz/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1065,7 +1065,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pawel-szwedyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pawel-szwedyk/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1074,7 +1074,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/burdukiewiczphymet2databasetoolkit2018/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/burdukiewiczphymet2databasetoolkit2018/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1082,7 +1082,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/piotr-kasprzak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/piotr-kasprzak/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1091,7 +1091,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/piotr-sobczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/piotr-sobczyk/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1100,7 +1100,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/burdukiewiczpredictionsignalpeptides2018/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/burdukiewiczpredictionsignalpeptides2018/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1108,7 +1108,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/przemyslaw-gagat/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/przemyslaw-gagat/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1117,7 +1117,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/rafal-cylwa/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/rafal-cylwa/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1126,7 +1126,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/wroblewska2018robotic/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/wroblewska2018robotic/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1134,7 +1134,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/slawomir-jablonski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/slawomir-jablonski/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1143,7 +1143,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/gladych2018expression/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/gladych2018expression/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1151,7 +1151,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/tomasz-stanislawek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/tomasz-stanislawek/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1160,7 +1160,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/tomasz-wrobel/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/tomasz-wrobel/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1169,7 +1169,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/triantafillos-liloglou/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/triantafillos-liloglou/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1178,7 +1178,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/urszula-oleksiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/urszula-oleksiewicz/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1187,7 +1187,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ww-jedrzejczak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ww-jedrzejczak/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1196,7 +1196,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/z-lewandowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/z-lewandowski/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1205,7 +1205,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/gosiewska2018auditor/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/gosiewska2018auditor/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1213,7 +1213,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication_types/0/</loc>
+      <loc>https://mi2-warsaw.github.io/publication_types/0/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1222,7 +1222,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/bagheri201713th/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/bagheri201713th/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1230,7 +1230,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication_types/3/</loc>
+      <loc>https://mi2-warsaw.github.io/publication_types/3/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1239,7 +1239,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-halon/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-halon/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1248,7 +1248,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-kassambara/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-kassambara/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1257,7 +1257,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/aamir-ali/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/aamir-ali/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1266,7 +1266,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/adam-maciejczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/adam-maciejczyk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1275,7 +1275,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/adolfo-alvarez/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/adolfo-alvarez/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1284,7 +1284,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agata-cieslik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agata-cieslik/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1293,7 +1293,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agnieszka-sitko/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agnieszka-sitko/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1302,7 +1302,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/alboukadel-kassambara/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/alboukadel-kassambara/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1311,7 +1311,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/alexander-bohm/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/alexander-bohm/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1320,7 +1320,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/alicja-szabelska-beresewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/alicja-szabelska-beresewicz/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1329,7 +1329,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/alicja-zylicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/alicja-zylicz/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1338,7 +1338,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/amie-chaloupka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/amie-chaloupka/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1347,7 +1347,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/burdukiewiczamyloidogenicmotifsrevealed2017a/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1355,7 +1355,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/sobiczewska2017analysis/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/sobiczewska2017analysis/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1363,7 +1363,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/anastazja-andrzejewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/anastazja-andrzejewska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1372,7 +1372,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/anders-bjorkbom/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/anders-bjorkbom/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1381,7 +1381,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/andreas-e-kulozik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andreas-e-kulozik/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1390,7 +1390,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/andrej-nikolai-spiess/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andrej-nikolai-spiess/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1399,7 +1399,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/anna-duda-madej/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/anna-duda-madej/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1408,7 +1408,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/aria-bagheri/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/aria-bagheri/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1417,7 +1417,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ayush-t-raman/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ayush-t-raman/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1426,7 +1426,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/barbara-sozanska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/barbara-sozanska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1435,7 +1435,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/benoit-lechat/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/benoit-lechat/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1444,7 +1444,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/channing-tassone/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/channing-tassone/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1453,7 +1453,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/ransey2017comparative/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/ransey2017comparative/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1461,7 +1461,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rudzki2017comprehensive/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rudzki2017comprehensive/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1469,7 +1469,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/beresewicz2017conference/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/beresewicz2017conference/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1477,7 +1477,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/daniel-h-caro/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/daniel-h-caro/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1486,7 +1486,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/dirk-roggenbuck/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/dirk-roggenbuck/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1495,7 +1495,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/e-subocz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/e-subocz/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1504,7 +1504,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/elisabetta-mereu/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/elisabetta-mereu/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1513,7 +1513,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/elizabeth-ransey/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/elizabeth-ransey/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1522,7 +1522,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rodigerenablingreproduciblerealtime2017/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rodigerenablingreproduciblerealtime2017/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1530,7 +1530,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/szynglarewicz2017epithelial/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/szynglarewicz2017epithelial/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1538,7 +1538,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/fred-van-leuven/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/fred-van-leuven/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1547,7 +1547,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kondratiuk2017gsk/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kondratiuk2017gsk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1555,7 +1555,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/schiebelgenotypicphenotypiccharacteristics2017/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/schiebelgenotypicphenotypiccharacteristics2017/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1563,7 +1563,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/herman-devijver/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/herman-devijver/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1572,7 +1572,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/holger-heyn/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/holger-heyn/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1581,7 +1581,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ilona-kondratiuk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ilona-kondratiuk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1590,7 +1590,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-grad/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-grad/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1599,7 +1599,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-rybka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-rybka/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1608,7 +1608,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-tajer/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-tajer/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1617,7 +1617,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jm-zaucha/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jm-zaucha/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1626,7 +1626,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jack-w-szostak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jack-w-szostak/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1635,7 +1635,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jakub-nowosad/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jakub-nowosad/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1644,7 +1644,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/janne-huovari/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/janne-huovari/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1653,7 +1653,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jerzy-r-kowalczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jerzy-r-kowalczyk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1662,7 +1662,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/john-thometz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/john-thometz/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1671,7 +1671,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jorg-nitschke/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jorg-nitschke/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1680,7 +1680,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jorg-weinreich/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jorg-weinreich/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1689,7 +1689,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/juliane-schiebel/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/juliane-schiebel/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1698,7 +1698,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/kamil-rotter/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/kamil-rotter/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1707,7 +1707,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-fak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-fak/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1716,7 +1716,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-sobiczewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-sobiczewska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1725,7 +1725,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-tomczak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-tomczak/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1734,7 +1734,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/kathryn-refshauge/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/kathryn-refshauge/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1743,7 +1743,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/konstantin-blagodatskikh/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/konstantin-blagodatskikh/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1752,7 +1752,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/konstanty-korski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/konstanty-korski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1761,7 +1761,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/larry-cohen/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/larry-cohen/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1770,7 +1770,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/leo-lahti/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/leo-lahti/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1779,7 +1779,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/leszek-kaczmarek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/leszek-kaczmarek/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1788,7 +1788,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/lorena-pantano/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/lorena-pantano/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1797,7 +1797,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/lukasz-wawrowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/lukasz-wawrowski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1806,7 +1806,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-kaczorowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-kaczorowski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1815,7 +1815,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-kosinski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-kosinski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1824,7 +1824,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-panebianco/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-panebianco/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1833,7 +1833,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maciej-b-olszewski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maciej-b-olszewski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1842,7 +1842,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maciej-beresewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maciej-beresewicz/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1851,7 +1851,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maciej-wiznerowicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maciej-wiznerowicz/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1860,7 +1860,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/malgorzata-kotulska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/malgorzata-kotulska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1869,7 +1869,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/malgorzata-urbanska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/malgorzata-urbanska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1878,7 +1878,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marcin-herok/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marcin-herok/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1887,7 +1887,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marcin-k-dyderski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marcin-k-dyderski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1896,7 +1896,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marcin-kosinski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marcin-kosinski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1905,7 +1905,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marcin-szymkowiak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marcin-szymkowiak/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1914,7 +1914,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/markus-kainu/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/markus-kainu/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1923,7 +1923,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marta-klimczak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marta-klimczak/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1932,7 +1932,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/milena-simic/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/milena-simic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1941,7 +1941,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/milena-wiech/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/milena-wiech/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1950,7 +1950,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/tracz2017molecular/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/tracz2017molecular/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1958,7 +1958,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/neha-samant/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/neha-samant/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1967,7 +1967,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/donizy2017nucleoli/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/donizy2017nucleoli/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1975,7 +1975,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/donizy2017nucleoli1/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/donizy2017nucleoli1/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1983,7 +1983,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/obul-reddy-bandapalli/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/obul-reddy-bandapalli/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1992,7 +1992,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/p-donizy/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/p-donizy/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2001,7 +2001,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/szarzynska2017pten/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/szarzynska2017pten/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2009,7 +2009,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kassambara2017package/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kassambara2017package/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2017,7 +2017,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/parantu-k-shah/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/parantu-k-shah/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2026,7 +2026,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/zaucha2017patients/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/zaucha2017patients/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2034,7 +2034,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/patrycja-czerwinska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/patrycja-czerwinska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2043,7 +2043,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/paula-chlebanowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/paula-chlebanowska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2052,7 +2052,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/peter-schierack/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/peter-schierack/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2061,7 +2061,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/piotr-sliz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/piotr-sliz/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2070,7 +2070,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/r-kroll-balcerzak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/r-kroll-balcerzak/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2079,7 +2079,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/r-matkowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/r-matkowski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2088,7 +2088,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/lahti2017retrieval/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/lahti2017retrieval/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2096,7 +2096,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/s-fabian/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/s-fabian/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2105,7 +2105,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/sarah-dennis/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/sarah-dennis/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2114,7 +2114,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/sedek-lukasz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/sedek-lukasz/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2123,7 +2123,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/sergey-tarima/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/sergey-tarima/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2132,7 +2132,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2017show/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2017show/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2140,7 +2140,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/stefan-rodiger/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/stefan-rodiger/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2149,7 +2149,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/sylwia-mazurek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/sylwia-mazurek/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2158,7 +2158,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/szymon-leski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/szymon-leski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2167,7 +2167,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/oleksiewicz2017trim28/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/oleksiewicz2017trim28/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2175,7 +2175,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/klimczak2017trim28/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/klimczak2017trim28/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2183,7 +2183,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/czerwinska2017trim28/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/czerwinska2017trim28/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2191,7 +2191,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/sitko2017merging/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/sitko2017merging/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2199,7 +2199,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/nowaczewska2017relationship/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/nowaczewska2017relationship/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2207,7 +2207,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/tomasz-jaworski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/tomasz-jaworski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2216,7 +2216,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/tomasz-szczepanski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/tomasz-szczepanski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2225,7 +2225,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/urszula-lapicka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/urszula-lapicka/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2234,7 +2234,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/victor-s-lelyveld/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/victor-s-lelyveld/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2243,7 +2243,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/violetta-filas/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/violetta-filas/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2252,7 +2252,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/w-khair/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/w-khair/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2261,7 +2261,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/w-kulikowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/w-kulikowski/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2270,7 +2270,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/wioletta-nowaczewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/wioletta-nowaczewska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2279,7 +2279,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/xue-cheng-liu/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/xue-cheng-liu/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2288,7 +2288,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/zuzanna-tracz-gaszewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/zuzanna-tracz-gaszewska/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2297,7 +2297,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2017archivist/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2017archivist/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2305,7 +2305,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/caro2017intsvy/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/caro2017intsvy/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2313,7 +2313,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kassambara2017survminer/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kassambara2017survminer/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2321,7 +2321,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/protasiewicz2016recommender/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/protasiewicz2016recommender/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2329,7 +2329,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agata-kopacz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agata-kopacz/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2338,7 +2338,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/borgonovi2016international/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/borgonovi2016international/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2346,7 +2346,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/lapinska2016analysis/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/lapinska2016analysis/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2354,7 +2354,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/chrabkaszcz2016analysis/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/chrabkaszcz2016analysis/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2362,7 +2362,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/andrzej-jerzmanowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andrzej-jerzmanowski/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2371,7 +2371,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/andrzej-kiejna/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andrzej-kiejna/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2380,7 +2380,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/archacki2016arabidopsis/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/archacki2016arabidopsis/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2388,7 +2388,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/donizy2016billcd8/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/donizy2016billcd8/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2396,7 +2396,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/bartek-wilczynski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/bartek-wilczynski/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2405,7 +2405,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/biecek-przemyslaw/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/biecek-przemyslaw/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2414,7 +2414,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/donizy2016contrary/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/donizy2016contrary/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2422,7 +2422,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/daniel-buszewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/daniel-buszewicz/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2431,7 +2431,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/daniel-zinkiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/daniel-zinkiewicz/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2440,7 +2440,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dobrzynska2016mental/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dobrzynska2016mental/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2448,7 +2448,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kassambara2016drawing/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kassambara2016drawing/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2456,7 +2456,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/szynglarewicz2016ductal/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/szynglarewicz2016ductal/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2464,7 +2464,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/eurostat-jepanstwo/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/eurostat-jepanstwo/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2473,7 +2473,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ewelina-dobrzynska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ewelina-dobrzynska/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2482,7 +2482,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/francesca-borgonovi/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/francesca-borgonovi/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2491,7 +2491,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/gw-basak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/gw-basak/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2500,7 +2500,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/donizy2016golgi/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/donizy2016golgi/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2508,7 +2508,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/halon-agnieszka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/halon-agnieszka/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2517,7 +2517,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rapinski2016influence/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rapinski2016influence/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2525,7 +2525,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-sokolowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-sokolowski/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2534,7 +2534,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jacek-patryn/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jacek-patryn/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2543,7 +2543,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jacek-rapinski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jacek-rapinski/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2552,7 +2552,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jaroslaw-protasiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jaroslaw-protasiewicz/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2561,7 +2561,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/joanna-rymaszewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joanna-rymaszewska/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2570,7 +2570,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/joel-tellinghuisen/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joel-tellinghuisen/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2579,7 +2579,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/k-niemczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/k-niemczyk/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2588,7 +2588,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/kasprzak-piotr/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/kasprzak-piotr/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2597,7 +2597,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-krzyczmonik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-krzyczmonik/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2606,7 +2606,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/lidia-maria-chrabaszcz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/lidia-maria-chrabaszcz/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2615,7 +2615,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/lukasz-raczkowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/lukasz-raczkowski/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2624,7 +2624,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maintainer-marcin-kosinski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maintainer-marcin-kosinski/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2633,7 +2633,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maintainer-przemyslaw-biecek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maintainer-przemyslaw-biecek/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2642,7 +2642,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/malgorzata-galezewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/malgorzata-galezewska/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2651,7 +2651,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marcin-piotr-kosinski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marcin-piotr-kosinski/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2660,7 +2660,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marek-kozlowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marek-kozlowski/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2669,7 +2669,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marta-koblowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marta-koblowska/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2678,7 +2678,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/matkowski-rafal/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/matkowski-rafal/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2687,7 +2687,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/burdukiewiczmethodscomparingdigital2016/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/burdukiewiczmethodscomparingdigital2016/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2695,7 +2695,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/auguscik2016metody/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/auguscik2016metody/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2703,7 +2703,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/monika-elzbieta-lapinska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/monika-elzbieta-lapinska/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2712,7 +2712,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2016package/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2016package/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2720,7 +2720,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kosinski2016package/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kosinski2016package/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2728,7 +2728,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2016package1/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2016package1/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2736,7 +2736,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/paulina-auguscik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/paulina-auguscik/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2745,7 +2745,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kosinski2016rtcga/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kosinski2016rtcga/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2753,7 +2753,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/rafal-archacki/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/rafal-archacki/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2762,7 +2762,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/drozd2016rhinosinusitis/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/drozd2016rhinosinusitis/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2770,7 +2770,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/roksana-iwanicka-nowicka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/roksana-iwanicka-nowicka/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2779,7 +2779,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ruslan-yatusevich/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ruslan-yatusevich/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2788,7 +2788,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/bartlomiej2016screen/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/bartlomiej2016screen/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2796,7 +2796,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/szynglarewicz2016screen/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/szynglarewicz2016screen/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2804,7 +2804,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/slawomir-dadas/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/slawomir-dadas/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2813,7 +2813,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kosinski2016stochastic/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kosinski2016stochastic/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2821,7 +2821,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/sozanska2016study/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/sozanska2016study/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2829,7 +2829,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/spiesssystemspecificperiodicityquantitative2016a/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/spiesssystemspecificperiodicityquantitative2016a/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2837,7 +2837,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/szynglarewicz-bartlomiej/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/szynglarewicz-bartlomiej/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2846,7 +2846,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/teresa-szkudlarek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/teresa-szkudlarek/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2855,7 +2855,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/thomas-volksdorf/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/thomas-volksdorf/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2864,7 +2864,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dblpconfsigirwroblewskar16/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpconfsigirwroblewskar16/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2872,7 +2872,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/w-wiktor-jedrzejczak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/w-wiktor-jedrzejczak/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2881,7 +2881,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/witold-pedrycz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/witold-pedrycz/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2890,7 +2890,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-sawicka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-sawicka/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2899,7 +2899,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kolendasystematicreviewmetaanalysis2015/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kolendasystematicreviewmetaanalysis2015/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -2907,16 +2907,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/adam-stanczyk/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/andrzej-skrobowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/adam-stanczyk/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2925,15 +2916,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/donizy2015billcd8/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/bengt-lindholm/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andrzej-skrobowski/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2942,7 +2925,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/carmen-mora/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/donizy2015billcd8/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/bengt-lindholm/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2951,7 +2942,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/carmen-prado-uribe/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/carmen-mora/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2960,7 +2951,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/claudia-deutschmann/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/carmen-prado-uribe/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2969,7 +2960,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/elvia-garcia-lopez/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/claudia-deutschmann/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2978,7 +2969,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/elzbieta-bartnikowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/elvia-garcia-lopez/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2987,7 +2978,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ewelina-palkowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/elzbieta-bartnikowska/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -2996,15 +2987,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/stachowska2015fp592/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/g-nowicka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ewelina-palkowska/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3013,7 +2996,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/grzegorz-gielerak/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/stachowska2015fp592/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/g-nowicka/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3022,23 +3013,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/wrzosek2015impact/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/spiessimpactsmoothingparameter2015a/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/jacek-waniewski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/grzegorz-gielerak/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3047,7 +3022,23 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/joanna-stachowska-pietka/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/wrzosek2015impact/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/spiessimpactsmoothingparameter2015a/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/jacek-waniewski/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3056,7 +3047,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-piotrowicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joanna-stachowska-pietka/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3065,7 +3056,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katharina-klat/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-piotrowicz/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3074,7 +3065,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/lukasz-kuzminski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katharina-klat/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3083,7 +3074,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-glowala/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/lukasz-kuzminski/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3092,7 +3083,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-kosior/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-glowala/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3101,7 +3092,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-sokal/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-kosior/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3110,7 +3101,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-talalaj/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-sokal/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3119,7 +3110,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-wlodarczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-talalaj/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3128,7 +3119,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-wrzosek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-wlodarczyk/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3137,7 +3128,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marcela-avila-diaz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-wrzosek/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3146,7 +3137,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maria-de-jesus-ventura/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marcela-avila-diaz/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3155,23 +3146,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/nowaczewska2015morphological/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/protasiewicz2015multilingual/</loc>
-      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/pawel-krzesinski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maria-de-jesus-ventura/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3180,7 +3155,23 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/rafal-kolenda/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/nowaczewska2015morphological/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/protasiewicz2015multilingual/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/pawel-krzesinski/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3189,7 +3180,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ralf-himmelreich/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/rafal-kolenda/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3198,7 +3189,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ramon-paniagua/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ralf-himmelreich/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3207,7 +3198,16 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/piotrowicz2015self/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ramon-paniagua/</loc>
+      <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/piotrowicz2015self/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3215,7 +3215,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rodigerchippcrpackagepreprocess2015/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rodigerchippcrpackagepreprocess2015/</loc>
       <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3223,7 +3223,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication_types/5/</loc>
+      <loc>https://mi2-warsaw.github.io/publication_types/5/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3232,7 +3232,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/mazanowska2014advanced/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/mazanowska2014advanced/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3240,16 +3240,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/alicja-sobkowiak/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/alicja-szabelska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/alicja-sobkowiak/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3258,7 +3249,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/andrzej-kutner/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/alicja-szabelska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3267,7 +3258,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/bozena-jazwiec/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andrzej-kutner/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3276,15 +3267,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/beresewicz2014conference/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/d-kaminska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/bozena-jazwiec/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3293,7 +3276,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/emilia-jarochowska/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/beresewicz2014conference/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/d-kaminska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3302,7 +3293,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ewa-marcinkowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/emilia-jarochowska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3311,15 +3302,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/sobkowiak2014genome/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/hanna-baurska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ewa-marcinkowska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3328,7 +3311,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/mazanowska2014increased/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/sobkowiak2014genome/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3336,16 +3319,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jan-fronk/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/joanna-trzcinska-danielewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/hanna-baurska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3354,7 +3328,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/joanna-zyprych-walczak/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/mazanowska2014increased/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/jan-fronk/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3363,7 +3345,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jorg-leipner/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joanna-trzcinska-danielewicz/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3372,7 +3354,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/k-koscielska-kasprzak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joanna-zyprych-walczak/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3381,7 +3363,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/k-madziarska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jorg-leipner/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3390,7 +3372,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-banasik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/k-koscielska-kasprzak/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3399,7 +3381,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-krajewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/k-madziarska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3408,7 +3390,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-zabinska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-banasik/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3417,7 +3399,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maciej-jonczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-krajewska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3426,7 +3408,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marek-kielbinski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-zabinska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3435,15 +3417,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/baurska2014monocytic/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/o-mazanowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maciej-jonczyk/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3452,15 +3426,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2014odkrywac/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/olga-haus/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marek-kielbinski/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3469,7 +3435,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/p-chudoba/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/baurska2014monocytic/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/o-mazanowska/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3478,7 +3452,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pawel-sowinski/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2014odkrywac/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/olga-haus/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3487,15 +3469,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2014przewodnik/</loc>
-      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/sc-zmonarski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/p-chudoba/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3504,7 +3478,16 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/nowaczewska2014study/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pawel-sowinski/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/biecek2014przewodnik/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3512,7 +3495,24 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication_types/6/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/sc-zmonarski/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/nowaczewska2014study/</loc>
+      <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication_types/6/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3521,7 +3521,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-dzikliska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-dzikliska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3530,7 +3530,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-filipek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-filipek/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3539,7 +3539,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-grzywacz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-grzywacz/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3548,7 +3548,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-jakubczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-jakubczyk/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3557,7 +3557,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-jasiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-jasiewicz/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3566,7 +3566,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-klimkiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-klimkiewicz/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3575,7 +3575,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-podgorska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-podgorska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3584,7 +3584,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-suchanecka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-suchanecka/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3593,7 +3593,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-wnorowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-wnorowska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3602,7 +3602,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agnieszka-ochocka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agnieszka-ochocka/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3611,7 +3611,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dblpseriessciwroblewskapbp13/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbp13/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3619,24 +3619,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/b-ryszewska-pokrasniewicz/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/libman2013comparison/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/d-patrzalek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/b-ryszewska-pokrasniewicz/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3645,7 +3628,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/g-sygitowicz/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/libman2013comparison/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/d-patrzalek/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3654,7 +3645,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/grzegorz-protaziuk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/g-sygitowicz/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3663,7 +3654,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/h-matsumoto/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/grzegorz-protaziuk/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3672,7 +3663,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/henryk-rybinski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/h-matsumoto/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3681,7 +3672,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/i-malecka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/henryk-rybinski/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3690,23 +3681,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/mazanowska2013increased/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/stanislawek2013information/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/iwona-lugowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/i-malecka/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3715,7 +3690,23 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-piwowarska/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/mazanowska2013increased/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/stanislawek2013information/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/iwona-lugowska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3724,7 +3715,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-samochowiec/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-piwowarska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3733,7 +3724,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/k-zwierzchowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-samochowiec/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3742,7 +3733,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-abramowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/k-zwierzchowska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3751,7 +3742,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-boratynska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-abramowska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3760,7 +3751,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-libman-sokolowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-boratynska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3769,7 +3760,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-naruszewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-libman-sokolowska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3778,7 +3769,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-radziwo-zaleska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-naruszewicz/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3787,7 +3778,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-skalski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-radziwo-zaleska/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3796,7 +3787,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-tyce/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-skalski/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3805,7 +3796,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/miroslaw-slusarczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-tyce/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3814,7 +3805,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pawel-kaplanski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/miroslaw-slusarczyk/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3823,7 +3814,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pawel-zarzycki/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pawel-kaplanski/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3832,15 +3823,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/slusarczyk2013prevalence/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/robert-bembenik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pawel-zarzycki/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3849,7 +3832,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/grzywacz2013s32/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/slusarczyk2013prevalence/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3857,31 +3840,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/matsumoto2013s32/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/dblpseriessciwroblewskapbrp13/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/dblpconfhsiwroblewskakzl13/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/teresa-podsiadly-marczykowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/robert-bembenik/</loc>
       <lastmod>2013-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3890,7 +3849,48 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/matkowski2012256/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/grzywacz2013s32/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/matsumoto2013s32/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbrp13/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/dblpconfhsiwroblewskakzl13/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/teresa-podsiadly-marczykowska/</loc>
+      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/matkowski2012256/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3898,7 +3898,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/suzuki2012257/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/suzuki2012257/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3906,7 +3906,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-hirano/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-hirano/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3915,7 +3915,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-wojnar/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-wojnar/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3924,7 +3924,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/b-szynglarewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/b-szynglarewicz/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3933,7 +3933,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/c-kosugi/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/c-kosugi/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3942,7 +3942,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/d-patrzaoek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/d-patrzaoek/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3951,7 +3951,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/dominik-ryzko/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/dominik-ryzko/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3960,7 +3960,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ewa-szczurek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ewa-szczurek/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -3969,7 +3969,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/halon2012her/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/halon2012her/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3977,7 +3977,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/mazanowska2012increased/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/mazanowska2012increased/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -3985,16 +3985,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-kornafel/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/jerzy-tiuryn/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-kornafel/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4003,7 +3994,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/joanna-szczepanska-gieracha/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jerzy-tiuryn/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4012,7 +4003,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/julia-rudno-rudzinska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joanna-szczepanska-gieracha/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4021,7 +4012,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/k-koda/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/julia-rudno-rudzinska/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4030,7 +4021,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-malcher/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/k-koda/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4039,15 +4030,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dblpconfismisprotaziukwbrp12/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/m-klinger/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-malcher/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4056,7 +4039,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-suzuki/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpconfismisprotaziukwbrp12/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/m-klinger/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4065,7 +4056,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-yamazaki/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-suzuki/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4074,7 +4065,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/martin-vingron/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-yamazaki/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4083,23 +4074,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dblpseriessciwroblewskapbpr12/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/dblpconfadbisryzkow12/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/r-shiragami/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/martin-vingron/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4108,7 +4083,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kustrzycki2012risk/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpseriessciwroblewskapbpr12/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4116,25 +4091,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/s-murata/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/t-tezuka/</loc>
-      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/biecek2012r/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpconfadbisryzkow12/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4142,7 +4099,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/wojciech-kielan/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/r-shiragami/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4151,7 +4108,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/wojciech-kustrzycki/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kustrzycki2012risk/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/s-murata/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4160,7 +4125,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/y-yoshimura/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/t-tezuka/</loc>
       <lastmod>2012-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4169,7 +4134,42 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-dziklinska/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2012r/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/wojciech-kielan/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/wojciech-kustrzycki/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/y-yoshimura/</loc>
+      <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/a-dziklinska/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4178,7 +4178,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-kiejna/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-kiejna/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4187,7 +4187,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2011analiza/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2011analiza/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4195,7 +4195,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dojer2011bi/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dojer2011bi/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4203,7 +4203,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/ordak2011biomarkers/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/ordak2011biomarkers/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4211,16 +4211,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/c-dendek/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/d-frydecka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/c-dendek/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4229,7 +4220,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/d-sitkiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/d-frydecka/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4238,15 +4229,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/szczurek2011deregulation/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/dorota-frydecka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/d-sitkiewicz/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4255,7 +4238,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/e-lata/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/szczurek2011deregulation/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/dorota-frydecka/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4264,7 +4255,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/e-wozny/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/e-lata/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4273,15 +4264,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kiejna2011epidemiologia/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/ewelina-lata/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/e-wozny/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4290,7 +4273,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/florian-markowetz/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kiejna2011epidemiologia/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/ewelina-lata/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4299,7 +4290,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/hz-matsumoto/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/florian-markowetz/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4308,7 +4299,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ij-gisterek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/hz-matsumoto/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4317,7 +4308,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/irit-gat-viks/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ij-gisterek/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4326,7 +4317,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/iwona-gisterek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/irit-gat-viks/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4335,7 +4326,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-szelachowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/iwona-gisterek/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4344,7 +4335,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jan-kornafel/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-szelachowska/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4353,7 +4344,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jeff-foran/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jan-kornafel/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4362,7 +4353,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jolanta-szelachowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jeff-foran/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4371,7 +4362,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/justin-lindsey/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jolanta-szelachowska/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4380,7 +4371,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/k-szewczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/justin-lindsey/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4389,15 +4380,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dendek2011large/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/m-klopotek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/k-szewczyk/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4406,7 +4389,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-ordak/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dendek2011large/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/m-klopotek/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4415,7 +4406,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/norbert-dojer/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-ordak/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4424,15 +4415,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/gisterek2011p186/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/pawel-chudzian/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/norbert-dojer/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4441,7 +4424,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pawel-siedlecki/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/gisterek2011p186/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/pawel-chudzian/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4450,7 +4441,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/peter-gee/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pawel-siedlecki/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4459,23 +4450,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/gisterek2011prognostic/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/jonczyk2011rhythmic/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/t-adamowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/peter-gee/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4484,7 +4459,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/kiejna2011epidemiology/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/gisterek2011prognostic/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4492,7 +4467,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2011nz/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/jonczyk2011rhythmic/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4500,16 +4475,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/tomasz-adamowski/</loc>
-      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/u-staszek-szewczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/t-adamowski/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4518,7 +4484,41 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/aleksandra-lacko/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kiejna2011epidemiology/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/biecek2011nz/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/tomasz-adamowski/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/u-staszek-szewczyk/</loc>
+      <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/aleksandra-lacko/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4527,7 +4527,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/gisterek2010correlation/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/gisterek2010correlation/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4535,16 +4535,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/dariusz-patrzalek/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/elzbieta-suder/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/dariusz-patrzalek/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4553,15 +4544,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/szczurek2010introducing/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/jakub-kuzniar/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/elzbieta-suder/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4570,7 +4553,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/krzysztof-szewczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/szczurek2010introducing/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/jakub-kuzniar/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4579,7 +4570,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/malgorzata-zynek-litwin/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/krzysztof-szewczyk/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4588,7 +4579,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marek-pudelko/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/malgorzata-zynek-litwin/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4597,7 +4588,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marian-klinger/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marek-pudelko/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4606,7 +4597,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/mariusz-kusztal/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marian-klinger/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4615,7 +4606,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pawel-sedlaczek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/mariusz-kusztal/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4624,23 +4615,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/zynek2010plasma/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/gisterek2010serum/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/teresa-ledwina/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pawel-sedlaczek/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4649,7 +4624,23 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/urszula-staszek/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/zynek2010plasma/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/gisterek2010serum/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/teresa-ledwina/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4658,7 +4649,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/waclaw-kopec/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/urszula-staszek/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4667,7 +4658,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/zofia-marchewka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/waclaw-kopec/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4676,7 +4667,16 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2010ddst/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/zofia-marchewka/</loc>
+      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/biecek2010ddst/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4684,7 +4684,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/falkiewicz20091/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/falkiewicz20091/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4692,7 +4692,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-milewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-milewicz/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4701,7 +4701,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/agnieszka-laszkiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/agnieszka-laszkiewicz/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4710,7 +4710,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/andrzej-milewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andrzej-milewicz/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4719,7 +4719,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/b-speichert-bidzinska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/b-speichert-bidzinska/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4728,7 +4728,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2009conference/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2009conference/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4736,40 +4736,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/d-janczak/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/magott2009estimated/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/falkiewicz2009evolution/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/laszkiewicz2009evolution/</loc>
-      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/k-falkiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/d-janczak/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4778,7 +4745,31 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/katarzyna-bonkowska/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/magott2009estimated/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/falkiewicz2009evolution/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/laszkiewicz2009evolution/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/k-falkiewicz/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4787,7 +4778,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/krzysztof-falkiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/katarzyna-bonkowska/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4796,7 +4787,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-magott-procelewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/krzysztof-falkiewicz/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4805,7 +4796,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maria-boratynska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-magott-procelewska/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4814,7 +4805,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/slawomir-c-zmonarski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maria-boratynska/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4823,7 +4814,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/stanislaw-cebrat/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/slawomir-c-zmonarski/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4832,7 +4823,16 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/falkiewicz2009evolution1/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/stanislaw-cebrat/</loc>
+      <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/falkiewicz2009evolution1/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4840,7 +4840,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-chiesa/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-chiesa/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4849,7 +4849,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-czajczynska-waszkiewicz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-czajczynska-waszkiewicz/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4858,7 +4858,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-dlugosz/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-dlugosz/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4867,7 +4867,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-lacko/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-lacko/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4876,7 +4876,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-serretti/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-serretti/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4885,7 +4885,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-sieradzki/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-sieradzki/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4894,7 +4894,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/adam-bobrowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/adam-bobrowski/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4903,7 +4903,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/am-christie/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/am-christie/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4912,7 +4912,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/b-szymanska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/b-szymanska/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4921,7 +4921,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/c-longbottom/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/c-longbottom/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4930,7 +4930,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/rymaszewska2008depression/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/rymaszewska2008depression/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4938,7 +4938,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/pitts2008diagnostic/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/pitts2008diagnostic/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -4946,16 +4946,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/dorota-mackiewicz/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/e-trafidlo/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/dorota-mackiewicz/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4964,15 +4955,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/bogdan2008extending/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/florian-frommlet/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/e-trafidlo/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4981,7 +4964,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/i-gisterek/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/bogdan2008extending/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/florian-frommlet/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4990,7 +4981,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-kuzniar/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/i-gisterek/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -4999,7 +4990,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-rymaszewska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-kuzniar/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5008,7 +4999,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jayanta-k-ghosh/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-rymaszewska/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5017,7 +5008,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/joanna-kiraga/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jayanta-k-ghosh/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5026,7 +5017,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/k-dzielak/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/joanna-kiraga/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5035,7 +5026,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/krystian-baczkowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/k-dzielak/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5044,7 +5035,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/krzysztof-trajkowski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/krystian-baczkowski/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5053,15 +5044,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/zynek2008leucocyte/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/m-bebenek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/krzysztof-trajkowski/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5070,7 +5053,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-kusztal/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/zynek2008leucocyte/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/m-bebenek/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5079,7 +5070,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-masalski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-kusztal/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5088,7 +5079,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-pudelko/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-masalski/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5097,7 +5088,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-zynek-litwin/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-pudelko/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5106,7 +5097,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maciej-sobczynski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-zynek-litwin/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5115,7 +5106,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/malgorzata-bogdan/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maciej-sobczynski/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5124,7 +5115,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/marta-zawierta/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/malgorzata-bogdan/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5133,7 +5124,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/n-morawska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/marta-zawierta/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5142,7 +5133,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/nb-pitts/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/n-morawska/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5151,31 +5142,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/zynek2008neutrophils/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/biecek2008przelaj/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/mackiewicz2008optimisation/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/p-los/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/nb-pitts/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5184,7 +5151,31 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/p-sedlaczek/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/zynek2008neutrophils/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/biecek2008przelaj/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/mackiewicz2008optimisation/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/p-los/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5193,23 +5184,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/zawierta2008phase/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/chiesa2008predictors/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/r-calati/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/p-sedlaczek/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5218,7 +5193,23 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/r-wojtynska/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/zawierta2008phase/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/chiesa2008predictors/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/r-calati/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5227,7 +5218,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/rw-doerge/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/r-wojtynska/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5236,23 +5227,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2008relations/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/bonkowska2008relationship/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/riyan-cheng/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/rw-doerge/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5261,7 +5236,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/bobrowski2008stochastic/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2008relations/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5269,7 +5244,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/sieradzki2008sleep/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/bonkowska2008relationship/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5277,16 +5252,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/t-okolow/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/u-staszek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/riyan-cheng/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5295,7 +5261,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/gisterek2008vascular/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/bobrowski2008stochastic/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5303,25 +5269,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/w-kopec/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/sieradzki2008sleep/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>http://localhost:1313/authors/w-kustrzycki/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/w-weyde/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/t-okolow/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5330,15 +5286,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2008chromosome/</loc>
-      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/wojciech-waga/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/u-staszek/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5347,7 +5295,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/z-marchewka/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/gisterek2008vascular/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/w-kopec/</loc>
       <lastmod>2008-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5356,7 +5312,51 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-sen/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/w-kustrzycki/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/w-weyde/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/biecek2008chromosome/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/wojciech-waga/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/z-marchewka/</loc>
+      <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/a-sen/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5365,7 +5365,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/af-hall/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/af-hall/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5374,7 +5374,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ak-bothra/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ak-bothra/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5383,7 +5383,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/los2007ac/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/los2007ac/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5391,7 +5391,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/sur2007analysis/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/sur2007analysis/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5399,16 +5399,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/andreas-baierl/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/andreas-futschik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andreas-baierl/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5417,15 +5408,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/bagnato2007arweiler/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/cs-chang/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/andreas-futschik/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5434,7 +5417,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/e-rocha/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/bagnato2007arweiler/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/cs-chang/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5443,7 +5434,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/g-sen/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/e-rocha/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5452,7 +5443,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jc-chazel/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/g-sen/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5461,7 +5452,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/k-subbarao/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jc-chazel/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5470,7 +5461,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/kamila-smolarczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/k-subbarao/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5479,7 +5470,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/l-chen/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/kamila-smolarczyk/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5488,7 +5479,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ls-cavassan/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/l-chen/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5497,15 +5488,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/baierl2007locating/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/m-bailly-bechet/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ls-cavassan/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5514,7 +5497,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-vergassola/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/baierl2007locating/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/m-bailly-bechet/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5523,7 +5514,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/ms-cenci/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-vergassola/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5532,7 +5523,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/maria-kowalczuk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/ms-cenci/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5541,7 +5532,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/mateusz-kula/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/maria-kowalczuk/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5550,7 +5541,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/miroslaw-r-dudek/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/mateusz-kula/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5559,15 +5550,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2007multiple/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/nj-cox/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/miroslaw-r-dudek/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5576,7 +5559,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/natalia-polak/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2007multiple/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/nj-cox/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5585,15 +5576,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/cebrat2007pandemics/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/ra-ccahuana-vasquez/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/natalia-polak/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5602,7 +5585,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/rv-cerezetti/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/cebrat2007pandemics/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/ra-ccahuana-vasquez/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5611,7 +5602,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/s-sur/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/rv-cerezetti/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5620,7 +5611,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/s-thakur/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/s-sur/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5629,7 +5620,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/se-chigarina/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/s-thakur/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5638,31 +5629,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2007testowanie/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/kiraga2007relationships/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/zawierta2007role/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/vs-bagnato/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/se-chigarina/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5671,7 +5638,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/cebrat2007white/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2007testowanie/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5679,7 +5646,23 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/z-cheaib/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/kiraga2007relationships/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/publication/zawierta2007role/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/vs-bagnato/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5688,7 +5671,24 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/aleksandra-slusarczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/cebrat2007white/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/z-cheaib/</loc>
+      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/aleksandra-slusarczyk/</loc>
       <lastmod>2006-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5697,7 +5697,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/aurelia-walczak-drzewiecka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/aurelia-walczak-drzewiecka/</loc>
       <lastmod>2006-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5706,7 +5706,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2006fluctuations/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2006fluctuations/</loc>
       <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5714,7 +5714,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/wagner2006fluorescent/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/wagner2006fluorescent/</loc>
       <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5722,7 +5722,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2006immunity/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2006immunity/</loc>
       <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5730,16 +5730,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jaroslaw-dastych/</loc>
-      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/leszek-rychlewski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jaroslaw-dastych/</loc>
       <lastmod>2006-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5748,7 +5739,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/waldemar-wagner/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/leszek-rychlewski/</loc>
       <lastmod>2006-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5757,7 +5748,16 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-baierl/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/waldemar-wagner/</loc>
+      <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/a-baierl/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5766,7 +5766,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-futschik/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-futschik/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5775,7 +5775,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-slusarczyk/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-slusarczyk/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5784,7 +5784,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-walczak-drzewiecka/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-walczak-drzewiecka/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5793,7 +5793,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/f-frommlet/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/f-frommlet/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5802,7 +5802,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-dastych/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-dastych/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5811,7 +5811,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-ghosh/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-ghosh/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5820,7 +5820,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/j-wyczolkowska/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/j-wyczolkowska/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5829,7 +5829,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jk-ghosh/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jk-ghosh/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5838,7 +5838,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/l-rychlewski/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/l-rychlewski/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5847,7 +5847,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2005locating/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2005locating/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5855,24 +5855,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/m-bogdan/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/publication/bogdan2005modified/</loc>
-      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/r-doerge/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/m-bogdan/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5881,7 +5864,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/wagner2005fluorescent/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/bogdan2005modified/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5889,7 +5872,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/w-wagner/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/r-doerge/</loc>
       <lastmod>2005-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5898,7 +5881,24 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/artur-przelaskowski/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/wagner2005fluorescent/</loc>
+      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/w-wagner/</loc>
+      <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/authors/artur-przelaskowski/</loc>
       <lastmod>2004-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5907,7 +5907,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pawel-bargiel/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pawel-bargiel/</loc>
       <lastmod>2004-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5916,7 +5916,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/dblpconficcvgbargielpw04/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/dblpconficcvgbargielpw04/</loc>
       <lastmod>2004-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5924,7 +5924,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2003interfejs/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2003interfejs/</loc>
       <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5932,7 +5932,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/biecek2003zastosowanie/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/biecek2003zastosowanie/</loc>
       <lastmod>2003-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5940,7 +5940,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/zbigniew-huzar/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/zbigniew-huzar/</loc>
       <lastmod>2003-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5949,7 +5949,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/a-ikeya/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/a-ikeya/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5958,7 +5958,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/publication/eggert1999carbotte/</loc>
+      <loc>https://mi2-warsaw.github.io/publication/eggert1999carbotte/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -5966,16 +5966,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/d-einzel/</loc>
-      <lastmod>1999-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/authors/jh-eggert/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/d-einzel/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5984,7 +5975,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/jl-feldman/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jh-eggert/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -5993,7 +5984,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/nn-galtsov/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/jl-feldman/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6002,7 +5993,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/p-esquinazi/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/nn-galtsov/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6011,7 +6002,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/pc-hendry/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/p-esquinazi/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6020,7 +6011,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/rj-hemley/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/pc-hendry/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6029,7 +6020,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/s-flaschin/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/rj-hemley/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6038,7 +6029,7 @@
     
     <url>
     
-      <loc>http://localhost:1313/authors/tl-ho/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/s-flaschin/</loc>
       <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -6047,14 +6038,8 @@
     
     <url>
     
-      <loc>http://localhost:1313/author/admin/not_index/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://localhost:1313/author/</loc>
+      <loc>https://mi2-warsaw.github.io/authors/tl-ho/</loc>
+      <lastmod>1999-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -6062,7 +6047,14 @@
     
     <url>
     
-      <loc>http://localhost:1313/categories/</loc>
+      <loc>https://mi2-warsaw.github.io/author/admin/not_index/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/author/</loc>
       <priority>0</priority>
     </url>
     
@@ -6070,7 +6062,15 @@
     
     <url>
     
-      <loc>http://localhost:1313/talk/</loc>
+      <loc>https://mi2-warsaw.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://mi2-warsaw.github.io/talk/</loc>
     </url>
     
   

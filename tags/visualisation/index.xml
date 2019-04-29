@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>visualisation on MI2 DataLab</title>
-    <link>http://localhost:1313/tags/visualisation/</link>
+    <link>https://mi2-warsaw.github.io/tags/visualisation/</link>
     <description>Recent content in visualisation on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Apr 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/visualisation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/tags/visualisation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tomasz Mikołajczyk</title>
-      <link>http://localhost:1313/member/tomaszmikolajczyk/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      <link>https://mi2-warsaw.github.io/member/tomaszmikolajczyk/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/tomaszmikolajczyk/</guid>
-      <description>PhD</description>
+      <guid>https://mi2-warsaw.github.io/member/tomaszmikolajczyk/</guid>
+      <description>Data Science, PhD</description>
     </item>
     
   </channel>

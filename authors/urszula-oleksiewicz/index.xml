@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urszula Oleksiewicz on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/urszula-oleksiewicz/</link>
+    <link>https://mi2-warsaw.github.io/authors/urszula-oleksiewicz/</link>
     <description>Recent content in Urszula Oleksiewicz on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/urszula-oleksiewicz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/urszula-oleksiewicz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The expression signature of cancer‐associated KRAB‐ZNF factors identified in TCGA pan‐cancer transcriptomic data</title>
-      <link>http://localhost:1313/publication/gladych2018expression/</link>
+      <link>https://mi2-warsaw.github.io/publication/gladych2018expression/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/gladych2018expression/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/gladych2018expression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TRIM28 and interacting KRAB-ZNFs control self-renewal of human pluripotent stem cells through epigenetic repression of pro-differentiation genes</title>
-      <link>http://localhost:1313/publication/oleksiewicz2017trim28/</link>
+      <link>https://mi2-warsaw.github.io/publication/oleksiewicz2017trim28/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/oleksiewicz2017trim28/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/oleksiewicz2017trim28/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agnieszka Sitko on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/agnieszka-sitko/</link>
+    <link>https://mi2-warsaw.github.io/authors/agnieszka-sitko/</link>
     <description>Recent content in Agnieszka Sitko on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/agnieszka-sitko/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/agnieszka-sitko/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Merging Path Plot: adaptive fusing of k-groups with likelihood-based model selection</title>
-      <link>http://localhost:1313/publication/sitko2017merging/</link>
+      <link>https://mi2-warsaw.github.io/publication/sitko2017merging/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/sitko2017merging/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/sitko2017merging/</guid>
       <description></description>
     </item>
     

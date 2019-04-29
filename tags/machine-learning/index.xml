@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine-learning on MI2 DataLab</title>
-    <link>http://localhost:1313/tags/machine-learning/</link>
+    <link>https://mi2-warsaw.github.io/tags/machine-learning/</link>
     <description>Recent content in machine-learning on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 07 Apr 2018 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Tomasz Mikołajczyk</title>
+      <link>https://mi2-warsaw.github.io/member/tomaszmikolajczyk/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/tomaszmikolajczyk/</guid>
+      <description>Data Science, PhD</description>
+    </item>
+    
+    <item>
       <title>Katarzyna Kobylińska</title>
-      <link>http://localhost:1313/member/katarzynakobylinska/</link>
+      <link>https://mi2-warsaw.github.io/member/katarzynakobylinska/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/katarzynakobylinska/</guid>
-      <description>PhD student</description>
+      <guid>https://mi2-warsaw.github.io/member/katarzynakobylinska/</guid>
+      <description>Biostatistics, PhD student</description>
     </item>
     
     <item>
       <title>Maciej Masiak</title>
-      <link>http://localhost:1313/member/maciejmasiak/</link>
+      <link>https://mi2-warsaw.github.io/member/maciejmasiak/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/maciejmasiak/</guid>
-      <description>PhD student</description>
+      <guid>https://mi2-warsaw.github.io/member/maciejmasiak/</guid>
+      <description>Applications, PhD student</description>
     </item>
     
     <item>
       <title>Mateusz Staniak</title>
-      <link>http://localhost:1313/member/mateuszstaniak/</link>
+      <link>https://mi2-warsaw.github.io/member/mateuszstaniak/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/mateuszstaniak/</guid>
-      <description>PhD student</description>
+      <guid>https://mi2-warsaw.github.io/member/mateuszstaniak/</guid>
+      <description>Automated exploratory data analysis, Interpretable machine learning, PhD student</description>
     </item>
     
     <item>
       <title>Michal Kuźba</title>
-      <link>http://localhost:1313/member/michalkuzba/</link>
+      <link>https://mi2-warsaw.github.io/member/michalkuzba/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/michalkuzba/</guid>
-      <description>Group member, master&amp;rsquo;s student</description>
-    </item>
-    
-    <item>
-      <title>Tomasz Mikołajczyk</title>
-      <link>http://localhost:1313/member/tomaszmikolajczyk/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/member/tomaszmikolajczyk/</guid>
-      <description>PhD</description>
+      <guid>https://mi2-warsaw.github.io/member/michalkuzba/</guid>
+      <description>Chatbots for interpretable machine learning, master&amp;rsquo;s student</description>
     </item>
     
     <item>
       <title>Tomasz Stanisławek</title>
-      <link>http://localhost:1313/member/tomaszstanislawek/</link>
+      <link>https://mi2-warsaw.github.io/member/tomaszstanislawek/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/tomaszstanislawek/</guid>
-      <description>PhD student</description>
+      <guid>https://mi2-warsaw.github.io/member/tomaszstanislawek/</guid>
+      <description>Text and Image Processing, PhD student</description>
     </item>
     
   </channel>

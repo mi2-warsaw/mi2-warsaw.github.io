@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malgorzata Pieniazek on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/malgorzata-pieniazek/</link>
+    <link>https://mi2-warsaw.github.io/authors/malgorzata-pieniazek/</link>
     <description>Recent content in Malgorzata Pieniazek on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/malgorzata-pieniazek/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/malgorzata-pieniazek/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SMAD7 is a novel independent predictor of survival in patients with cutaneous melanoma</title>
-      <link>http://localhost:1313/publication/kaczorowski2019smad7/</link>
+      <link>https://mi2-warsaw.github.io/publication/kaczorowski2019smad7/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/kaczorowski2019smad7/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/kaczorowski2019smad7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased SMAD7 expression is associated with tumor aggressiveness and independently predicts poor survival in cutaneous melanoma patients</title>
-      <link>http://localhost:1313/publication/kaczorowski2018increased/</link>
+      <link>https://mi2-warsaw.github.io/publication/kaczorowski2018increased/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/kaczorowski2018increased/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/kaczorowski2018increased/</guid>
       <description></description>
     </item>
     

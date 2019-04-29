@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcin Kosinski on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/marcin-kosinski/</link>
+    <link>https://mi2-warsaw.github.io/authors/marcin-kosinski/</link>
     <description>Recent content in Marcin Kosinski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/marcin-kosinski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/marcin-kosinski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference Report: European R Users Meeting 2016</title>
-      <link>http://localhost:1313/publication/beresewicz2017conference/</link>
+      <link>https://mi2-warsaw.github.io/publication/beresewicz2017conference/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/beresewicz2017conference/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/beresewicz2017conference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Molecular chaperones in the acquisition of cancer cell chemoresistance with mutated TP53 and MDM2 up-regulation</title>
-      <link>http://localhost:1313/publication/tracz2017molecular/</link>
+      <link>https://mi2-warsaw.github.io/publication/tracz2017molecular/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/tracz2017molecular/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/tracz2017molecular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Package ‘survminer’</title>
-      <link>http://localhost:1313/publication/kassambara2017package/</link>
+      <link>https://mi2-warsaw.github.io/publication/kassambara2017package/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/kassambara2017package/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/kassambara2017package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>archivist: An R package for managing, recording and restoring data analysis results</title>
-      <link>http://localhost:1313/publication/biecek2017archivist/</link>
+      <link>https://mi2-warsaw.github.io/publication/biecek2017archivist/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/biecek2017archivist/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/biecek2017archivist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Package ‘RTCGA’</title>
-      <link>http://localhost:1313/publication/kosinski2016package/</link>
+      <link>https://mi2-warsaw.github.io/publication/kosinski2016package/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/kosinski2016package/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/kosinski2016package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RTCGA: The cancer genome atlas data integration</title>
-      <link>http://localhost:1313/publication/kosinski2016rtcga/</link>
+      <link>https://mi2-warsaw.github.io/publication/kosinski2016rtcga/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/kosinski2016rtcga/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/kosinski2016rtcga/</guid>
       <description></description>
     </item>
     

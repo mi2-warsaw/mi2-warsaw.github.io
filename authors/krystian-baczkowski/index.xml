@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krystian Baczkowski on MI2 DataLab</title>
-    <link>http://localhost:1313/authors/krystian-baczkowski/</link>
+    <link>https://mi2-warsaw.github.io/authors/krystian-baczkowski/</link>
     <description>Recent content in Krystian Baczkowski on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/authors/krystian-baczkowski/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/authors/krystian-baczkowski/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optimisation of asymmetric mutational pressure and selection pressure around the universal genetic code</title>
-      <link>http://localhost:1313/publication/mackiewicz2008optimisation/</link>
+      <link>https://mi2-warsaw.github.io/publication/mackiewicz2008optimisation/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/publication/mackiewicz2008optimisation/</guid>
+      <guid>https://mi2-warsaw.github.io/publication/mackiewicz2008optimisation/</guid>
       <description></description>
     </item>
     

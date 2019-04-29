@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on MI2 DataLab</title>
-    <link>http://localhost:1313/member/</link>
+    <link>https://mi2-warsaw.github.io/member/</link>
     <description>Recent content in Members on MI2 DataLab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/member/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mi2-warsaw.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Przemysław Biecek</title>
-      <link>http://localhost:1313/member/przemyslawbiecek/</link>
+      <link>https://mi2-warsaw.github.io/member/przemyslawbiecek/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
-      <guid>http://localhost:1313/member/przemyslawbiecek/</guid>
-      <description>Group leader</description>
+      <guid>https://mi2-warsaw.github.io/member/przemyslawbiecek/</guid>
+      <description>Artificial Intelligence, PhD, Principal Data Scientist @ Samsung R&amp;amp;D Poland</description>
     </item>
     
     <item>
       <title>Anna Wróblewska</title>
-      <link>http://localhost:1313/member/annawr%C3%B3blewska/</link>
+      <link>https://mi2-warsaw.github.io/member/annawroblewska/</link>
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/annawr%C3%B3blewska/</guid>
-      <description>Group member, PhD, Senior Data Scientist @ Applica.ai</description>
-    </item>
-    
-    <item>
-      <title>Alicja Gosiewska</title>
-      <link>http://localhost:1313/member/alicjagosiewska/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/member/alicjagosiewska/</guid>
-      <description>PhD student</description>
-    </item>
-    
-    <item>
-      <title>Hubert Baniecki</title>
-      <link>http://localhost:1313/member/hubertbaniecki/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/member/hubertbaniecki/</guid>
-      <description>Group member, BS student</description>
-    </item>
-    
-    <item>
-      <title>Katarzyna Kobylińska</title>
-      <link>http://localhost:1313/member/katarzynakobylinska/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/member/katarzynakobylinska/</guid>
-      <description>PhD student</description>
-    </item>
-    
-    <item>
-      <title>Maciej Masiak</title>
-      <link>http://localhost:1313/member/maciejmasiak/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/member/maciejmasiak/</guid>
-      <description>PhD student</description>
-    </item>
-    
-    <item>
-      <title>Mateusz Staniak</title>
-      <link>http://localhost:1313/member/mateuszstaniak/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/member/mateuszstaniak/</guid>
-      <description>PhD student</description>
-    </item>
-    
-    <item>
-      <title>Michal Kuźba</title>
-      <link>http://localhost:1313/member/michalkuzba/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/member/michalkuzba/</guid>
-      <description>Group member, master&amp;rsquo;s student</description>
-    </item>
-    
-    <item>
-      <title>Michał Burdukiewicz</title>
-      <link>http://localhost:1313/member/michalburdukiewicz/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://localhost:1313/member/michalburdukiewicz/</guid>
-      <description>Group member, PhD</description>
+      <guid>https://mi2-warsaw.github.io/member/annawroblewska/</guid>
+      <description>Text and Image Processing, PhD, Senior Data Scientist @ Applica.ai</description>
     </item>
     
     <item>
       <title>Tomasz Mikołajczyk</title>
-      <link>http://localhost:1313/member/tomaszmikolajczyk/</link>
+      <link>https://mi2-warsaw.github.io/member/tomaszmikolajczyk/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/tomaszmikolajczyk/</guid>
+      <description>Data Science, PhD</description>
+    </item>
+    
+    <item>
+      <title>Michał Burdukiewicz</title>
+      <link>https://mi2-warsaw.github.io/member/michalburdukiewicz/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/michalburdukiewicz/</guid>
+      <description>Bioinformatics, PhD</description>
+    </item>
+    
+    <item>
+      <title>Alicja Gosiewska</title>
+      <link>https://mi2-warsaw.github.io/member/alicjagosiewska/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/tomaszmikolajczyk/</guid>
-      <description>PhD</description>
+      <guid>https://mi2-warsaw.github.io/member/alicjagosiewska/</guid>
+      <description>Explainable artificial intelligence, Auto machine learning, PhD student</description>
+    </item>
+    
+    <item>
+      <title>Hubert Baniecki</title>
+      <link>https://mi2-warsaw.github.io/member/hubertbaniecki/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/hubertbaniecki/</guid>
+      <description>Interactive machine learning explainers, BS student</description>
+    </item>
+    
+    <item>
+      <title>Katarzyna Kobylińska</title>
+      <link>https://mi2-warsaw.github.io/member/katarzynakobylinska/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/katarzynakobylinska/</guid>
+      <description>Biostatistics, PhD student</description>
+    </item>
+    
+    <item>
+      <title>Maciej Masiak</title>
+      <link>https://mi2-warsaw.github.io/member/maciejmasiak/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/maciejmasiak/</guid>
+      <description>Applications, PhD student</description>
+    </item>
+    
+    <item>
+      <title>Mateusz Staniak</title>
+      <link>https://mi2-warsaw.github.io/member/mateuszstaniak/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/mateuszstaniak/</guid>
+      <description>Automated exploratory data analysis, Interpretable machine learning, PhD student</description>
+    </item>
+    
+    <item>
+      <title>Michal Kuźba</title>
+      <link>https://mi2-warsaw.github.io/member/michalkuzba/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/michalkuzba/</guid>
+      <description>Chatbots for interpretable machine learning, master&amp;rsquo;s student</description>
     </item>
     
     <item>
       <title>Tomasz Stanisławek</title>
-      <link>http://localhost:1313/member/tomaszstanislawek/</link>
+      <link>https://mi2-warsaw.github.io/member/tomaszstanislawek/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://localhost:1313/member/tomaszstanislawek/</guid>
-      <description>PhD student</description>
+      <guid>https://mi2-warsaw.github.io/member/tomaszstanislawek/</guid>
+      <description>Text and Image Processing, PhD student</description>
     </item>
     
   </channel>
