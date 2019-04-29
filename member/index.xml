@@ -17,8 +17,7 @@
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
       
       <guid>http://localhost:1313/member/przemyslawbiecek/</guid>
-      <description>I work as associate professor MiNI@Warsaw University of Technology and assistant professor MIM@Univeristy of Warsaw. My background is in mathematical statistics PAM@WUST and software engineering CSM@WUST.
-I am interested in predictive modelling of large and complex data, data visualisation and model interpretability. Research activities are mainly focused on high-throughput genetic profiling in oncology. Also I’m interested in evidence based education, evidence based medicine, general machine learning and statistical software engineering (an R enthusiast).</description>
+      <description>Group leader</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@ I am interested in predictive modelling of large and complex data, data visualis
       <pubDate>Mon, 09 Apr 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/annawr%C3%B3blewska/</guid>
-      <description>Anna Wróblewska is an assistant professor at Warsaw University of Technology. She has years of experience in the design of intelligent systems and description of semantic data acquired in a commercial and scientific environment. She is also a senior data scientist at Applica.ai, in charge of several R&amp;amp;D projects about text-mining, image recognition, and model diagnostics and interpretability.
-Previously she worked at Allegro, the biggest e-commerce marketplace portal in Eastern Europe, where she dealt with the intelligent methods of data analysis.</description>
+      <description>Group member, PhD, Senior Data Scientist @ Applica.ai</description>
     </item>
     
     <item>
@@ -37,8 +35,7 @@ Previously she worked at Allegro, the biggest e-commerce marketplace portal in E
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/alicjagosiewska/</guid>
-      <description>PhD student in Computer Science, keen on machine learning and its applications. Currently, I am interested in Interpretable Machine Learning (IML), Automated Machine Learning (AutoML), and auditability of predictive models.
-Alicja Gosiewska&amp;rsquo;s publications.</description>
+      <description>PhD student</description>
     </item>
     
     <item>
@@ -47,7 +44,7 @@ Alicja Gosiewska&amp;rsquo;s publications.</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/hubertbaniecki/</guid>
-      <description>Bachelor&amp;rsquo;s student in Data Science. I am interested in Data Visualization and XAI.</description>
+      <description>Group member, BS student</description>
     </item>
     
     <item>
@@ -56,7 +53,7 @@ Alicja Gosiewska&amp;rsquo;s publications.</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/katarzynakobylinska/</guid>
-      <description>About</description>
+      <description>PhD student</description>
     </item>
     
     <item>
@@ -65,7 +62,7 @@ Alicja Gosiewska&amp;rsquo;s publications.</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/maciejmasiak/</guid>
-      <description>About</description>
+      <description>PhD student</description>
     </item>
     
     <item>
@@ -74,7 +71,7 @@ Alicja Gosiewska&amp;rsquo;s publications.</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/mateuszstaniak/</guid>
-      <description>PhD candidate in (Interpretable) Machine Learning. I am interested in local explanations of machine learning models, automated Exploratory Data Analysis and applications of Stats&amp;amp;ML in medicine and proteomics.</description>
+      <description>PhD student</description>
     </item>
     
     <item>
@@ -83,7 +80,7 @@ Alicja Gosiewska&amp;rsquo;s publications.</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/michalkuzba/</guid>
-      <description>I am a master&amp;rsquo;s student interested in Data Science, Machine Learning and NLP.</description>
+      <description>Group member, master&amp;rsquo;s student</description>
     </item>
     
     <item>
@@ -92,8 +89,7 @@ Alicja Gosiewska&amp;rsquo;s publications.</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/michalburdukiewicz/</guid>
-      <description>Bioinformatician, an avid R enthusiast and a proud father of two.
-Michal Burdukiewicz&amp;rsquo;s publications .</description>
+      <description>Group member, PhD</description>
     </item>
     
     <item>
@@ -102,7 +98,7 @@ Michal Burdukiewicz&amp;rsquo;s publications .</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/tomaszmikolajczyk/</guid>
-      <description>About</description>
+      <description>PhD</description>
     </item>
     
     <item>
@@ -111,7 +107,7 @@ Michal Burdukiewicz&amp;rsquo;s publications .</description>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>http://localhost:1313/member/tomaszstanislawek/</guid>
-      <description>About</description>
+      <description>PhD student</description>
     </item>
     
   </channel>
