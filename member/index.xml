@@ -51,9 +51,27 @@ Michal Burdukiewicz&amp;rsquo;s publications .</description>
     </item>
     
     <item>
+      <title>Dominika Basaj</title>
+      <link>https://mi2-warsaw.github.io/member/dominikbasaj/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/dominikbasaj/</guid>
+      <description>Dominika Basaj&amp;rsquo;s publications.</description>
+    </item>
+    
+    <item>
+      <title>Piotr Czarnecki</title>
+      <link>https://mi2-warsaw.github.io/member/piotrczarnecki/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/piotrczarnecki/</guid>
+      <description>Piotr Czarnecki&amp;rsquo;s publications .</description>
+    </item>
+    
+    <item>
       <title>Alicja Gosiewska</title>
       <link>https://mi2-warsaw.github.io/member/alicjagosiewska/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>https://mi2-warsaw.github.io/member/alicjagosiewska/</guid>
       <description>PhD student in Computer Science, keen on machine learning and its applications. Currently, I am interested in Interpretable Machine Learning (IML), Automated Machine Learning (AutoML), and auditability of predictive models.
@@ -61,58 +79,75 @@ Alicja Gosiewska&amp;rsquo;s publications.</description>
     </item>
     
     <item>
-      <title>Hubert Baniecki</title>
-      <link>https://mi2-warsaw.github.io/member/hubertbaniecki/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://mi2-warsaw.github.io/member/hubertbaniecki/</guid>
-      <description>Bachelor&amp;rsquo;s student in Data Science. I am interested in Data Visualization and XAI.</description>
-    </item>
-    
-    <item>
       <title>Katarzyna Kobylińska</title>
       <link>https://mi2-warsaw.github.io/member/katarzynakobylinska/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0200</pubDate>
       
       <guid>https://mi2-warsaw.github.io/member/katarzynakobylinska/</guid>
       <description>About</description>
     </item>
     
     <item>
-      <title>Maciej Masiak</title>
-      <link>https://mi2-warsaw.github.io/member/maciejmasiak/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      <title>Tomasz Stanisławek</title>
+      <link>https://mi2-warsaw.github.io/member/tomaszstanislawek/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/member/maciejmasiak/</guid>
+      <guid>https://mi2-warsaw.github.io/member/tomaszstanislawek/</guid>
       <description>About</description>
     </item>
     
     <item>
-      <title>Mateusz Staniak</title>
-      <link>https://mi2-warsaw.github.io/member/mateuszstaniak/</link>
+      <title>Katarzyna Woznica</title>
+      <link>https://mi2-warsaw.github.io/member/katarzynawoznica/</link>
       <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/member/mateuszstaniak/</guid>
-      <description>PhD candidate in (Interpretable) Machine Learning. I am interested in local explanations of machine learning models, automated Exploratory Data Analysis and applications of Stats&amp;amp;ML in medicine and proteomics.
-Mateusz Staniak&amp;rsquo;s publications .</description>
+      <guid>https://mi2-warsaw.github.io/member/katarzynawoznica/</guid>
+      <description>Katarzyna Woznica&amp;rsquo;s publications .</description>
+    </item>
+    
+    <item>
+      <title>Anna Kozak</title>
+      <link>https://mi2-warsaw.github.io/member/annakozak/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/annakozak/</guid>
+      <description>Anna Kozak&amp;rsquo;s publications .</description>
     </item>
     
     <item>
       <title>Michal Kuźba</title>
       <link>https://mi2-warsaw.github.io/member/michalkuzba/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0100</pubDate>
       
       <guid>https://mi2-warsaw.github.io/member/michalkuzba/</guid>
       <description>I am a master&amp;rsquo;s student interested in Data Science, Machine Learning and NLP.</description>
     </item>
     
     <item>
-      <title>Tomasz Stanisławek</title>
-      <link>https://mi2-warsaw.github.io/member/tomaszstanislawek/</link>
-      <pubDate>Mon, 26 Mar 2018 00:00:00 +0200</pubDate>
+      <title>Hubert Baniecki</title>
+      <link>https://mi2-warsaw.github.io/member/hubertbaniecki/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mi2-warsaw.github.io/member/tomaszstanislawek/</guid>
-      <description>About</description>
+      <guid>https://mi2-warsaw.github.io/member/hubertbaniecki/</guid>
+      <description>Bachelor&amp;rsquo;s student in Data Science. I am interested in Data Visualization and XAI.</description>
+    </item>
+    
+    <item>
+      <title>Wojciech Kretowicz</title>
+      <link>https://mi2-warsaw.github.io/member/wojciechkretowicz/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/wojciechkretowicz/</guid>
+      <description>Wojciech Kretowicz&amp;rsquo;s publications .</description>
+    </item>
+    
+    <item>
+      <title>Szymon Maksymiuk</title>
+      <link>https://mi2-warsaw.github.io/member/szymonmaksymiuk/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://mi2-warsaw.github.io/member/szymonmaksymiuk/</guid>
+      <description>Szymon Maksymiuk&amp;rsquo;s publications .</description>
     </item>
     
   </channel>
